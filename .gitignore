@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# Obsidian per-machine state
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/graph.json
+
+# iCloud placeholders
+*.icloud

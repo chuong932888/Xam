@@ -1,0 +1,1388 @@
+HỆ THỐNG IPS (INTERNET POWER SYSTEM) – 19 CÔNG VIỆC TỔNG HỢP
+===============================================================
+
+PHẦN MỞ ĐẦU – CẤU TRÚC NỘI DUNG CÁC NỀN TẢNG (KIM CHỈ NAM)
+===============================================================
+
+VIDEO DÀI (YouTube)
+7 phần: Hook nhận thức → Đặt bối cảnh → Phân tích nguyên nhân gốc → Nội dung lõi (3–5 ý, đổi cách nghĩ chứ không dạy chi tiết) → Tổng hợp chuyển tầng → Mở giải pháp (không bán gấp) → CTA giữ kết nối.
+Sau đăng: Ghim bình luận, dùng video làm trục nội dung cho blog/email/video ngắn.
+
+VIDEO NGẮN (TikTok/Shorts)
+- 3 giây đầu: Hook đánh vào nỗi đau
+- 10–40 giây: Kích hoạt nhận thức, nói cụ thể, không dạy đủ
+- 5–10 giây cuối: Dẫn hướng sang kênh khác
+Không bán, không chốt.
+
+BÀI VIẾT DÀI (Facebook)
+Hook mềm → Kể chuyện/trải nghiệm thật → Khoảnh khắc nhận ra → Mở rộng liên hệ người đọc → Chia sẻ nguyên tắc sống → Kết nối gợi mở (không bán). Bình luận ghim dẫn sang YouTube/blog.
+
+BÀI BLOG
+Trả lời 4 câu hỏi trước khi viết: khách gõ gì, kẹt ở đâu, bài giúp hiểu gì, bước tiếp theo là gì.
+10 phần: Tiêu đề đúng từ khóa → Mở bài đặt vấn đề → Bối cảnh → Nguyên nhân gốc → Sửa nhận thức → Khung giải pháp → Case thực tế → Sai lầm cần tránh → Kết luận & CTA nhẹ → Tối ưu SEO.
+
+THREADS (3 câu)
+- Câu 1: Khẳng định/phản biện hook tư duy
+- Câu 2: Giải thích ngắn (why)
+- Câu 3: Kết luận đinh (takeaway)
+
+INSTAGRAM (3 bài/ngày)
+- Sáng: Ảnh + chữ (nhận diện tư duy, không CTA)
+- Trưa: Video <10s (làm quen, tăng tin)
+- Tối: Video/ảnh nhẹ + CTA duy nhất dẫn kênh sâu
+Nguyên tắc vàng: 1 ngày = 1 ý tư duy, 3 bài = 3 góc nhìn của cùng 1 ý.
+
+===============================================================
+CÔNG VIỆC 1 – HỒ SƠ KHÁCH HÀNG (HSKH)
+===============================================================
+
+LÀ GÌ
+Xác định nhóm khách tiềm năng và xây Hồ sơ khách hàng (Customer Value Canvas) gồm 3 vùng:
+- Công việc họ cần làm (Functional – Personal – Social – Support)
+- Nỗi đau họ muốn tránh
+- Sự sung sướng/Kết quả họ muốn đạt
+Bổ sung: Nhân khẩu học (tuổi, giới tính, thu nhập, nghề nghiệp), Hành vi (mua hàng, online, thói quen tiêu dùng), Sở thích.
+
+TẠI SAO
+Không có HSKH thì mọi thứ phía sau đều "đoán". Đây là nền móng của toàn bộ IPS – từ từ khóa, video, trang bán, email đều phụ thuộc vào nó.
+
+LÀM THẾ NÀO
+1. Chọn 1 nhóm khách cụ thể
+2. Điền "Công việc họ cần làm" (4 loại)
+3. Điền "Nỗi đau" – viết nguyên bản cảm xúc
+4. Điền "Sự sung sướng" – kết nối khát vọng
+5. Kết nối 3 vùng với nhau
+6. Chuẩn hóa thành hồ sơ trả lời được 5 câu: kẹt ở đâu / sợ gì / muốn trở thành ai / tìm giải pháp thế nào / muốn nghe gì
+7. Dùng AI hỗ trợ, không thay tư duy
+
+TRỰC QUAN HÓA
+- In bảng A0, chia 3 vùng Jobs – Pain – Gain
+- Dán note để cập nhật liên tục trong phòng kinh doanh
+
+WIG (Mục tiêu quan trọng tối thượng)
+Loại: Lead Measure
+- Hoàn thành tối thiểu 3 chân dung khách hàng chi tiết trong 7 ngày
+
+KPI
+- Số hồ sơ khách hàng hoàn thành
+- Số insight (nỗi đau + mong muốn) được xác định
+- Mức độ rõ ràng (có thể dùng để viết nội dung ngay)
+
+DMO (Công việc hàng ngày)
+- Nghiên cứu 1 nhóm khách hàng/ngày
+- Viết ít nhất 10 insight/ngày
+- Phỏng vấn hoặc đọc 5 nguồn dữ liệu/ngày (group, comment, forum)
+
+CHECKLIST
+- Xác định độ tuổi, nghề nghiệp
+- Viết 10 "công việc họ cần làm"
+- Viết 10 "nỗi đau"
+- Viết 10 "mong muốn"
+- Kiểm tra liên quan đến sản phẩm
+- Cập nhật vào bảng A0
+
+CÔNG CỤ
+ChatGPT / LonGPT Hồ Sơ Khách Hàng, Facebook Group, Google Sheet, Miro / FigJam
+
+NHÂN SỰ
+Vị trí: Customer Research / Marketing Insight
+Yêu cầu: Đọc hành vi khách hàng, kỹ năng research tốt, viết & tổng hợp rõ ràng, hiểu tâm lý
+
+KHÓA HỌC
+- Xây dựng thương hiệu trên Internet – Phạm Thành Long
+- Ultimate Livestream
+
+DẤU HIỆU ĐÚNG
+Khách nói "anh/chị nói đúng cái em đang nghĩ."
+Đây là bước quan trọng NHẤT của toàn bộ hệ thống IPS.
+
+===============================================================
+CÔNG VIỆC 2 – TÌM KIẾM TỪ KHÓA
+===============================================================
+
+LÀ GÌ
+Thu thập những cụm từ khách tiềm năng thật sự gõ khi gặp vấn đề, tìm giải pháp, hoặc sẵn sàng mua. Từ khóa = suy nghĩ của khách viết ra bằng chữ.
+
+3 NHÓM TỪ KHÓA
+1. Chính: Tên sản phẩm/phương pháp + đối tượng → định vị
+   VD: "giảm cân cho phụ nữ sau sinh"
+2. Liên quan: Câu hỏi, tình huống, vấn đề → làm nội dung
+   VD: "ăn gì để giảm cân", "cách giảm mỡ bụng"
+3. Người mua tìm (Buyer): Giá, mua ở đâu, review, tốt nhất → quảng cáo & trang bán
+
+→ Mỗi nhóm tối thiểu 10 từ khóa
+
+LÀM THẾ NÀO
+1. Lấy nguyên liệu từ HSKH → chuyển thành câu tìm kiếm
+2. Phân loại 3 nhóm
+3. Kiểm tra lượt tìm để xác nhận có người thật đang tìm
+4. Lọc bằng 5 câu hỏi: liên quan HSKH? chạm nỗi đau? khách có hành động? mình tạo được nội dung? phù hợp sản phẩm?
+5. Gắn từ khóa vào từng kênh: YouTube/Blog/Facebook/Email
+6. Dùng AI hỗ trợ mở rộng biến thể
+
+WIG
+Loại: Lead Measure
+- Xây dựng ít nhất 30 từ khóa chất lượng trong 3 ngày
+
+KPI
+- Số lượng từ khóa thu thập
+- Tổng lượng tìm kiếm hàng tháng
+- % từ khóa có ý định mua cao
+
+DMO
+- Tìm 10 từ khóa/ngày
+- Phân tích search intent
+- Ghi lại volume (lượt tìm kiếm)
+
+CHECKLIST
+- Liên quan khách hàng mục tiêu
+- Có volume tìm kiếm
+- Phân loại đúng (chính / liên quan / buyer)
+- Có thể dùng để viết content
+- Có ít nhất 3 từ khóa mua hàng
+
+CÔNG CỤ
+Google Keyword Planner, Ahrefs/SEMrush, Google Suggest, YouTube Suggest, ChatGPT/LonGPT
+
+NHÂN SỰ
+Vị trí: SEO / Content Research
+Yêu cầu: SEO cơ bản, tư duy logic, hiểu hành vi tìm kiếm, đọc dữ liệu
+
+NỘI DUNG CHỐT
+- Từ khóa = "ngôn ngữ của khách hàng"
+- Sai từ khóa → sai toàn bộ hệ thống
+- "Hãy kết thúc thứ bạn tự bắt đầu" → làm đủ 30 từ khóa trước khi chuyển bước
+
+===============================================================
+CÔNG VIỆC 3 – YOUTUBE
+===============================================================
+
+LÀ GÌ
+Hệ thống sản xuất video đều đặn, có chiến lược để xây Traffic – Trust – Sales. YouTube là nền tảng tìm kiếm + xây niềm tin dài hạn, KHÔNG phải mạng xã hội giải trí.
+
+TẠI SAO
+- Xem 5–10 video → quen
+- Xem 30+ → tin
+- Xem 50+ → mua chỉ là thời điểm
+Video tạo niềm tin nhanh hơn chữ viết. YouTube là trục xoay của toàn bộ hệ thống nội dung.
+
+CHIẾN LƯỢC (DMO chuẩn IPS)
+- Mỗi ngày: 1 video dài + 3 video ngắn (Shorts)
+- 1 video dài = 1 từ khóa chính
+- Video ngắn = cắt từ video dài, phủ đa nền tảng
+- Nội dung dựa trên: Từ khóa (CV2) + Insight (CV1)
+
+WIG
+Loại: Lag Measure
+- Đạt 100.000 subscribers (Nút Bạc YouTube) trong 12 tháng
+- Mục tiêu dài hạn: Nút Bạc → Nút Vàng
+
+KPI
+- Số video đăng mỗi ngày
+- Tổng giờ xem (Watch Time)
+- CTR (Click Through Rate)
+- Thời gian xem trung bình
+- Số subscriber tăng mỗi ngày
+
+DMO
+- Quay 1 video dài
+- Cắt 3 video ngắn từ video dài
+- Viết tiêu đề + mô tả + tag
+- Thiết kế thumbnail
+- Đăng video đúng giờ
+
+CHECKLIST SẢN XUẤT
+- Nội dung dựa trên từ khóa
+- Hook 5 giây đầu hấp dẫn
+- Có giá trị thực tế
+- Có CTA
+
+CHECKLIST SEO VIDEO
+- Tiêu đề chứa từ khóa chính
+- Mô tả có từ khóa, đúng vấn đề, gắn link hệ thống
+- Tag đầy đủ
+- Thumbnail rõ, tương phản cao
+
+CHECKLIST ĐÁNH GIÁ KÊNH (HÀNG TUẦN)
+- CTR > 5%
+- Thời gian xem > 40%
+- Video nào giữ người lâu? tiêu đề nào CTR cao?
+- Video có comment / tương tác
+
+CÔNG CỤ
+CapCut/Premiere, Canva (thumbnail), TubeBuddy/VidIQ, ChatGPT/LonGPT Video Marketing
+
+NHÂN SỰ
+Đầu: 1 người làm tất cả
+Scale: Content Creator + Video Editor + Thumbnail Designer
+Yêu cầu: Tự tin trước camera, kỷ luật cao (đăng mỗi ngày), hiểu khách hàng
+
+KHÓA HỌC
+- Thử Thách 28 ngày Video Marketing (http://www.video28ngay.com)
+- LonGPT Video Marketing
+
+NỘI DUNG CHỐT
+- "Không phải sự nổi tiếng, mà là con người bạn trở thành" → Làm video giúp phát triển bản thân
+- "Luôn giữ vững tinh thần vô địch" → YouTube cần kỷ luật 365 ngày
+- Video = tài sản dài hạn mạnh nhất trong IPS
+
+===============================================================
+CÔNG VIỆC 4 – FACEBOOK
+===============================================================
+
+LÀ GÌ
+Hệ thống duy trì sự hiện diện liên tục để giữ khách hàng ở "vùng nhớ" mỗi ngày. Facebook là không gian sống của khách – nơi họ kiểm tra bạn có thật hay không.
+
+TẠI SAO
+- Quyết định mua thường xảy ra trên Facebook (thấy bài quen → nhắn tin)
+- Tạo niềm tin thụ động qua sự lặp lại
+- Xây cộng đồng
+- Facebook = nơi bán hàng mạnh nhất
+
+CHIẾN LƯỢC – DMO 8 NỘI DUNG/NGÀY
+1. Video dài (từ YouTube)
+2. Video ngắn (Reel/Short)
+3. Bài viết dài (tư duy, câu chuyện)
+4. Bài viết ngắn (1 ý – 1 thông điệp)
+5. Trích dẫn
+6. Hình ảnh đời sống
+7. Nội dung hỏi – kích tương tác
+8. Nội dung dẫn hành động (bán hàng)
+
+Nội dung dựa trên: Insight (CV1) + Từ khóa (CV2) + Video YouTube (CV3)
+
+WIG
+Loại: Lag Measure
+- Đạt 50.000 follower chất lượng trong 6 tháng
+
+KPI
+- Reach, Engagement (like, comment, share), số share, click, inbox
+
+DMO
+- Đăng đủ 8 nội dung/ngày
+- Trả lời comment và inbox
+- Tương tác với khách hàng (comment dạo)
+- Phân tích bài viết hiệu quả
+
+CHECKLIST BÀI VIẾT
+- 3 dòng đầu quyết định 80% có đọc tiếp không
+- Có hook hấp dẫn
+- Đúng insight khách hàng
+- Có giá trị (giải quyết vấn đề)
+- Dễ đọc (ngắn, xuống dòng)
+- Có storytelling hoặc case thật, có cảm xúc
+- Kết bài = câu hỏi mở hoặc lời mời nhẹ
+- Có CTA (comment/inbox)
+
+CHECKLIST KIỂM TRA
+- Bài reach cao → nhân bản
+- Bài flop → cải thiện hook
+- Inbox có tăng không
+
+CÔNG CỤ
+Meta Business Suite, Canva, CapCut, ChatGPT/LonGPT Content
+
+NHÂN SỰ
+Đầu: 1 người chính
+Scale: Content Writer + Designer + CSKH (trả lời inbox)
+Yêu cầu: Viết tốt, hiểu tâm lý, nhanh và kỷ luật
+
+KHÓA HỌC
+- Xây dựng thương hiệu trên Internet
+- Ultimate Livestream
+
+===============================================================
+CÔNG VIỆC 5 – TIKTOK
+===============================================================
+
+LÀ GÌ
+Hệ thống video ngắn tần suất cao để kích hoạt nhận thức nhanh nhất. TikTok gieo vấn đề vào đầu khách TRƯỚC KHI họ ý thức rằng họ có vấn đề. TikTok = máy kéo traffic.
+
+3 NHIỆM VỤ
+1. Chạm nỗi đau/mong muốn
+2. Kích hoạt nhận thức
+3. Dẫn sang nền tảng sâu hơn (Facebook/YouTube/bán hàng)
+
+CHIẾN LƯỢC – DMO 3-5 VIDEO/NGÀY
+- Thời lượng: 15–60s
+- Hook mạnh 3 giây đầu
+- Đánh vào nỗi đau / mong muốn
+- Ngắn – nhanh – dễ hiểu
+
+4 NHÓM NỘI DUNG
+1. Gọi tên nỗi đau (tạo đồng cảm)
+2. Phá niềm tin sai (tạo tranh luận)
+3. Gieo hy vọng (tạo follow)
+4. Câu chuyện đời thật (tạo niềm tin ban đầu)
+
+CHIẾN LƯỢC SERIES
+5–10 video cùng 1 nỗi đau, mỗi video 1 lát cắt → tăng follow và xem liên tục.
+
+NGUỒN NỘI DUNG
+Cắt từ YouTube (CV3) + Facebook (CV4) + Insight (CV1)
+
+WIG
+Loại: Lag Measure
+- Đạt 100.000 follower TikTok trong 6 tháng
+
+KPI
+- Số video đăng/ngày
+- Lượt xem (views)
+- Tỷ lệ xem hết video (retention)
+- Follower tăng/ngày
+- Click về link bio
+
+DMO
+- Đăng 3–5 video/ngày
+- Test nhiều format
+- Trả lời comment
+- Phân tích video viral
+
+CHECKLIST VIDEO
+- Hook mạnh 3 giây đầu
+- Nội dung đúng insight
+- Có giá trị nhanh
+- Có CTA (follow / link bio)
+
+CHECKLIST TỐI ƯU
+- Caption có từ khóa
+- Hashtag phù hợp
+- Âm thanh trend
+
+CHECKLIST ĐÁNH GIÁ
+- Video >10k view → nhân bản
+- Video flop → đổi hook
+- Theo dõi retention
+
+CÔNG CỤ
+CapCut, TikTok Creative Center, Canva, ChatGPT/LonGPT
+
+NHÂN SỰ
+Đầu: 1 người
+Scale: Content Creator + Video Editor
+Yêu cầu: Nhanh, sáng tạo, hiểu trend, không ngại thử sai
+
+KHÓA HỌC
+- Ultimate Livestream
+- Video Marketing 28 ngày
+
+NỘI DUNG CHỐT
+- Không cần hoàn hảo → cần số lượng + tốc độ
+- Làm 100 video mới có 1 video viral
+- Đăng đủ 30 ngày liên tục trước khi đánh giá
+
+===============================================================
+CÔNG VIỆC 6 – INSTAGRAM
+===============================================================
+
+LÀ GÌ
+Nền tảng định vị cảm xúc & khí chất cá nhân qua hình ảnh. Instagram trả lời câu hỏi "Bạn là người NHƯ THẾ NÀO?" – không phải "Bạn biết gì?"
+
+4 TRỤ CỘT NỘI DUNG
+1. Đời sống thật (Life)
+2. Tư duy & giá trị (Mindset)
+3. Hành trình & kỷ luật (Process)
+4. Kết quả & chứng thực (Proof)
+
+CHIẾN LƯỢC – DMO
+- 1–2 bài Feed/Reel/ngày + 5–10 Story/ngày (~45–60 phút)
+- Story quan trọng hơn feed – giữ nhịp kết nối hàng ngày
+- Sáng: Ảnh + chữ (nhận diện tư duy, không CTA)
+- Trưa: Video <10s (làm quen)
+- Tối: Video/ảnh nhẹ + CTA duy nhất dẫn kênh sâu
+- Nguyên tắc: 1 ngày = 1 ý tư duy, 3 bài = 3 góc nhìn
+
+NGUỒN NỘI DUNG
+TikTok (CV5) + Facebook (CV4) + YouTube (CV3)
+
+WIG
+Loại: Lag Measure
+- Đạt 30.000 follower chất lượng trong 6 tháng
+
+KPI
+- Số bài đăng/ngày
+- Reach
+- Engagement (like, comment, save, share)
+- Follower tăng/ngày
+- Click link bio
+
+CHECKLIST NỘI DUNG
+- Hình đẹp, rõ, sáng
+- Đúng insight
+- Có thông điệp rõ ràng
+- Có CTA (follow / inbox)
+
+CHECKLIST HÌNH ẢNH
+- Đồng bộ màu sắc thương hiệu
+- Có nhận diện cá nhân
+- Không rối mắt
+
+CHECKLIST KÊNH
+- Bio rõ ràng (bạn giúp ai)
+- Link bio đầy đủ
+- Feed nhìn chuyên nghiệp
+
+CÔNG CỤ
+Canva, Lightroom, CapCut, ChatGPT/LonGPT
+
+NHÂN SỰ
+Đầu: 1 người
+Scale: Content Creator + Designer + Photographer
+Yêu cầu: Gu thẩm mỹ tốt, hiểu thương hiệu cá nhân, chú ý chi tiết
+
+NỘI DUNG CHỐT
+Instagram = niềm tin qua hình ảnh. Khách mua vì bạn chuyên nghiệp + đáng tin.
+
+===============================================================
+CÔNG VIỆC 7 – THREADS
+===============================================================
+
+LÀ GÌ
+Nền tảng thể hiện tiếng nói TƯ DUY LÕI qua câu chữ ngắn – sắc – đúng trọng tâm. Threads = bộ não được viết ra bằng chữ.
+
+3 DẠNG BÀI
+1. Câu kết luận sắc (nói thẳng kết luận, không mở bài)
+2. Mâu thuẫn nhận thức (nêu niềm tin số đông → phá vỡ)
+3. Chiết xuất từ trải nghiệm (quan sát thật + kết luận ngắn)
+
+CHIẾN LƯỢC – DMO 1-10 BÀI/NGÀY
+- Sáng: Tư duy/quan điểm
+- Chiều: Mâu thuẫn nhận thức
+- Tối: Chiết xuất kinh nghiệm
+- Cấu trúc 3 câu: Hook tư duy → Why → Takeaway
+
+WIG
+Loại: Lag Measure
+- Đạt 20.000 follower trong 4 tháng
+
+KPI
+- Số bài đăng/ngày
+- Lượt hiển thị (impressions)
+- Engagement (like, reply, repost)
+- Follower tăng/ngày
+
+CHECKLIST NỘI DUNG
+- Ngắn, rõ, dễ hiểu
+- Có quan điểm cá nhân
+- Đánh vào cảm xúc
+- Có thể gây tranh luận nhẹ
+
+CHECKLIST HIỆU QUẢ
+- Bài nào nhiều tương tác → viết lại dạng khác
+- Chủ đề tốt → đào sâu
+- Theo dõi follower tăng
+
+CÔNG CỤ
+Threads App, ChatGPT/LonGPT viết nội dung
+
+NHÂN SỰ
+Đầu: Cá nhân tự viết
+Scale: Content Writer
+Yêu cầu: Tư duy rõ ràng, viết ngắn tốt, có chính kiến
+
+KHÓA HỌC
+- Viết hay – Hay viết
+- Xây dựng thương hiệu
+
+DẤU HIỆU ĐÚNG
+Người khác trích dẫn câu của bạn.
+
+===============================================================
+CÔNG VIỆC 8 – CÁC MẠNG XÃ HỘI KHÁC
+===============================================================
+
+LÀ GÌ
+Kênh vệ tinh hỗ trợ – khuếch đại – tái phân phối nội dung từ trục chính. KHÔNG xây thương hiệu từ đầu, KHÔNG đầu tư quá sâu.
+
+NGUYÊN TẮC VÀNG
+- Không tạo nội dung mới – chỉ TÁI SỬ DỤNG (Repurpose) từ trục chính
+- Mỗi nền tảng = 1 vai trò rõ ràng
+- Dẫn khách về trục chính, không giữ khách ở đây
+
+PHÂN VAI NỀN TẢNG
+- LinkedIn → uy tín nghề nghiệp (B2B/doanh nhân)
+- Zalo → giữ quan hệ gần (khách Việt)
+- Telegram/Discord → cộng đồng tinh gọn
+- Twitter/X → tư duy ngắn (khách quốc tế)
+- Pinterest → traffic hình ảnh
+
+WIG
+Loại: Lead Measure
+- Triển khai ít nhất 3 nền tảng mới trong 30 ngày
+
+KPI
+- Số nền tảng đã triển khai
+- Số nội dung đăng mỗi nền tảng
+- Lượng traffic về kênh chính
+- Số lead thu được
+
+DMO (<20 phút/ngày)
+- Chọn 1 nội dung từ trục chính → chỉnh nhẹ → đăng + gắn link
+- Đăng lại nội dung lên 3 nền tảng
+- Tối ưu format theo từng nền tảng
+
+CHECKLIST TRIỂN KHAI
+- Tạo tài khoản chuẩn (avatar, bio)
+- Gắn link về kênh chính
+- Đăng tối thiểu 1 nội dung/ngày
+- Phù hợp nền tảng, có CTA, có giá trị
+
+CÔNG CỤ
+Buffer/Hootsuite (đăng đa kênh), Canva, ChatGPT/LonGPT
+
+NỘI DUNG CHỐT
+- Không "ôm quá nhiều" ngay từ đầu → làm tốt 1–2 kênh trước
+- Đây là bước MỞ RỘNG – không phải bước nền tảng
+
+===============================================================
+CÔNG VIỆC 9 – BLOG (WEBSITE CONTENT)
+===============================================================
+
+LÀ GÌ
+Thư viện tri thức bền vững – tài sản số không mất theo thời gian. Blog là nền móng tìm kiếm dài hạn, nơi khách CHỦ ĐỘNG tìm đến giải quyết vấn đề thật.
+
+TẠI SAO
+- Không phụ thuộc thuật toán
+- Vòng đời vài năm
+- SEO tích lũy
+- Bán hàng 24/7
+- Tăng uy tín chuyên gia
+
+CHIẾN LƯỢC
+- Tần suất: 1-2 bài/tuần (chất hơn lượng) hoặc 1 bài/ngày (500–1500 từ)
+- Viết đúng → viết đều → viết đủ lâu
+
+5 NHÓM CHỦ ĐỀ
+1. Giải thích (Why)
+2. Hướng dẫn (How-to)
+3. So sánh (Which)
+4. Sai lầm cần tránh (Mistake)
+5. Góc nhìn (Mindset)
++ Case study, Review
+
+QUY TRÌNH 1 BÀI
+1. Chọn 1 câu hỏi khách hay tìm
+2. Lên dàn ý 5–7 ý
+3. Viết nháp
+4. Chỉnh – bỏ chữ thừa
+5. Gắn link nội bộ (video, bài khác)
+6. Đăng & chia sẻ vào hệ thống
+
+WIG
+Loại: Lag Measure
+- Đạt 10.000 lượt truy cập/tháng trong 6 tháng
+
+KPI
+- Số bài viết đăng
+- Lượt truy cập (traffic)
+- Thời gian trên trang
+- Tỷ lệ thoát (bounce rate)
+- Số lead thu được từ blog
+
+CHECKLIST BÀI VIẾT
+- Tiêu đề chứa từ khóa
+- Mở bài thu hút
+- Nội dung giải quyết vấn đề
+- Có CTA (đăng ký / inbox)
+
+CHECKLIST SEO
+- URL chuẩn SEO
+- Meta description
+- Heading rõ (H1, H2, H3)
+- Chèn từ khóa tự nhiên
+
+CÔNG CỤ
+WordPress, RankMath/Yoast SEO, Google Search Console, ChatGPT/LonGPT
+
+NHÂN SỰ
+Đầu: 1 người viết
+Scale: Content Writer + SEO Specialist
+Yêu cầu: Viết tốt, hiểu SEO, kiên trì
+
+KHÓA HỌC
+- Viết hay – Hay viết (http://viethay.long.vn)
+
+NỘI DUNG CHỐT
+- Blog = tài sản lâu dài nhất
+- Viết hôm nay → có traffic sau 6–12 tháng
+- "Hãy kết thúc thứ bạn tự bắt đầu" → viết đủ 100 bài đầu tiên
+- Người làm blog thắng vì kiên trì, không phải thông minh
+
+===============================================================
+CÔNG VIỆC 10 – QUÀ TẶNG (LEAD MAGNET)
+===============================================================
+
+LÀ GÌ
+Tài sản đổi thông tin có chủ đích – giải quyết MỘT vấn đề rất cụ thể để đổi lấy email/số điện thoại của khách tiềm năng. Cánh cửa đưa người lạ vào hệ thống.
+
+KHÔNG PHẢI
+- Sản phẩm thu nhỏ
+- Dạy hết
+- Quà tặng chung chung
+
+5 DẠNG PHỔ BIẾN
+1. Checklist
+2. Ebook ngắn (20–30 trang)
+3. File mẫu / Template
+4. Video mini training
+5. Bản tự chẩn đoán / Mini course
+
+CHỌN ĐÚNG VẤN ĐỀ
+Vấn đề phải nằm ở "ngay trước khi mua":
+- Cụ thể
+- Phổ biến
+- Gây bế tắc
+- Chưa cần mua vẫn muốn giải quyết
+
+CẤU TRÚC CHUẨN
+Gọi đúng vấn đề → Giải thích gốc rễ → Mở khung giải pháp (chưa dạy đủ) → Dẫn bước tiếp theo
+
+QUAN TRỌNG: Phải phù hợp với Customer Value Canvas (CV1)
+
+WIG
+Loại: Lead Measure
+- Tạo ít nhất 2 lead magnet chất lượng trong 7 ngày
+
+KPI
+- Số lead magnet tạo ra
+- Tỷ lệ chuyển đổi (conversion rate)
+- Số email thu được mỗi ngày
+
+DMO
+- Nghiên cứu nhu cầu khách hàng
+- Viết nội dung lead magnet
+- Thiết kế tài liệu
+- Upload và test
+
+CHECKLIST NỘI DUNG
+- Giải quyết 1 vấn đề cụ thể
+- Có giá trị thực tế
+- Dễ hiểu, dễ làm theo
+
+CHECKLIST HÌNH THỨC
+- Có bìa đẹp
+- Trình bày rõ ràng
+- Có branding
+
+CHECKLIST CHUYỂN ĐỔI
+- Có CTA rõ
+- Có lợi ích cụ thể
+- Test trước khi chạy
+
+CÔNG CỤ
+Canva, Google Docs/PDF, ChatGPT/LonGPT, Systeme.io/GetResponse
+
+NỘI DUNG CHỐT
+- Lead Magnet = mồi câu khách hàng
+- Nếu không ai tải → sai insight
+- "Cho đi trước khi bán"
+- Đây là bước mở đầu của hệ thống email marketing
+
+===============================================================
+CÔNG VIỆC 11 – SQUEEZE PAGE (TRANG THU LEAD)
+===============================================================
+
+LÀ GÌ
+Trang tối giản DUY NHẤT 1 mục tiêu: đổi Lead Magnet lấy thông tin liên hệ. Biến "người xem" thành "người trong hệ thống."
+
+CẤU TRÚC 6 KHỐI
+1. Tiêu đề chính (Headline) – 70–80% thành bại: Vấn đề + Kết quả + Đối tượng
+2. Sub-headline: Giảm lo lắng, nói rõ không ép mua
+3. Gạch đầu dòng giá trị (3–5 dòng): hiểu được gì / tránh được gì + Mockup quà tặng
+4. Form (chỉ email + tên, càng ít càng tốt)
+5. Nút CTA: "Nhận tài liệu ngay" – không phải "Submit"
+6. Giảm rủi ro tâm lý: "Không spam – hủy bất cứ lúc nào"
+
+NGUYÊN TẮC TUYỆT ĐỐI
+- Không menu
+- Không link ngoài
+- Không bán hàng
+- Không kể chuyện dài
+- Không có yếu tố gây phân tâm
+
+WIG
+Loại: Lag Measure
+- Đạt tỷ lệ chuyển đổi ≥ 30% trong 14 ngày
+
+KPI
+- Conversion Rate (% đăng ký)
+- Số lead/ngày
+- Cost per lead (nếu chạy ads)
+
+DMO
+- Viết nội dung squeeze page
+- Thiết kế trang
+- Test A/B tiêu đề
+- Theo dõi conversion
+
+CHECKLIST NỘI DUNG
+- Tiêu đề rõ lợi ích
+- Đánh trúng nỗi đau
+- Có con số cụ thể (tăng uy tín)
+
+CHECKLIST CHUYỂN ĐỔI
+- CTA rõ ràng
+- Form đơn giản
+- Không phân tâm
+
+CHECKLIST TỐI ƯU
+- Test nhiều tiêu đề
+- Test màu nút CTA
+- Test hình ảnh
+
+CÔNG CỤ
+Ladipage, Webcake, Systeme.io, Canva, ChatGPT/LonGPT
+
+NHÂN SỰ
+Đầu: 1 người
+Scale: Copywriter + Designer + Ads Specialist
+Yêu cầu: Hiểu tâm lý, viết ngắn-mạnh, tư duy chuyển đổi
+
+NỘI DUNG CHỐT
+- Squeeze Page = cửa ngõ hệ thống
+- Traffic nhiều mà không có chuyển đổi → vô nghĩa
+- Test liên tục để tối ưu
+
+===============================================================
+CÔNG VIỆC 12 – CHUỖI EMAIL CHĂM SÓC & BÁN HÀNG
+===============================================================
+
+LÀ GÌ
+Hành trình tâm lý có thiết kế – nhiều email theo trật tự – để xây niềm tin, dẫn dắt nhận thức, giải quyết phản đối, chuyển đổi thành khách hàng. Email là kênh 1–1, KHÔNG bị thuật toán bóp.
+
+NGUYÊN TẮC
+- 4 email giá trị → 1 email bán hàng (lặp lại liên tục)
+- Email = tài sản riêng (không phụ thuộc nền tảng)
+
+3 GIAI ĐOẠN (14 NGÀY MẪU)
+
+Ngày 1–3 (Làm quen):
+- Giao Lead Magnet
+- Kể câu chuyện (không khoe)
+- Gọi tên vấn đề
+
+Ngày 4–10 (Nuôi dưỡng):
+- Phá hiểu lầm (3 email)
+- Case nhỏ tạo hy vọng
+- Mở lộ trình (cần người dẫn)
+
+Ngày 11–14 (Bán):
+- Giới thiệu giải pháp
+- Xử lý phản đối
+- Câu chuyện quyết định
+- Lời mời cuối (không áp lực)
+
+NỘI DUNG EMAIL
+- Chia sẻ kiến thức
+- Storytelling
+- Case study
+- Bài học cá nhân
+- Bán hàng (offer)
+
+WIG
+Loại: Lag Measure
+- Đạt tỷ lệ mở email ≥ 30% và tạo doanh thu hàng ngày trong 60 ngày
+- Open rate ≥ 25–40%, Click rate ≥ 3–8%
+
+KPI
+- Open rate
+- Click rate
+- Conversion rate
+- Doanh thu từ email
+
+DMO
+- Viết 1 email/ngày
+- Đưa vào automation
+- Theo dõi hiệu quả
+- Tối ưu tiêu đề
+
+CHECKLIST NỘI DUNG
+- Tiêu đề hấp dẫn
+- Nội dung có giá trị
+- Có storytelling
+- Có CTA rõ ràng
+
+CHECKLIST HỆ THỐNG
+- Email tự động hóa
+- Đúng chuỗi 4–1
+- Phân loại khách hàng
+
+5 LỖI GIẾT EMAIL
+1. Bán quá sớm
+2. Gửi không đều
+3. Nói toàn về mình
+4. Không hiểu trạng thái khách
+5. Viết như quảng cáo
+
+CÔNG CỤ
+GetResponse, Systeme.io, Mailchimp, http://long.vn/email, LonGPT Email Marketing
+
+KHÓA HỌC
+- Email Marketing (http://email.long.vn)
+
+NỘI DUNG CHỐT
+- Email = tài sản riêng (không phụ thuộc nền tảng)
+- "Email không phải để spam, mà để phục vụ"
+
+===============================================================
+CÔNG VIỆC 13 – TỐI ƯU SEO CHO SẢN PHẨM
+===============================================================
+
+LÀ GÌ
+Tối ưu nội dung để xuất hiện ĐÚNG THỜI ĐIỂM khách có nhu cầu mua, dẫn họ vào hệ thống chuyển đổi. SEO = tâm lý học tìm kiếm, KHÔNG phải kỹ thuật nhồi từ khóa.
+
+PHẠM VI
+Blog (CV9), YouTube (CV3), Facebook, TikTok (nội dung viral)
+
+TẬP TRUNG NHÓM TỪ KHÓA MUA
+"nên chọn…", "so sánh A và B", "review…", "giá…", "mua ở đâu…"
+
+QUY HOẠCH CỤM NỘI DUNG
+- 1 trang trụ (Pillar Page)
+- Bài vệ tinh: so sánh, review, FAQ, hướng dẫn, lỗi thường gặp
+
+CẤU TRÚC TRANG SẢN PHẨM CHUẨN
+Tiêu đề có từ khóa + lợi ích → Gọi đúng vấn đề → Giải thích → Giải pháp → Khác biệt → FAQ → CTA rõ
+
+TRỌNG TÂM TỐI ƯU
+- Làm lại tiêu đề
+- Tối ưu thumbnail
+- Cập nhật nội dung theo từ khóa
+
+WIG
+Loại: Lead Measure
+- Tối ưu 30 nội dung cũ trong 14 ngày
+
+KPI
+- Số nội dung được tối ưu
+- Số từ khóa mua lên top
+- Tăng trưởng traffic (%)
+- Tăng CTR
+- Thời gian xem/đọc, thời gian ở lại trang
+- Tỷ lệ SEO → lead/đơn
+
+DMO
+- Tối ưu 2–3 nội dung/ngày
+- Viết lại tiêu đề hấp dẫn hơn
+- Cải thiện thumbnail
+- Cập nhật từ khóa
+
+CHECKLIST SEO
+- Tiêu đề chứa từ khóa chính
+- Nội dung có từ khóa tự nhiên
+- Meta description rõ ràng
+
+CHECKLIST YOUTUBE
+- Thumbnail rõ, nổi bật
+- CTR > 5%
+- Hook tốt hơn
+
+CHECKLIST CẢI TIẾN
+- Nội dung cập nhật mới
+- Thêm CTA
+- Tăng giá trị
+
+CÔNG CỤ
+Google Search Console, Ahrefs/SEMrush, TubeBuddy/VidIQ, Canva, ChatGPT/LonGPT
+
+NHÂN SỰ
+Đầu: 1 người
+Scale: SEO Specialist + Content Editor
+Yêu cầu: Hiểu SEO, biết phân tích dữ liệu, tư duy cải tiến
+
+NỘI DUNG CHỐT
+- Không phải cứ tạo mới là tốt → Tối ưu cái cũ = đòn bẩy lớn nhất
+- Người giỏi không làm nhiều hơn → Họ làm tốt hơn
+
+===============================================================
+CÔNG VIỆC 14 – QUẢNG CÁO & RETARGETING
+===============================================================
+
+LÀ GÌ
+Đòn bẩy TĂNG TỐC hệ thống đã đúng – KHÔNG PHẢI phép màu cứu hệ thống yếu. Quảng cáo mua tốc độ cho hành trình đã thiết kế sẵn.
+
+NỀN TẢNG CHÍNH
+Facebook Ads, TikTok Ads, Google Ads, YouTube Ads
+
+THỨ TỰ ƯU TIÊN: RETARGET TRƯỚC – COLD SAU
+Phân bổ ngân sách: 70% retarget, 30% cold
+
+CHIẾN LƯỢC TỔNG
+1. Chạy quảng cáo Lead Magnet (CV10)
+2. Dẫn về Squeeze Page (CV11)
+3. Nuôi bằng Email Marketing (CV12)
+4. Retargeting người đã tương tác
+
+4 VÒNG RETARGETING
+- Vòng 1: Nhắc nhớ (đã xem video/blog) – không bán
+- Vòng 2: Giá trị (đọc nhiều, ở lại lâu) – chia sẻ case
+- Vòng 3: Chuyển đổi (đã tải lead/mở email/vào trang bán) – lời mời rõ ràng
+- Vòng 4: Hậu mua/chưa mua (bỏ giỏ, do dự) – nhắc lại lợi ích
+
+COLD ADS
+Chỉ dẫn về nội dung hoặc thu lead – KHÔNG bán thẳng.
+
+WIG
+Loại: Lag Measure
+- Đạt Cost per Lead tối ưu + ROI dương trong 30 ngày
+
+KPI
+- CPL (Cost per Lead)
+- CPC (Cost per Click)
+- CTR
+- ROAS (Return on Ad Spend)
+- Số lead/ngày
+
+DMO
+- Tạo 1–2 chiến dịch
+- Test creative
+- Theo dõi chỉ số
+- Tắt quảng cáo kém hiệu quả
+
+CHECKLIST CHIẾN DỊCH
+- Đúng đối tượng
+- Nội dung hấp dẫn
+- Có CTA rõ ràng
+
+CHECKLIST TỐI ƯU
+- Test nhiều quảng cáo
+- Theo dõi CPL mỗi ngày
+- Scale quảng cáo tốt
+
+CHECKLIST RETARGETING
+- Người đã xem video
+- Người đã vào web
+- Người đã tương tác
+
+CÔNG CỤ
+Meta Ads Manager, TikTok Ads Manager, Google Ads, Google Analytics
+
+NHÂN SỰ
+Đầu: Chủ tự chạy
+Scale: Ads Specialist
+Yêu cầu: Đọc số liệu, tư duy test, kiểm soát chi phí
+
+NỘI DUNG CHỐT
+- Ads không cứu được hệ thống yếu → Phải có nền tảng (content + funnel)
+- "Quảng cáo phải mang giá trị, không phải spam"
+- Ads = đòn bẩy nhân tốc độ
+
+===============================================================
+CÔNG VIỆC 15 – TRANG BÁN HÀNG (SALES PAGE / LANDING PAGE)
+===============================================================
+
+LÀ GÌ
+Trang độc lập, không phân tán, tiếp nhận traffic từ các khối trước để chuyển trạng thái từ "đang cân nhắc" → "sẵn sàng hành động". ĐIỂM RA QUYẾT ĐỊNH.
+
+10 KHỐI CẤU TRÚC
+1. Headline: Vấn đề + Kết quả + Đối tượng
+2. Sub-headline: Cho ai / không cho ai / không ép mua
+3. Gọi tên vấn đề (khách gật đầu liên tục)
+4. Nguyên nhân gốc (giải phóng cảm giác "mình kém")
+5. Giới thiệu giải pháp (nhẹ – rõ – không hype)
+6. Ai phù hợp / Ai không phù hợp (bộ lọc vàng)
+7. Cơ chế/lộ trình (3–4 bước)
+8. Bằng chứng & tính xác thực (testimonials, case study)
+9. Xử lý phản đối cuối
+10. CTA rõ ràng, không áp lực
+
+LOẠI BỎ TRIỆT ĐỂ
+Menu, link ngoài, popup không liên quan
+
+WIG
+Loại: Lag Measure
+- Đạt doanh thu mục tiêu + tỷ lệ chuyển đổi ≥ 3–5%
+
+KPI
+- Conversion rate (CR)
+- Doanh thu/ngày
+- Giá trị đơn hàng trung bình (AOV)
+- Số đơn hàng
+
+DMO
+- Viết nội dung bán hàng
+- Tối ưu trang
+- Test phiên bản khác nhau
+- Theo dõi chuyển đổi
+
+CHECKLIST NỘI DUNG
+- Tiêu đề mạnh (đánh vào nỗi đau)
+- Mô tả rõ lợi ích
+- Có bằng chứng
+- Có CTA rõ ràng
+
+CHECKLIST CHUYỂN ĐỔI
+- Giao diện dễ đọc
+- Tốc độ tải nhanh
+- Có bảo chứng
+
+CHECKLIST TỐI ƯU
+- Test tiêu đề
+- Test giá
+- Test CTA
+
+CÔNG CỤ
+Ladipage, Webcake, Storecake, Canva, ChatGPT/LonGPT
+
+NHÂN SỰ
+Đầu: 1 người
+Scale: Copywriter + Designer + Funnel Specialist
+Yêu cầu: Hiểu khách hàng, viết bán hàng tốt, tư duy chuyển đổi
+
+KHÓA HỌC
+- Viết hay – Hay viết (http://viethay.long.vn)
+
+NỘI DUNG CHỐT
+- Trang bán hàng = nơi in tiền của hệ thống
+- CR thấp → không phải do traffic, mà do nội dung chưa đủ mạnh
+
+===============================================================
+CÔNG VIỆC 16 – BÁN KÈM (UPSELL & CROSS-SELL)
+===============================================================
+
+LÀ GÌ
+Thiết kế sản phẩm/dịch vụ tiếp theo phù hợp với trạng thái tâm lý kế tiếp của khách để tăng LTV (giá trị vòng đời) mà KHÔNG cần thêm traffic.
+
+PHÂN LOẠI
+- Upsell: Đi sâu hơn (nâng cấp, coaching, dịch vụ hỗ trợ)
+- Cross-sell: Đi rộng hơn (công cụ bổ trợ, tài nguyên liên quan)
+- Sản phẩm tiêu hao: Mua lại nhiều lần
+
+NGUYÊN TẮC
+- Cùng đối tượng khách hàng (CV1)
+- Giải quyết vấn đề liên quan
+- Đi theo hành trình khách hàng
+
+4 THỜI ĐIỂM VÀNG
+1. Ngay sau mua
+2. Sau kết quả nhỏ đầu tiên
+3. Khi khách chạm trần tự làm
+4. Khi khách quay lại lần 2
+
+MÔ HÌNH 3 TẦNG
+- Sản phẩm lõi → Upsell (tăng tốc/tăng độ chắc) → Premium (cá nhân hóa)
+
+ĐỊNH GIÁ
+- Upsell = 20–50% giá chính
+- Premium = 2–5 lần giá chính
+
+WIG
+Loại: Lag Measure
+- Xây dựng ít nhất 3 sản phẩm bổ sung trong 30 ngày
+
+KPI
+- Số sản phẩm mới
+- Doanh thu từ upsell
+- AOV (Giá trị đơn hàng trung bình)
+- LTV (Giá trị vòng đời khách hàng)
+
+DMO
+- Nghiên cứu nhu cầu khách hàng
+- Xây dựng ý tưởng sản phẩm
+- Test bán sản phẩm mới
+
+CHECKLIST SẢN PHẨM
+- Phù hợp khách hàng hiện tại
+- Giải quyết vấn đề tiếp theo
+- Có nhu cầu thực
+
+CHECKLIST BÁN HÀNG
+- Có trong funnel (email/sales page)
+- Có offer rõ ràng
+- Có test thị trường
+
+CÔNG CỤ
+ChatGPT/LonGPT, Google Trends, Khảo sát khách hàng
+
+NHÂN SỰ
+Đầu: Chủ doanh nghiệp
+Scale: Product Manager + Marketing Team
+Yêu cầu: Hiểu khách sâu, tư duy sản phẩm, sáng tạo
+
+KHÓA HỌC
+- Eagle Camp
+- Ultimate Trainer
+
+NỘI DUNG CHỐT
+- Tiền không nằm ở khách mới → nằm ở khách cũ
+- Doanh nghiệp mạnh = có hệ sinh thái sản phẩm
+
+===============================================================
+CÔNG VIỆC 17 – TRẢ LỜI TIN NHẮN KHÁCH HÀNG (CHAT SYSTEM)
+===============================================================
+
+LÀ GÌ
+Điểm CHỐT CẢM XÚC cá nhân hóa – nơi khách tháo gỡ nỗi sợ cuối cùng trước khi trả tiền. Inbox là nơi chuyển đổi cao nhất trong toàn bộ hệ thống.
+
+CÁC KÊNH
+Zalo, Messenger, Zalo Group / Facebook Group
+
+CHIẾN LƯỢC
+- Kết hợp người + chatbot
+- Chatbot: Lọc & giữ nhịp
+- Con người: Xử lý quyết định cảm xúc
+
+QUY TRÌNH 5 BƯỚC
+1. Mở nhẹ – hỏi câu mở (KHÔNG gửi link ngay)
+2. Lắng nghe & phản chiếu (nhắc lại vấn đề bằng lời khách)
+3. Xác nhận mục tiêu ("Nếu giải quyết X thì bạn muốn đạt Y, đúng không?")
+4. Dẫn về giải pháp phù hợp + cho quyền từ chối
+5. CTA nhẹ ("Mình tiến hành nhé?" / "Bạn muốn gửi link hay hẹn trao đổi?")
+
+WIG
+Loại: Lag Measure
+- Đạt tỷ lệ phản hồi <5 phút và tỷ lệ chốt ≥ 20%
+
+KPI
+- Thời gian phản hồi
+- Tỷ lệ trả lời (%)
+- Tỷ lệ chốt đơn
+- Số đơn hàng từ chat
+
+DMO
+- Trả lời tin nhắn
+- Theo dõi khách hàng tiềm năng
+- Cập nhật kịch bản chat
+- Kiểm tra chatbot
+
+CHECKLIST TRẢ LỜI
+- Phản hồi nhanh (<5 phút)
+- Trả lời đúng nhu cầu
+- Dẫn dắt đến mua hàng
+
+CHECKLIST CHATBOT
+- Kịch bản rõ ràng
+- Có phân loại khách hàng
+- Có chuyển sang người thật khi cần
+
+5 LỖI GIẾT INBOX
+1. Gửi link ngay
+2. Nói nhiều hỏi ít
+3. Tranh luận giá
+4. Không cho quyền từ chối
+5. Không chốt rõ ràng
+
+CÔNG CỤ
+Fchat, Botcake, Pancake
+
+NHÂN SỰ
+Đầu: Chủ tự làm
+Scale: CSKH (Customer Service) + Sales Chat
+Yêu cầu: Giao tiếp tốt, hiểu sản phẩm, nhanh & linh hoạt
+
+KHÓA HỌC
+- Ultimate Livestream
+
+NỘI DUNG CHỐT
+- Chat = nơi tiền vào nhanh nhất
+- "Trả lời = giúp khách ra quyết định"
+- "Chỉ có trò bỏ thầy, không có thầy bỏ trò" → Chăm sóc tốt → khách quay lại
+
+===============================================================
+CÔNG VIỆC 18 – GIAN HÀNG SÀN THƯƠNG MẠI ĐIỆN TỬ
+===============================================================
+
+LÀ GÌ
+Cổng XÁC NHẬN NIỀM TIN công khai – nơi khách kiểm tra uy tín qua đánh giá thật và lịch sử bán hàng. Sàn là cửa vào hệ sinh thái, KHÔNG phải nơi sống.
+
+CÁC SÀN CHÍNH
+Shopee, Lazada, Tiki
+
+KHÔNG ĐƯA LÊN SÀN
+- Sản phẩm lợi nhuận cao
+- Sản phẩm cần tư vấn sâu
+- Sản phẩm định vị premium
+
+3 LOẠI SẢN PHẨM NÊN ĐƯA LÊN SÀN
+1. Sản phẩm mồi (giá thấp, dễ mua)
+2. Phiên bản rút gọn
+3. Sản phẩm vật lý/tài nguyên
+
+5 CÁCH DẪN KHÁCH TỪ SÀN VỀ HỆ THỐNG
+1. QR trong hộp sản phẩm
+2. Quà tặng sau mua
+3. Bảo hành/hỗ trợ mở rộng
+4. Nhóm cộng đồng kín
+5. Sự kiện/buổi chia sẻ miễn phí
+
+NGUYÊN TẮC
+- Không phá giá hệ thống
+- Giá sàn ≥ giá hệ thống, khác biệt ở quyền lợi và hỗ trợ
+
+WIG
+Loại: Lag Measure
+- Đạt 50 đơn hàng/tháng từ sàn trong 60 ngày
+
+KPI
+- Số sản phẩm đăng
+- Số đơn hàng
+- Tỷ lệ chuyển đổi
+- Đánh giá (rating)
+
+DMO
+- Đăng sản phẩm
+- Tối ưu tiêu đề & mô tả
+- Trả lời khách hàng
+- Chạy quảng cáo nội sàn
+
+CHECKLIST SẢN PHẨM
+- Tiêu đề chứa từ khóa
+- Ảnh rõ đẹp
+- Mô tả đầy đủ
+
+CHECKLIST VẬN HÀNH
+- Phản hồi nhanh
+- Giao hàng đúng
+- Xin đánh giá 5 sao
+
+CÔNG CỤ
+Shopee Seller Center, Lazada Seller Center, Canva
+
+NHÂN SỰ
+Đầu: 1 người
+Scale: E-commerce Manager + CSKH
+Yêu cầu: Hiểu sàn, tối ưu sản phẩm, chăm sóc khách tốt
+
+NỘI DUNG CHỐT
+- Sàn TMĐT = kênh bán THÊM, không phải cốt lõi
+- Phải có hệ thống riêng (IPS) trước → Sàn chỉ là đòn bẩy
+
+===============================================================
+CÔNG VIỆC 19 – XÂY DỰNG LUỒNG KHÁCH HÀNG (CUSTOMER FUNNEL)
+===============================================================
+
+LÀ GÌ
+Cấu trúc điều phối toàn bộ 18 khối thành một dòng chảy logic – cảm xúc – hành vi liền mạch. Funnel = bản đồ hành trình khách hàng mà bạn vạch sẵn.
+
+MỤC TIÊU
+Biến: Người lạ → Người quan tâm → Khách hàng → Khách hàng trung thành
+
+TẠI SAO
+- Biến doanh thu từ may rủi thành dự đoán được
+- Giảm phụ thuộc cá nhân
+- Khách dễ mua hơn
+- Scale an toàn
+
+7 BƯỚC VẼ FUNNEL
+1. Xác định traffic vào từ đâu
+2. Xác định trạng thái khách tại điểm vào
+3. Chọn "điểm chuyển" phù hợp
+4. Gắn khối phù hợp theo trạng thái
+5. Thiết kế đường đi sau khi mua
+6. Tự động hóa phần không cần con người
+7. Đo & tối ưu từng điểm rơi
+
+5 LUỒNG CHÍNH CẦN XÂY DỰNG
+
+LUỒNG 1: Traffic → Lead
+TikTok / Facebook / YouTube → Squeeze Page (CV11) → Nhận Lead Magnet (CV10)
+
+LUỒNG 2: Lead → Khách hàng
+Email Marketing (CV12) → Nội dung giá trị → Trang bán hàng (CV15)
+
+LUỒNG 3: Retargeting
+Người đã xem video/vào web → Quảng cáo lại (CV14) → Quay lại mua
+
+LUỒNG 4: Khách hàng → Mua thêm
+Email + Chat (CV17) → Upsell/Cross-sell (CV16)
+
+LUỒNG 5: Khách hàng → Trung thành
+Chăm sóc + Cộng đồng (Group, Zalo) → Giới thiệu khách mới
+
+3 MẪU FUNNEL CỐT LÕI
+1. Thu lead → Nuôi → Bán (dịch vụ/giáo dục)
+2. Bán nhanh low-ticket: Ads/SEO → Landing → Mua → Upsell
+3. High-ticket: Nội dung → Case → Inbox → Tư vấn → Chốt → Chăm sóc
+
+WIG
+Loại: Lag Measure
+- Xây dựng hoàn chỉnh ít nhất 3 luồng khách hàng hoạt động trong 30 ngày
+
+KPI
+- Số lead/ngày
+- Tỷ lệ chuyển đổi từng bước
+- Doanh thu tổng
+- LTV (Giá trị vòng đời khách hàng)
+
+DMO
+- Kiểm tra từng luồng
+- Tối ưu điểm nghẽn
+- Đo lường dữ liệu
+- Cải tiến liên tục
+
+CHECKLIST HỆ THỐNG
+- Có đủ các điểm chạm
+- Luồng rõ ràng
+- Không bị đứt đoạn
+
+CHECKLIST TỐI ƯU
+- Biết chỗ nào mất khách
+- Cải thiện từng bước
+- Test liên tục
+
+5 LỖI GIẾT FUNNEL
+1. Vẽ quá phức tạp
+2. Ép khách đi quá nhanh
+3. Không có bước hậu mua
+4. Không đo
+5. Dựa hoàn toàn vào công cụ
+
+CÔNG CỤ
+Miro (vẽ flow), Google Analytics, CRM (Hubspot, GetResponse)
+
+NHÂN SỰ
+Đầu: Chủ doanh nghiệp
+Scale: Funnel Specialist + Data Analyst
+Yêu cầu: Tư duy hệ thống, hiểu marketing tổng thể, biết đọc dữ liệu
+
+NỘI DUNG CHỐT
+- Đây là bước quan trọng nhất để scale
+- Không có flow → không có hệ thống → chỉ là làm marketing rời rạc
+- "Từ sự hỗn loạn tới đỉnh cao thành công" → Tất cả phải được hệ thống hóa
+
+===============================================================
+TỔNG KẾT HỆ THỐNG IPS – 19 CÔNG VIỆC
+===============================================================
+
+KHỐI 1: NỀN TẢNG (CV1–CV2)
+1. Hồ sơ khách hàng (HSKH)
+2. Tìm kiếm từ khóa
+
+KHỐI 2: NỘI DUNG ĐA NỀN TẢNG (CV3–CV9)
+3. YouTube (trục chính)
+4. Facebook
+5. TikTok
+6. Instagram
+7. Threads
+8. Mạng xã hội khác (vệ tinh)
+9. Blog
+
+KHỐI 3: HỆ THỐNG CHUYỂN ĐỔI (CV10–CV12)
+10. Lead Magnet
+11. Squeeze Page
+12. Email Marketing
+
+KHỐI 4: TỐI ƯU & TĂNG TỐC (CV13–CV15)
+13. SEO
+14. Quảng cáo & Retargeting
+15. Sales Page
+
+KHỐI 5: GIA TĂNG GIÁ TRỊ (CV16–CV18)
+16. Upsell/Cross-sell
+17. Chat & CSKH
+18. Sàn TMĐT
+
+KHỐI 6: ĐIỀU PHỐI TỔNG THỂ (CV19)
+19. Customer Funnel – Luồng khách hàng
+
+ĐÂY LÀ MỘT HỆ THỐNG HOÀN CHỈNH:
+Khách hàng → Nội dung → Lead → Email → Sales → Upsell → Chăm sóc → Funnel
+
+KIM CHỈ NAM XUYÊN SUỐT
+- "Bán hàng là phục vụ" → Mỗi khối là một lần giúp khách hàng
+- "Tập trung vào việc giúp đỡ khách hàng" → Càng giúp nhiều, càng bán nhiều
+- "Hãy kết thúc thứ bạn tự bắt đầu" → Kỷ luật làm đủ trước khi đánh giá
+- "Luôn giữ vững tinh thần vô địch" → Tối ưu mỗi ngày
+- "Từ sự hỗn loạn tới đỉnh cao thành công" → Hệ thống hóa dần
+- "Không phải sự nổi tiếng, mà là con người bạn trở thành" → Xây thương hiệu thật
+- "Chỉ có trò bỏ thầy, không có thầy bỏ trò" → Chăm sóc tốt giữ khách dài hạn
