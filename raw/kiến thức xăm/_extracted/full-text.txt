@@ -1,0 +1,3122 @@
+# HACK MAP NGHỀ XĂM — Full text extract
+# Tổng số trang: 202
+# Tác giả: Chương Trần
+# Extract date: 2026-05-12
+================================================================================
+
+
+
+========== TRANG 1/202 ==========
+ Hầu hết thợ x ăm thất b ại không phải vì thiếu đam mê. Mà vì họ không r õ r àng
+hành tr ình học - làm nghề x ăm.
+ Bạn học x ăm nhưng đ i nét run, đánh bóng v ào màu bị lốm đốm đốm, không thiết
+k ế đư ợc hình khách y êu c ầu. Thậm tr í là không có khách để x ăm. Không phải
+b ạn k ém. Bạn chỉ đang đ i tr ong bóng t ối, không có b ản đồ.
+Cuốn sách nà y sẽ hack map cho b ạn nhìn thấ y t o àn c ảnh v ề c ách học - làm
+nghề x ăm. Nó chỉ cho b ạn chính x ác: kỹ thuật x ăm, c ách sử dụng đồ x ăm, xử l ý
+từng tình huống thực t ế, c ách v ẽ v à thiết k ế hình khiến khách hàng hài lòng. V à
+quan tr ọng hơn: c ách x â y k ênh, t ạo danh tiếng, k éo khách v ề liên tục.
+ Không phải l ý thuy ết. Không phải truy ền c ảm hứng. Đâ y là b ản đồ thực chiến, từ
+t a y tr ắng đến t a y nghề.
+ Nếu b ạn đang làm nghề x ăm mà chưa có lộ tr ình, b ạn đang đ i tr ong t ối. Cuốn
+sách nà y b ật đèn.
+Mở r a v à b ắt đầu đ i đúng hư ớng nga y hôm na y .HACK MAP NGHỀ XĂM
+1
+
+========== TRANG 2/202 ==========
+Mục lục
+PHẦN 1: TRỞ THÀNH THỢ XĂM KHÔNG KHÓ
+CHƯƠNG 1: KIM XĂM  
+Loại kim
+Size kim
+Phi kim
+Needle Taper
+CHƯƠNG 2: MÁ Y XĂM   
+Máy xăm
+Stroke - Cam
+Lực cứng - Lực mềm
+Số vol
+CHƯƠNG 3: D A & ĐỘ SÂU KHI XĂM
+Biểu bì
+Hà bì
+Lớp mỡ dưới da
+CHƯƠNG 4: ĐI NÉT
+Cách cầm máy xăm
+Mẹo khi xăm nét
+Giải đáp các vấn đề tr ong đi nét
+CHƯƠNG 5: CÁ C KỸ THU ẬT XĂM
+Tô đen tô màu đánh bóng
+Chuyển tông
+Đánh bóng quả lắc
+Whip shading
+Rải hạt
+CHƯƠNG 6: CÁ CH PHA MỰC XĂM
+Cách pha mực đi nét
+Pha mực xăm đen tr ắng tả thực
+Pha mực xăm khối nhật cổ
+Pha mực xám chuyển tông
+Pha mực màu
+CHƯƠNG 7: CÁ CH SCAN HÌNH XĂM
+Cách scan hình xăm bám chắc như dính k eo 502
+Tại sao khi xăm lại nhanh tr ôi mất nét scan5
+5
+6
+9
+9
+12
+13
+13
+16
+18
+19
+21
+22
+22
+24
+25
+25
+26
+29
+33
+35
+37
+38
+39
+39
+40
+40
+40
+41
+43
+43
+44
+44
+45
+2
+
+========== TRANG 3/202 ==========
+CHƯƠNG 8: CÁ CH Ủ TÊ
+Cách ủ tê.
+Tại sao nhanh hết tê
+CHƯƠNG 9: FREEHAND HÌNH XĂM
+CHƯƠNG 10: DƯỠNG HÌNH XĂM
+Cách dưỡng hình xăm
+Cách sử dụng miếng dán bảo vệ hình xăm
+CHƯƠNG 11: CÁ CH CHỤP ẢNH XĂM
+CHƯƠNG 12: SỬA - ĐÈ HÌNH XĂM
+màu nào đè hình hiệu quả
+Xăm đen nhấn tr ắng
+Xoá xăm
+Xăm đè vết tr àm, vết dạn nứ t & sẹo
+CHƯƠNG 13: CÁ C CÂU HỎI KHÁ C
+Nổi mụn sau xăm là do đâu
+Tại sao xăm nước mô r a nhiều
+Cháy màu
+Sỉn màu
+PHẦN 2: THIẾT KẾ HÌNH XĂM
+vẽ mây
+Vẽ đá
+Vẽ sóng
+Vẽ lửa
+Vẽ hoa đào
+Vẽ lá phong
+Vẽ hoa cúc
+Vẽ hoa mẫu đơn
+Vẽ mặt quỷ
+Vẽ lân
+Vẽ rồng
+Vẽ rắn
+Vẽ cá
+Nét chính - Nét phụ tr ong hình xăm
+Sắc độ nền khối
+Bố cục hình xăm
+Cách phối màu hình xăm nhật cổ46
+46
+48
+49
+50
+50
+52
+53-58
+59
+59
+61
+63
+64
+66
+66
+66
+67
+67
+69
+370
+73
+79
+81
+83
+85
+87
+92
+94
+97
+108
+131
+153
+162
+164
+167
+169
+
+========== TRANG 4/202 ==========
+4PHẦN 3: LÀM XĂM KHÔNG THIẾU KHÁCH
+CHƯƠNG 1:
+XÂY DỰNG NỀN MÓNG – T ẠO NIỀM TIN
+CHƯƠNG 2: XÂ Y KÊNH LÊN XU HƯỚNG
+CHƯƠNG 3: QUY TRÌNH CHỐ T LỊCH XĂM  
+THÀNH C ÔNG
+CHƯƠNG 4: BÍ QUYẾT UPSELL
+CHƯƠNG 5
+CHĂM SÓC SAU XĂM  179
+179
+181
+192
+198
+200
+
+========== TRANG 5/202 ==========
+ CHƯƠNG 1: KIM XĂM
+ Có 2 loại kim: Kim dài, kim đạn
+ Kim dài hình dáng như một thanh sắt dài. Dùng cho máy xăm coil hoặc rotary
+dạng truyền thống
+ Kim đạn nhìn như viên đạn, hay còn gọi là kim máy penPHẦN 1:  
+TRỞ THÀNH THỢ XĂM KHÔNG KHÓ
+5
+
+========== TRANG 6/202 ==========
+ T r ên mỗi hộp kim x ăm đều có c ác ký hiệu c ấu hình kim. Bạn hã y chú ý v ào số
+1211 RS.  
+Hộp kim nào cũng sẽ có 4 số v à c ác chữ c ái đ i k èm.
+2 số đầu tiên là phi kim
+2 số tiếp theo là số mũi kim tr ong c â y kim đó
+Các chữ c ái là ký hiệu của lo ại kim
+ Bất kể bạn là tân b inh hay một  nghệ nhân xăm lâu năm. Sự đa dạ ng của kim
+xăm, từ cấu trúc, phi kim cho đến độ nhọn - đôi khi khiến bạn rối trí, không biết
+dùng loại nào cho hợp.
+ Thế nhưng, khi mọi thứ trở nên rõ ràng, bạn sẽ có cảm giác được khai sáng và
+tự nhủ: “ Giá như  mình biết sớm hơn ˮ
+1 - LOẠI KIM
+1.1 KIM NÉT
+6
+
+========== TRANG 7/202 ==========
+ Các mũi kim đư ợc hàn xung
+quanh một trục trung t âm theo
+hình tr òn. Đầu mũi kim đư ợc x ếp
+chụm sát v ào nhau. KIM RL  (ROUND LINER)
+ Cấu t ạo giống kim RL nhưng đầu
+mũi kim đư ợc x ếp t ản r a, không
+chụm lại giống RL. Ngo ài việc đ i
+nét thì kim RS còn dùng để đánh
+bóng t ô màu vùng nhỏ hẹp.
+ Mẹo: b ạn có thể hơ lửa v ào đầu
+c â y kim RL, nó sẽ t oè r a giống như
+kim RS KIM RS  (ROUND SHADER)
+ Cùng là 1 size kim. Nhưng RS sẽ cho nét to hơn RL.
+7
+
+========== TRANG 8/202 ==========
+1.2 KIM TÔ
+KIM XĂM M1 (Magnum 1) là lo ại
+kim có 2 hàng xếp song song.
+Các mũi kim nằm ngang v à thẳng
+hàng.
+Ưu điểm: diện tích tiếp xúc lớn,
+rất mạnh khi tô những mảng màu
+đồng nhất. Mũi kim nằm ngang
+nên rất dễ ke hình xăm.
+Nhược điểm: chính vì mũi kim
+nằm ngang nên nếu để nghiêng 1
+bên, khi đánh bóng rất dễ bị lốm
+đốm. Khó kiểm soát đối với người
+mới
+KIM XĂM RM  (R ound Magnum)
+Ha y còn gọi là kim CM.
+Các mũi kim đư ợc x ếp 2 hàng song
+song nhưng bo cong theo hình v òng
+cung
+ Ưu điểm: dễ kiểm soát, hạn chế bị
+xước hình, hạn chế bị lốm đốm hơn
+so với kim M1. Rất thích hợp đánh
+bóng, tô màu chuyển tông.
+ Có đến   95% thợ xăm dùng kim RM
+cho tất cả các việc đánh bóng, tô
+đen, tô màu.
+ Nhược điểm: vì 2 cạnh bo vát sang
+2 bên nên diện tích tiếp xúc vào da ít
+hơn kim M1. Cho nên vào mực chậm
+hơn kim M1
+8
+
+========== TRANG 9/202 ==========
+ Siz e kim (kích thư ớc kim x ăm )
+Là số lư ợng c ác mũi kim có tr ong c â y kim. Nếu nhìn v ào ký hiệu: 1209 RL .
+Hai số đứng đằng sau chính là siz e kim. T r ong ví dụ tr ên thì 09  là siz e kim,
+có 9 mũi kim tr ong c â y kim đó. 2 - SIZE KIM
+ Phi kim chính là 2 số đứng đầu tiên,
+nó biểu thị cho đường kính của 1 mũi
+kim trong cây kim. Có 4 loại phi kim
+hay dùng:
+06 đường kính bằng 0,20mm
+08 đường kính bằng 0,25mm.
+10 đường kính bằng 0,30mm
+12 đường kính bằng 0,35mm
+  3 - PHI KIM
+ Ví dụ: nhìn vào ký hiệu 1211 RS.
+Ta biết đó là kim size 11, thuộc mã
+RS và phi kim là 12.
+Vậy áp dụng phi kim vào xăm hình
+như thế nào?
+9
+
+========== TRANG 10/202 ==========
+ ỨNG DỤNG CỦA PHI KIM
+ Phi kim càng nhỏ -> lỗ kim xăm lên da càng bé. Nhiều lỗ mực bé sắp x ếp đan
+xen nhau sẽ tạo r a độ mịn.
+ 
+Phi kim càng lớn -> lỗ kim xăm lên da càng to -> mực vào da càng nhiều, xăm
+càng nhanh dày mực dày màu.
+ Dựa vào nguyên lý trên.
+Khi đánh bóng hình xăm tả thực
+cần độ mịn. Chúng ta sẽ dùng
+kim phi 10. Ví dụ như kim 1009RM
+và 1015RM.
+ Khi xăm hình tả thực màu, hình
+nhật cổ, nhật mới .v.v... cần
+nhanh dày mực. Chúng ta sẽ
+dùng phi 12. Ví dụ dùng kim
+1209RM và 1215RM.
+10
+
+========== TRANG 11/202 ==========
+  Đối với đi nét
+-   Phi 06, 08 dùng để xăm
+nét mini siêu mảnh. Size
+kim hay dùng là 0603RL,
+0803 RL, 0805 RL
+Lưu ý: phi kim càng bé
+xăm càng hạn chế nở nét.
+- Phi 10 thường dùng để
+xăm chữ. Size hay dùng là
+1003RL và 1005 RL
+- Phi 12 để xăm các nét to,
+cần sự chắc chắn trong
+hình truyền thống, maori
+.v.v...
+ Ví dụ trong 1 hình xăm
+nhật cổ.
+Sử dụng kim 1214RL để đi
+nét chính, nét nào to thì đi
+2 nét cạnh nhau.
+Sử dụng kim 1211 RL hoặc
+size bé hơn để đi nét phụ.  
+1 1
+
+========== TRANG 12/202 ==========
+ Needle taper = độ dài phần đầu kim
+được mài nhọn
+ → Tính trên từng sợi kim
+👉  Taper quyết định mực xuống nhanh
+hay chậm, độ an toàn da.
+- Taper càng ngắn, mực vào càng
+nhanh, cho nét chắc chắn, đậm rõ ràng.
+Nhưng độ sát thương sẽ cao hơn.
+- Taper dài phù hợp xăm nét mảnh. 4 - Needle Taper 
+Hầu như trên các hộp kim xăm đều ghi
+rõ taper là bao nhiêu. Ví dụ như kim
+OG, taper là 3,5mm.
+ Needle T aper có từ 1, 5mm đến 7 mm.
+T uy nhiên c ác nhà b án hàng ở Việt
+Nam chỉ b án 1- 2 lo ại t aper nhất đ ịnh.
+1 2
+
+========== TRANG 13/202 ==========
+ Nguyên lý hoạt động của máy xăm Coil
+Máy Coil hoạt động nhờ từ trường sinh ra khi dòng điện chạy qua cuộn dây đồng:
+1.Dòng điện đi vào cuộn coil
+2.Coil tạo ra từ trường hút thanh sắt đập xuống (thanh sắt đó chính là thanh bar)
+3.Thanh sắt đẩy k im đâm vào da
+4.Mạch điện ngắt → từ trường mất
+5.Lưỡi gà  kéo thanh sắt trở lại
+6.Chu trình lặp lại liên tục khi xăm
+👉 Chính chuyển động đóng – ngắt cơ học này tạo nên lực đập mạnh, rõ, sâu của
+máy coil.Máy xăm Coil là loại máy xăm truyền
+thống lâu đời, hoạt động dựa trên
+nguyên lý điện từ. Đặc điểm nhận dạng:
+Có 1 hoặc 2 cuộn dây đồng, quấn quanh
+lõi sắt, nằm lộ thiên trên thân máy. CHƯƠNG 2: MÁ Y XĂM
+ 1 - MÁY XĂM
+ 1.1 MÁY COIL
+ Ưu điểm: Máy khoẻ, xăm nhanh, xăm nét
+to cực kỳ hiệu quả.
+ Nhược điểm: Nặng, ồn, độ rung lớn, kém
+linh hoạt, dễ hỏng vặt.
+Hiện nay máy coil rất ít người sử dụng,
+nếu là người mới thì tôi khuyên bạn nên
+dùng dòng máy khác để xăm dễ dàng
+hơn.Cuộn dây đồng
+1 3
+
+========== TRANG 14/202 ==========
+ 1.2 MÁY XĂM ROTARY
+Nguyên lý hoạt động
+Khi cấp điện, motor quay liên tục
+Trục quay đẩy kim đâm vào damot or  
+T rục c am
+ Đa dạng mẫu mã kiểu dáng, có má y
+dùng kim đạn, có má y dùng kim dài. Có
+má y chuy ên nét, má y chuy ên đánh bóng
+v ào màu.
+ Những má y dùng trục c am (ha y
+còn gọi là trục l y t âm) í t t ạo r a tiếng
+ồn. Đa số là dòng lực êm ái thích
+hợp đánh bóng v ào màu.
+ Những má y dùng thanh b ar lại cho
+lực mạnh mẽ như má y coil, ví dụ
+như má y x ăm dankubin. Thích hợp
+đ i nét.
+Cùng là dùng thanh b ar để đập lên
+xuống đẩ y kim đâm v ào da nhưng
+má y r ot ar y dùng mot or còn má y
+coil dùng cuộn đồng.Thanh b ar
+1 4
+
+========== TRANG 15/202 ==========
+ Máy xăm pen là máy có hình trụ, giống cây bút. Motor, trục cam được nằm
+gọn trong thân máy. Ít gây ồn, hạn chế rung, đỡ mỏi tay. Gọn gàng, dễ vệ
+sinh.
+ Có nhiều dòng máy đa năng, chỉnh được stroke, chỉnh lực cứng mềm. Rất
+đa năng, phù hợp với nhiều thể loại xăm.
+👉  Máy Pen là dòng máy được nhiều thợ xăm sử dụng nhất. 1.3 MÁY PEN
+1 5
+
+========== TRANG 16/202 ==========
+Stroke (hành trình kim) là độ dài quãng đường kim xăm đi lên – xuống trong
+mỗi nhịp đánh, thường được đo bằng milimet (mm).2 - STROKE LÀ GÌ - TẠI SAO NÓ QUAN TRỌNG ?
+ Vòng đệm cách càng xa trung tâm
+trục cam thì stroke càng lớn.
+ Stroke càng lớn → lực đánh
+càng mạnh
+ Stroke thấp → kim đi nhẹ, mực
+vào chậm
+=> Stroke quyết định trực tiếp đến:
+Lực đánh của máy
+Độ ăn mực
+Mức tổn thương da
+Phong cách xăm phù hợp
+👈 Stroke là 4 .0 thì kho ảng c ách
+kim đâm lên xuống = 4mm
+Trục c amVòng đệm
+1 6
+
+========== TRANG 17/202 ==========
+ Stroke thấp tác dụng lực vào da nhỏ, tạo ra ít
+sát thương. Lượng mực vào da cũng ít. Vì lực
+khá nhỏ nên stroke thấp ít được dùng để đi nét.
+Nhưng nó lại áp dụng trong những công việc
+cần kiểm soát lượng mực vào, có thể xăm đi
+xăm lại nhiều lần. Ví dụ như: xăm tả thực chồng
+lớp. NÊN DÙNG STROKE NÀO ?
+ Stroke trung bình cho lực tác động vào da
+trung bình. Dễ dàng kiểm soát sát thương và
+lượng mực vào da. Phù hợp cho đi nét nhỏ -
+trung bình. Thích hợp đánh bóng vào màu.
+Stroke 3.5 thích hợp xăm nét mini (kim 3 RL kim
+5RL). Nếu bạn dùng size kim to hơn thì nên
+dùng stroke 4.0 - 4.2 để xăm dễ dàng hơn.
+ Str ok e lớn t ác động lực v ào da mạnh, đẩ y đư ợc
+nhiều mực v ào da hơn. Phù hợp đ i c ác nét lớn
+14RL - 18RL.
+ Vì lực gắt, khó kiểm so át sát thư ơng lên s tr ok e
+lớn không áp dụng để đánh bóng v ào màu, x ăm
+nét mini.
+ T ại sao không có s tr ok e lớn hơn 5 . 0 . Vì s tr ok e
+c àng lớn, mot or phải t ạo r a lực c àng lớn. V à khi
+mot or phải làm việc quá sức sẽ dẫn đến nhanh
+hỏng. Cũng 1 phần do í t có thợ x ăm đủ t ầm kiểm
+so át đư ợc lực sát thư ơng do s tr ok e 5 . 0 gâ y r a.
+Cho nên hãng không sản xuất s tr ok e > 5 . 0
+1 7
+
+========== TRANG 18/202 ==========
+Lực cứng = kim đập mạnh – ăn da nhanh – xuống mực dứt khoát.
+Lực mềm = kim ăn da nhẹ – mượt – kiểm soát tốt – ít tổn thương.
+ Nó không chỉ liên quan đến stroke, lực motor mà còn liên quan đến thanh lực
+của máy xăm. Với 1 số dòng máy, bạn có thể điều chỉnh nó thông qua nút vặn
+(máy Stingray); thay đổi thanh lực (máy Inkjecta); hoặc chỉ với 1 nút bấm (máy
+Fury2)3 - LỰC CỨNG - LỰC MỀM
+ Nhiều ngư ời nghĩ s troke càng c ao thì má y xăm c àng mạnh v à ăn mực nhanh
+hơn. Nhưng thực t ế, có những má y stroke 3.5 vẫn x ăm khỏe v à vào mực nhanh
+như má y stroke 4.0.
+ 
+ Để c ảm nhận r õ ràng nhất, hã y lắp kim v ào v à xăm trực tiếp lên lòng b àn tay.
+Bạn sẽ c ảm thấ y mỗi chiếc má y sẽ cho lực cứng mềm khác nhau dù dùng chung
+một mức s troke. Nên sử dụng kim không mực, sẽ không có c ảm giác đau khi
+xăm v ào lòng b àn tay dư ới vị tr í ngón c á
+ Và nếu b ạn không có nhiều kinh t ế mua má y về để tr ải nghiệm. Bạn chỉ c ần nói
+yêu c ầu v ề má y xăm. Mình là T rần Chư ơng - chuy ên gia tr ong l ĩnh vực x ăm hình
+và cung c ấp dụng cụ x ăm. Mình khẳng đ ịnh sẽ lựa chọn cho b ạn chiếc má y tốt
+nhất, đúng theo tiêu chí của b ạn.
+1 8
+
+========== TRANG 19/202 ==========
+  Lực máy xăm, tốc độ máy và tốc độ tay của mỗi người là khác nhau
+👉  Không có một mức vol “chuẩn cho tất cảˮ
+ Nhiều yếu tố ảnh hưởng đến việc sử dụng mức vol bao nhiêu. Ví dụ:
+Kim bé dùng vol thấp, kim size to dùng vol cao
+Vùng da dày bật vol cao, vùng da mỏng lại bật vol thấp
+Đánh bóng vol sẽ thấp hơn so với vào màu và tô đen.
+Lực của máy xăm và tốc độ tay cũng quyết định số vol.
+👉  Quy tắc an toàn: bắt đầu thấp → tăng dần đến khi mực ăn đều, kim không
+mắc vào da.4 - NÊN DÙNG MỨC VOL BAO NHIÊU ĐỂ XĂM ?
+ Vol thấp + T ốc độ tay nhanh => dẫn đến tình tr ạng nét bị mờ, đứ t nét, chỗ đậm
+chỗ nhạt.
+Đánh bóng tô màu thì các hạt mực thưa, cách xa nhau => xăm lâu dày mực.
+Trần Chương - Đồ xăm trong tầm tay19
+
+========== TRANG 20/202 ==========
+ Vol cao + Tốc độ tay chậm => dễ bị vỡ nét, nhoè mực, để lại sẹo.
+Đánh bóng tô màu sẽ khó kiểm soát được lượng mực, dễ lốm đốm, sát thương.
+ Tốc độ tay tương đồng với tốc độ máy => Nét đều và đẹp.
+Các hạt mực xếp đều cạnh nhau xăm sẽ nhanh dày mực, lên màu tươi sáng,
+hạn chế tấy đỏ.
+20
+
+========== TRANG 21/202 ==========
+ CHƯƠNG 3: D A & ĐỘ SÂU KHI XĂM
+ Nếu kim đi quá nông, mực sẽ không bám được vào da và hình xăm có thể mờ
+dần chỉ sau vài ngày. Ngược lại, nếu kim đi quá sâu, da sẽ bị tổn thương, dễ để
+lại sẹo và gây đau đớn không cần thiết cho khách hàng.
+ Là một nghệ sĩ xăm hình bạn phải kiểm soát được độ sâu của kim. Hiểu được
+độ sâu của kim sẽ đưa mực vào đúng vị trí an toàn để hình xăm bền màu, đẹp
+theo thời gian
+ Và để kiểm soát được điều này, bạn cần hiểu rõ cấu tạo của da. Da người gồm
+ba lớp chính:
+Lớp biểu bì
+Lớp hạ bì
+Lớp mỡ dưới da
+21
+
+========== TRANG 22/202 ==========
+1 - BIỂU BÌ 
+ Đây là lớp ngoài cùng của da (những gì bạn có thể nhìn thấy). Lớp này luôn
+bong tróc và tái tạo liên tục. Vì vậy, nếu bạn đưa mực vào lớp biểu bì thì mực sẽ
+bay màu, mất nét
+2 - HẠ BÌ 
+  Đây là lớp da ổn định, ít tái tạo, có khả năng giữ mực lâu dài. Lớp hạ bì sâu
+như thể nào?
+Kim xăm
+Mực xăm
+Biểu bì
+Hạ bì
+MỡBIỂU BÌ
+HẠ BÌ
+22
+
+========== TRANG 23/202 ==========
+ Nguyên tắc là mực xăm cần được đưa đến lớp hạ bì, độ sâu 1-2 mm tính từ bề
+mặt da.
+  Tuy nhiên, không có độ sâu nào phù hợp với tất cả.
+ Khách hàng của bạn và vị trí của hình xăm sẽ ảnh hưởng đến độ sâu của l ớp hạ
+bì.
+ Ví dụ, khách hàng lớn tuổi có làn da mỏng hơn.
+ Ngoài ra, các vùng cơ thể bị kéo căng trên xương như ống đồng, xương quai
+xanh, chỗ gập cẳng tay, chân ..v.v... vùng da sẽ mỏng hơn vị trí khác.
+ Độ sâu khi xăm cũng tuỳ thuộc
+vào mục đích xăm, size kim.
+Đối với những hình nét mảnh,
+sử dụng kim 3RL, 5 RL độ sâu
+phù hợp khoảng ~ 1,2mm.
+ Kim càng to, đâm càng sâu, đối
+với những nét to có thể nên tới
+1,8 mm. Đánh bóng vào màu ~
+2mm.
+23
+
+========== TRANG 24/202 ==========
+ 3 - LỚP MỠ DƯỚI DA
+ Đây là một lớp sâu hơn của da được tạo thành từ các mô mỡ, mềm, nhiều
+mạch máu và dây thần kinh.
+❌ Xăm vào lớp này sẽ: Bể nét, loang mực, chảy máu nhiều, dễ để sẹo.
+24
+
+========== TRANG 25/202 ==========
+PHẦN 4: ĐI NÉT
+ Có rất nhiều cách cầm máy xăm khác nhau. Bạn cũng có thể cầm máy theo
+cách mà bạn cảm thấy thoải mái nhất, miễn là bạn vẫn có thể sử dụng đúng kỹ
+thuật .
+Tuy nhiên, tôi đã phải mất 3 tháng học các cách cầm máy khác nhau xem cách
+nào hiệu quả. Sau đó tôi nhận thấy cách dưới đây là hiệu quả nhất. Và hầu hết
+các nghệ sĩ xăm hình đều áp dụng theo phương pháp này. 1 - CÁ CH CẦM MÁ Y ĐI NÉT
+Ngón cái quấn
+quanh tay cầmNgón trỏ ôm
+phần trên tay cầm
+ Ngón giữa hãm
+vào phần đầu tay
+cầm và kim. Kê
+lên 2 ngón dưới
+cùng. Tác dụng:
+làm cữ kim và
+giảm rung
+2 ngón dưới cùng tạo
+thành bề mặt giúp
+bàn tay neo và da, tạo
+sự ổn định khi xăm
+25
+
+========== TRANG 26/202 ==========
+ Cánh tay cầm máy xăm có điểm tựa sẽ giúp đường nét của bạn vững chắc, hạn
+chế run. Khuỷu tay luôn luôn phải có điểm tỳ, có thể đặt vào người khách. Thậm
+chí là ngồi co chân lên cao, để khuỷu tay tỳ vào.2 - MẸO KHI XĂM NÉT
+ Luôn kéo nét về phía người mình.  
+Việc kéo nét sang ngang, tiến lên phía trước sẽ không hiệu quả bằng việc kéo
+nét về phía bản thân. Giúp nét chắc chắn và đường nét được dài hơn.
+ Để dễ dàng hìn h dung, tôi khuyên bạn nên quét mã QR để x em video: hướng
+dẫn cầm máy xăm và đi nét. T ôi tin bạn sẽ đi nét dễ dàng ngay sau khi x em
+video.
+26
+
+========== TRANG 27/202 ==========
+2.1 XĂM NÉT MẢNH - CHỮ MINI
+ Mực càng đặc, xăm càng nở nét.
+Xăm chữ mà nở nét thì xấu lắm. Vì thế
+bạn nên pha 60% mực + 40% nước.
+ Sử dụng kim size bé, phi kim bé để
+tạo ra nét mảnh và hạn chế nở nét. Ví
+dụ kim 0803RL, 1003RL, 1005RL ... Và
+chắc chắn rồi, khi sử dụng kim bé thì
+chúng ta cần xăm vol thấp và nên sử
+dụng máy xăm lực mềm, stroke thấp.
+ Giữ thẳng góc máy so với bề mặt da
+để hạn chế nở nét. Bạn chỉ cần
+nghiêng máy sang 1 bên là tuần sau
+bạn sẽ thấy nét của bạn nó nở ra như
+thế nào.
+Xăm kim nông tầm 1 - 1,3mm tùy theo
+mục đích và vị trí.
+Quét mã QR để video hướng dẫn xăm chữ trên da giả: Người  mới nên hạn chế sửa nét nếu xăm sai, vì càng sửa nét càng to, càng xấu.  
+27
+
+========== TRANG 28/202 ==========
+2.2 XĂM NÉT LỚN
+ Những đường nét dày giúp hình xăm
+của bạn nổi bật. Chúng ta có thể dùng
+kim 14RL, 18RL hoặc có thể đi 2 nét
+bên ngoài và tô đen bên trong để tạo
+ra nét lớn.
+ Tuy nhiên việc đi kim 14 và 18 RL
+khiến cho người mới phải cảm thấy
+khó khăn khi xăm.
+ Theo nguyên lý, kim to đâm vào da sẽ
+bị da cản lại nhiều hơn so với kim bé.
+ Và sau đây là vài mẹo để bạn chinh
+phục các nét lớn:
++ Căng da mạnh
++ Sử dụng máy xăm khoẻ, stroke lớn
++ Bật vol cao hơn
++ Cho kim dài ra, đâm sâu hơn
++ Đặc biệt: hãy nghiêng kim và kéo
+máy về phía ngược lại. Giống như là đi
+cày. Xăm kiểu này cực kỳ hiệu quả.
+  Không nên dùng mực nguyên chất để đi nét, sẽ khiến cho hình xăm bị nở nét.
+Để đi nét trung bình và nét to, chúng ta nên pha mực tỷ lệ khoảng 70-80% là
+mực, còn lại đổ đầy nước pha.
+28
+
+========== TRANG 29/202 ==========
+ 3.1 LÀM THẾ NÀO ĐỂ HẾT RUN.
+ Nguyên nhân của run là chưa kiểm soát được máy xăm; căng da chưa đủ lực;
+máy xăm kim xăm không ổn định, kém chất lượng.
+Khắc phục:
+- Đầu tư thiết bị tốt để không bị rung lắc khi làm việc.
+- Căng da mạnh để kim không bị nảy ra khỏi da.
+Bạn có thể kiểm chứng. Vì bụng bùng nhùng nên nét sẽ không tròn đẹp bằng
+những vùng da căng như ở lưng.3 - GIẢI Đ ÁP CÁ C VẤN ĐỀ TRONG ĐI NÉT
+ Căng da đúng hướng của đường xăm. Nếu bạn căng không đúng hướng, rất có
+thể khi bạn thả tay ra, đường nét của bạn sẽ bị lệch và run
+ Trăm hay không bằng tay quen. Đừng quá lo lắng khi mới xăm mà bị run. Cứ
+xăm đủ nhiều là sẽ hết run. Chắc chắn đó bạn yêu.
+3.2 KIM BỊ MẮC VÀO DA
+Khi kim đâm vào da, kim chưa rút lên khỏi da thì tay bạn đã kéo cây kim đi chỗ
+khác. Và đó là nguyên nhân chính gây mắc kim vào da. Hãy bật vol cao lên hoặc
+đi chậm tay hơn.
+ Ngoài ra còn các yếu tố sau và bạn khắc phục nó nhé:
++ Xăm kim sâu quá
++ Căng da chưa đủ lực.
+29
+
+========== TRANG 30/202 ==========
+ 3.3 NÉT BỊ MỜ NHẠT DO ĐÂU.
+ Do tốc độ tay nhanh quá.
+Mỗi khi kim di chuyển xuống, nó sẽ để lại một lượng mực trên da. Nếu bạn di
+chuyển tay quá nhanh, thì kim của bạn không thể đưa đủ mực xuống để tạo
+một đường nét đậm. Cần tăng vol hoặc đi chậm tay lại
+ Bạn căng da chưa đủ lực, kim sẽ nảy ra khỏi da và để lại những đường nét
+không đều và mờ
+ Do kim dính giấy, cặn bẩn, vaseline => dẫn đến tắc kim, mực không theo kim
+đâm vào da được và làm cho nét bị mờ 👉 Cần vệ sinh kim thường xuyên
+ Kim hết mực !!!
+ Do đi kim nông quá, luôn nhớ độ sâu thích hợp từ 1-2mm. Kim càng to thì càng
+phải đâm sâu, vol càng cao. Và cần trừ đi độ đàn hồi của da để cho kim dài hơn
+khi xăm.
+ Đâm kim vào da
+2mm nhưng thực
+tế chỉ còn khoảng
+~ 1,8mm Da có độ đàn hồi,
+nó sẽ bị lún xuống
+tại vị trí kim đâm
+ Chỗ nào da mềm có sự đàn hồi cao như phần bụng, eo thì cho kim dài da.
+Chỗ nào da đã căng sẵn, ít sự đàn hồi như vị trí ống đồng thì đi kim ngắn hơn
+ Kim bé sẽ dễ dàng chọc thủng da => đi kim nông
+1 chút.
+Kim to bị sự đàn hồi của da ngăn cản, nên cần
+phải bật vol cao hơn, đi kim sâu hơn
+30
+
+========== TRANG 31/202 ==========
+ 3.4 NHÒE NÉT - VỠ NÉT.
+ Nhòe mực là khi mực được đặt quá sâu trong da và bắt đầu lan rộng.
+Trong nhiều trường hợp, điều này sẽ làm cho da trông hơi xanh. Có một số cách
+vô tình gây ra hiện tượng này:
+ Độ sâu hoặc góc kim sai
+Nhòe mực thường do kim đi quá sâu vào trong da. Tuy nhiên, bạn cũng có thể
+gây ra hiện tượng nhòe mực nếu máy của bạn đặt ở một góc quá nghiêng và
+mực "thổi ra" sang một bên vào da.
+Máy đang chạy quá nhanh
+Mặc dù hiếm gặp hơn nhưng hiện tượng vỡ nét có thể xảy ra nếu máy của bạn
+chạy quá nhanh so với tốc độ tay của bạn. Trong trường hợp này, kim đưa quá
+nhiều mực vào da quá nhanh và không có chỗ nào để mực đi ngoài việc lan
+rộng ra.
+31
+
+========== TRANG 32/202 ==========
+ 3.5 NÉT KHÔNG ĐỀU
+ Do thao tác tay không đều, chỗ xăm nhanh chỗ xăm chậm khiến nét của bạn
+không đều mực.
+ Vị trí nào bạn ấn sâu thì nét đậm, vị trí đi kim nông thì mực bị nhạt. Vì thế bạn
+cần kiểm soát được độ sâu khi xăm để đảm bảo nét đều và đẹp. Trừ khi bạn
+muốn tạo ra nét thanh nét mảnh, tuy nhiên vẫn phải đi đúng độ sâu tiêu chuẩn
+để không bị mất mực hoặc vỡ nét.
+ô
+ 3.6 - ỘC MỰC, VĂNG MỰC, KHÔNG XUỐNG MỰC
+1. Ộc mực, chảy mực xuống da khi xăm là do chấm quá nhiều mực hoặc để kim
+ngắn quá.
+  
+2. Văng mực: do bật vol cao quá, lực máy bị gắt khiến mực văng ra khỏi kim.
+3. Xăm không xuống mực: do để kim hết mực, kim bị tắc, kim lỗi. Hoặc có thể vô
+tình trong lúc xăm bạn ngửa cây kim hướng lên trời, mực không thể bơm từ
+dưới thấp lên trên cao, cho nên xăm sẽ không ra mực.
+32
+
+========== TRANG 33/202 ==========
+ Kim:  
+Xăm tả thực đen tr ắng cần độ mịn dùng kim phi 10. Ví dụ 1009RM, 1015RM...
+Các hình nhật cổ, châu Á, old school... Cần nhanh dày mực dùng phi 12. Ví dụ
+1209RM, 1215RM...
+Độ sâu khi đánh bóng tô màu nên từ ~1,3 - 2mm. Xăm nông kim hơn sẽ lâu vào
+mực.
+ Máy xăm:
+Nên sử dụng máy có str oke từ 3.5 đến 4.2 để đánh bóng vào màu. Sợ sát
+thương thì dùng máy str oke thấp lực mềm.  
+Kiểm soát được sát thương và muốn xăm nhanh thì dùng máy str oke cao + lực
+cứng.
+Có thể sử dụng các máy đa năng để vừa có thể chỉnh str oke, vừa có thể chỉnh
+lực tuỳ theo nhu cầu. Ví dụ như các dòng máy hãng OG, r ất tiện lợi.CHƯƠNG 5:
+CÁC KỸ THU ẬT XĂM
+ ÔN BÀI
+ Số vol:
+Đánh bóng dùng vol thấp hơn tô đen tô
+màu.  
+Vol thấp + tốc độ tay nhanh => hình bị
+tấy đỏ, thâm, khó nhìn sắc độ. Phải xăm
+đi xăm lại nhiều lượt gây sát thương.
+Bong ra bị mờ nhạt, mất sắc độ.
+Vol cao + tốc độ tay chậm => dễ gây sát
+thương, vảy dày, mất mực
+Vol tương đồng với tốc độ tay => dễ
+dàng kiểm soát được lượng mực vào và
+độ sát thương. Đánh bóng vào màu
+mịn đẹp.
+33
+
+========== TRANG 34/202 ==========
+ Cách cầm máy xăm đánh bóng:
+Đặt các ngón tay tương tự như cách cầm máy
+đi nét.
+Tuy nhiên khi đánh bóng vào màu, chúng ta
+không cầm chắc máy, không ghì không dúi,
+không ấn máy xuống. Làm như vậy sẽ tạo ra
+sát thương nghiêm trọng.
+Cần phải thả lỏng tay, ít tác dụng lực vào máy.
+Quét mã QR để xem video hướng dẫn chi tiết
+dễ hiểu
+ĐÁNH BÓNG, TÔ MÀU LÀ GÌ?
+Đánh bóng hình xăm (Shading) là việc sử dụng mực đen để tạo sắc độ cho
+hình xăm. Ví dụ xăm tả thực đen trắng, xăm nền khối trong hình châu Á,
+nhật cổ...
+Tô màu là sử dụng mực màu để xăm, tô màu không được gọi là đánh
+bóng.
+34
+
+========== TRANG 35/202 ==========
+ 1 - T Ô ĐEN, T Ô MÀU , ĐÁNH BÓNG  
+ Điểm giống nhau của việc tô đen, tô màu, đánh bóng của các thể loại xăm là
+tương tự như nhau.
+1.Nghiêng máy và di chuyển theo hình elip nhỏ. Mỗi nhịp tiến lên 1 khoảng
+cách ngắn nhất định.
+2.Giống như đồng hồ, luôn luôn quay 1 vòng là 60 giây . Tốc độ tay của bạn
+cũng phải thế, luôn luôn đều ở 1 nhịp độ.
+3.Muốn tô mịn đều. Hãy giữ kim ở 1 độ sâu nhất định. Nếu xăm lúc nông, lúc
+sâu thì bạn đừng hỏi tại sao nó bị lốm đốm.  
+ => Xăm mà chưa mịn thì chắc chắn bạn chưa làm đúng 3 nguyên tắc tr ên.
+ Có người x oáy kim theo hình elip, có người lại x oáy theo hình tr òn, hình dích
+dắc. Có người lại bảo xăm phải theo chiều kim đồng hồ, có người thì bảo xăm
+ngược chiều kim đồng hồ.
+ Với tôi, bạn xăm kiểu gì cũng được, x oáy theo chiều nào cũng được. Miễn là
+đảm bảo làm đúng 3 điều bên tr ên tôi chia sẻ thì chắc chắn mịn.
+ Quét mã QR để x em hướng dẫn tô
+đen, tô màu hình xăm tr ên da giả 👉
+35
+
+========== TRANG 36/202 ==========
+ Sử dụng kim xăm đâm vào da sẽ có 2 trường
+hợp xảy ra.
+1.Nếu đặt mũi kim ngang . Khi di chuyển
+sang ngang, nhiều mũi kim sẽ đâm vào
+cùng 1 vị trí khiến cho sát thương. Còn di
+chuyển dọc thì các mũi kim tạo thành hàng
+so le nhau, lúc xăm sẽ để lộ r a 1 r ãnh ở
+giữa => khiến cho xăm lâu dày mực
+2.Các để kim đúng là đặt chéo mũi kim . Bạn có thể
+di chuyển các hướng thoả mái, ít tạo r a rãnh và
+hạn chế sát thương hơn trường hợp 1
+ Điểm khác nhau giữa đánh bóng, tô đen tô màu.
+ Đánh bóng thường đi vol thấp hơn
+ Đánh bóng các tông sáng thì xăm nhanh tay hơn tông tối “hoặc” có thể xăm
+kim nông hơn.
+ Tô đen, tô màu sử dụng vol cao hơn. Đặc biệt tô đen có thể để kim sâu hơn và
+mức vol cao hơn để xăm cho nhanh.
+ Thông thường khi xăm mình để kim khá dài, đâm vào da tầm 2mm. Mọi người
+thường nghĩ cho kim dài sợ sát thương. Nhưng không hề, xăm kim dài nhanh
+vào mực hơn, không phải di đi di lại nhiều lần, hạn chế tấy đỏ và sát thương.
+Quét mã   QR để xem video hướng
+dẫn đánh bóng trên người 👉
+36
+
+========== TRANG 37/202 ==========
+Kỹ thuật chuyển tông khi đánh bóng và tô màu cũng giống nhau.2 - CHUYỂN T ÔNG
+ Cách 1
+Ở tông mực thứ nhất, đến đoạn
+chuyển tông, hất nhẹ kim lên
+“hoặc ” xăm qua qua. Mục đích để
+tạo r a một lớp mực mờ.
+Sau đó sử dụng tông mực thứ 2,
+xăm đè vào tông thứ nhất. Hất
+nhẹ vào, càng vào sâu bên tr ong
+tông 1, càng xăm ít mực hơn.
+Như vậy sẽ tạo r a độ chuyển êm.
+Cách 2 làm tương tự cách 1, chỉ
+cần đổi chiều xăm.  Cách 1
+Cách 2
+Quét mã QR để xem video hướng dẫn xăm chuyển tông
+Chuyển màu trên da giả Chuyển tông trên da giả
+37
+
+========== TRANG 38/202 ==========
+ Cách chuyển tông khối nhật cổ trên người 👉
+ Nguyên tắc khi đánh bóng hay tô màu, chúng
+ta sẽ luôn xăm tông tối trước tông sáng sau.
+xăm tông màu bẩn trước, màu sạch sau.
+Vì nếu làm ngược lại, các tông màu tối sẽ bị
+lem mực lên vùng đã xăm màu sáng. Khiến
+cho hình xăm nhìn bị lem nhem, bẩn => xấu
+ 3 -  ĐÁNH BÓNG QUẢ LẮC
+ Ưu điểm: dễ xăm, xăm dễ mịn, dễ chồng lớp
+chuyển tông và hạn chế sát thương. Rất thích
+hợp xăm tả thực.
+Nhược điểm: để tạo ra 1 khối mịn mà dày
+mực bằng cách này, mình thấy rất mất thời
+gian. Xăm lâu kinh khủng, cho nên mình
+chọn đánh bóng kiểu xoáy.
+Kỹ thuật: Lắc kim qua lại giống như đồng hồ
+quả lắc. Đặt kim xuống và nhấc kim lên từ từ
+và nhẹ nhàng. Mỗi chu kì tiến lên 1 khoảng
+cách nhất định.
+Đan xen các hướng, chồng lớp lên nhau sẽ
+tạo ra độ mịn tuyệt vời.
+ Quét mã QR để xem video cách đánh bóng
+siêu mịn, siêu dễ này. Cuối video mình còn
+chia sẻ kỹ thuật whip shading mà chúng ta
+thường xuyên dùng 👉
+38
+
+========== TRANG 39/202 ==========
+ 4 - WHIP SHADING
+ Kỹ thuật này dùng để xăm những vị
+trí hẹp, vùng góc cạnh rất hiệu quả.
+Thao tác: Đâm kim vào da, sau đó
+kéo sang ngang rồi hất nhẹ kim ra
+khỏi da. Hoặc làm ngược lại.
+Bạn có thể xem video hướng dẫn ở
+video trước (mã QR của trang trước)
+ 5 - RẢI HẠT
+ Kỹ thuật này cực kỳ đơn giản. Bạn chỉ
+cần sử dụng kim nét. Bật vol thấp và
+thao tác tay nhanh là nó sẽ tạo r a
+hiệu ứng hạt.
+Nên sử dụng kim 3RL để cho hạt bé.
+Sử dụng kim to hơn để tạo r a hạt to.
+Kỹ thuật này có thể áp dụng vào
+nhiều phong cách xăm: tả thực, nhật
+cổ....
+👈  Quét mã QR để x em hướng dẫn
+rải hạt của master Thông Cổ
+39
+
+========== TRANG 40/202 ==========
+ CHƯƠNG 6: CÁCH PHA MỰC XĂM
+ 1 - CÁ CH PHA MỰC ĐI NÉT
+  Xăm mực nguyên chất cho nét đen đậm nhưng sẽ bị nở nét. Vì thế cần pha
+nước pha chuyên dụng.
+ 
+ Sử dụng mực TBK và dùng chum mực nào cũng được. Thông thường sẽ pha tỷ
+lệ khoảng là 70% - 80% mực, còn lại đổ đầy nước pha.
+Lưu ý: đối với nét mảnh, chữ mini chỉ nên pha 60% mực + 40% nước để hạn chế
+nở nét.
+ 2 - PHA MỰC XĂM ĐEN TRẮNG T Ả THỰC
+ Nguyên liệu: mực TBK, 6 chum mực 14x12, nước pha mực đen.
+ Rót mực ra lần lượt 6 chum mực là:
+Chum 1: 1 giọt mực
+Chum 2: 3 giọt mực
+Chum 3: 6 giọt mực
+Chum 4: 9 giọt mực
+Chum 5: 12 giọt mực
+Chum 6: rót 80% mực
+(chum 6 này để đi nét và
+tô đen)
+Sau đó đổ đầy nước pha
+vào tất cả các hũ và
+ngoáy đều trước khi sử
+dụng.
+Lưu ý: tông 1 giọt khá
+nhạt, chỉ phù hợp dùng
+cho khách da trắng. Da
+ngăm thì dùng tông 3
+giọt trở lên.
+40
+
+========== TRANG 41/202 ==========
+3.2 SỬ DỤNG MỰC TBK VÀ BLK KẾT HỢP DIAU AN
+ sự kết hợp này sẽ cho ra chất xám đậm và đẹp. Vì thế cách này được rất nhiều
+thợ xăm sử dụng.
+ Nguyên liệu: mực TBK, mực BLK và mực DIAU AN, nước pha mực đen. 1 chai
+chiết 8oz và 4 chai chiết 4oz.
+Pha hỗn hợp 60% Diau-an với 40% BLK. Sau đó rót ra 4 chai chiết 4oz với tỉ lệ là:
+Chai 1: 40% mực
+Chai 2: 20% mực
+Chai 3: 10% mực
+Chai 4: 5% mực
+Chai 5: rót 80% mực TBK. Riêng chai này sử dụng mực TBK để đi nét và tô đen.
+ Sau đó đổ đầy nước pha vào tất cả các chai, như vậy là chúng ta sẽ có set mực
+chuyển tông nhật cổ.3 - PHA MỰC XĂM ĐÁNH KHỐI NHẬT CỔ
+3.1 SỬ DỤNG MỰC TBK VÀ BLK
+ Nguyên liệu: mực TBK   và mực BLK, 4 hũ mực 17x14, nước pha mực đen.
+Rót mực ra các chum lần lượt là:
+ Chum 1: 3 giọt mực BLK
+ Chum 2: 6 giọt mực BLK
+ Chum 3: 15 giọt mực BLK
+ Chum 4: rót 80% mực TBK   (chum mực này để đi nét và tô đen)
+Sau đó đổ đầy nước pha vào tất cả các chum và ngoáy đều trước khi sử dụng.
+ Quét mã QR để x em
+tất cả các cách pha
+mực tr ong xăm 👉
+41
+
+========== TRANG 42/202 ==========
+3.3 SỬ DỤNG MỰC CÁC SET MỰC PHA SẴN
+ Các set mực pha sẵn luôn sự lựa chọn hàng đầu của những ai yêu thích chất
+mực đẹp, có độ lỳ của nhật cổ. Sau một thời gian xăm, hạt mực sẽ tan ra và mịn
+hơn.  
+ Trong các set mực trên thị trường thì set 23 Ink Greywash đang được nhiều
+người dùng nhất. Bạn có thể tham khảo và đặt hàng tại các shop đồ xăm lớn -
+uy tín. Ví dụ: Trần Chương Tattoo Shop.
+42
+
+========== TRANG 43/202 ==========
+4 - PHA MỰC XÁM CHUYỂN TÔNG
+ Nguyên liệu: mực đen, mực trắng, 4 hũ mực 17x14 và nước pha mực màu.
+Chum 1: 2 giọt mực đen
+Chum 2: 5 giọt mực đen
+Chum 3: 10 giọt mực đen
+Chum 4: 15 giọt mực đen
+Tiếp theo đổ mực trắng vào tất cả các chum mực cho đến khi đầy 2/3 chum.
+Cuối cùng đổ đầy nước pha vào tất cả các chum và ngoáy đều trước khi sử dụng
+5 - PHA MỰC MÀU
+ Nguyên liệu: mực màu, nước pha mực màu và hũ mực size bất kỳ.
+Nếu pha quá đặc thì xăm sẽ khó vào màu, dễ tạo ra những mảng màu lốm
+đốm, mực bị bết, dính trên da, khó lau chùi.
+Nhưng nếu pha loãng thì xăm lâu dày mực, màu sắc nhợt nhạt, không tươi.
+Mỗi chai mực màu lại có độ đặc loãng khác nhau. Làm sao để pha chuẩn bây
+giờ ??  
+Chỉ có trải nghiệm nhiều mới có thể giúp bạn dễ dàng pha mực xăm chuẩn, để
+dễ dàng xăm nhanh vào mực, màu tươi sáng.
+Đây là công thức cơ bản để bạn pha mực:
+Chai nào mực loãng, pha ít nước, khoảng 20-30%
+Chai nào mực đặc, pha nhiều nước 40-60% nước
+=> Mực càng đặc càng phải pha nhiều nước. Quét mã QR, xem ngay video này
+để hiểu hơn về cách pha mực màu.
+43
+
+========== TRANG 44/202 ==========
+CHƯƠNG 7: SCAN HÌNH XĂM
+Bước 1: Cạo lông, “ vệ sinh sạch sẽ bằng cồn ”
+rồi lau thật khô.
+Lưu ý: Không vệ sinh bằng blue soap, vì nó
+tạo r a chất nhờn bám ở ngoài bề mặt da, scan
+lên lau dễ tr ôi nét.
+Bước 2: Thoa gel scan thật đều, thật thật đều
+lên da.
+Lưu ý: Thoa nhiều dễ bị nở nét scan, thoa ít lại
+không đủ độ bám dính. Mỗi loại gel lại thoa
+khác nhau. Ví dụ, gel scan Og chỉ cần thoa ít
+thì dính r ất chắc, thoa nhiều thì lại không
+dính. Còn gel scan Swallo w lại ngược lại so với
+gel OG. Hãy hỏi người bán để hiểu hơn về đặc
+tính của gel
+Bước 3: Dính bản scan lên, để khoảng 1 phút
+cho nét scan bám lên da rồi mới lột r a.
+Bước 4: Dùng giấy ấn nhẹ vào da để thấm
+phần gel scan thừa đi. Mục đích cho   nét scan
+nhanh khô, hạn chế nở nét. Sau đó đợi 15-30
+phút rồi mới xăm.
+ Keo 502 cũng vậy , khi dính x ong cần đợi khô
+thì nó mới chắc chắn được. Scan hình xăm
+cũng thế, cần đợi khô gel thì nét scan mới
+bám chắc.
+Tổng hợp video về cách scan kín lưng, kín tay ,
+từ ngực nối r a tay ở đây 👉1 - CÁCH SCAN HÌNH XĂM BÁM CHẮC NHƯ DÍNH
+KEO 502
+44
+
+========== TRANG 45/202 ==========
+ Để nét scan bám chắc, bạn
+không thể dùng sản phẩm đểu
+được. Hãy chọn các loại sản
+phẩm chất lượng tầm trung trở
+lên, ưu tiên dùng loại tốt. Có thể
+kể tên một số sản phẩm như
+sau:
+Gel scan: HV, Anchored, hoặc
+Swallow, OG cũng được.
+Giấy scan. Nếu là scan tay,
+ưu tiên dùng loại 3 lớp. Nếu
+là scan máy, dùng giấy
+Dr.tattoo hoặc Spirit loại từ
+600k/hộp trở lên. Còn loại tốt
+nhất là giấy 4 lớp Spirit của
+Mỹ 1800k/hộp 100 tờ.1. Do chính tay bạn lau nét scan nên nó bị mất.  
+Chính thói quen lau miết mực thừa, vô tình bạn đã lau luôn cả nét scan. Cách
+làm đúng dùng giấy thấm “thấm thấm” mực thừa.
+ Thói quen dư thừa của thợ xăm là đi được 1 nét ngắn xong lau miết 1 cái, thao
+tác đó làm mất thời gian và nhanh mất nét scan. Nên đi nét đến khi nào trong
+kim hết mực, thậm chí khi nào cần làm sạch mới thấm mực thừa.
+ 
+Luôn thoa vaseline trước khi đi nét để lúc thấm mực, mực thừa sẽ hút hết vào
+giấy. Còn nếu không thoa vaseline hoặc thoa quá ít, lúc thấm mực sẽ không hết
+được  mực thừa, bạn sẽ phải lau và lau nhìn rất lem nhem. Tôi gọi đó là bẩn,
+thiếu chuyên nghiệp.
+Ngoài ra còn các  yếu tố sau làm nhanh trôi nét scan:
+2. Cơ địa ra mồ dầu, ra mồ hôi sẽ nhanh trôi nét.
+3. Không vệ sinh sạch sẽ trước khi scan, kĩ thuật scan kém.
+4. Sử dụng sản phẩm kém chất lượng2 - T ẠI SA O KHI XĂM LẠI NHANH TRÔI MẤ T NÉT
+SCAN
+45
+
+========== TRANG 46/202 ==========
+CHƯƠNG 8: CÁCH Ủ TÊ
+1. Chuẩn bị và Thoa k em
+Vệ sinh: Dùng cồn vệ sinh sạch sẽ vùng da cần ủ tê trước khi bắt đầu.
+Thoa k em: Thoa k em lên da một cách đều và kỹ . Một lưng thông thường sẽ
+dùng khoảng 4 tuýp k em.1 - CÁ CH Ủ TÊ
+2. Bọc và Ủ
+Cố định: Dùng một lớp màng bọc thực phẩm dính lên để cố định k em, giúp
+kem không bị chạy lung tung.
+Mẹo cho vùng lõm: Đối với những vùng bị lõm như sống lưng hoặc r ãnh
+ngực, bạn nên đặt thêm giấy vào để ép màng bọc sát vào cơ thể, giúp k em
+ngấm nhanh hơn.
+Bọc kín: Bọc thật kỹ và dùng băng dính cố định lại.
+Trong thời gian chờ: Hạn chế di chuyển và không ngồi trước luồng gió lạnh
+của điều hòa.
+46
+
+========== TRANG 47/202 ==========
+3. Vệ sinh sau khi ủ
+Gạt bỏ tê: Sau khi đủ thời gian ủ, dùng thẻ bài gạt sạch lớp tê đi.
+Lau sạch: Dùng giấy và nước lau sạch sẽ vùng da. Kiểm tr a bằng cách sờ tay
+lên da, nếu không thấy dính là đạt yêu cầu.
+Thời gian chờ: Sau khi loại bỏ tê, cần để khoảng 10 phút cho da ổn định rồi
+mới bắt đầu xăm.
+Một số lưu ý quan khi dùng tê:
+Sau khi ủ tê: Không dùng cồn hoặc Blue Soap vì sẽ làm tê nhanh hết. Nên
+hạn chế lau rửa nhiều, thay vào đó hãy dùng giấy thấm mực thừa chứ
+không lau miết. Khi lau miết nhiều, bạn đã vô tình lau sang những vùng
+cạnh đó khiến nhanh hết tê.
+Ủ tê tuỳ theo vị trí: T rên cơ thể có những vị trí da dày , da mỏng. V ùng nào
+da dày cần ủ nhiều tê hơn và ủ thời gian lâu hơn để tê đạt hiệu quả cao.
+Vùng nào da mỏng thì ủ tê với thời gian ngắn hơn để tr ánh bị cháy tê.
+Ủ lần 2: Nếu cần ủ lại tại một vị trí, thời gian ủ lần 2 phải ngắn hơn lần 1. Ví
+dụ: Lần 1 ủ 60 phút thì lần 2 chỉ nên ủ khoảng 30 phút. T uyệt đối không ủ
+kem vào chỗ vừa mới xăm x ong, hình chưa lành.
+Xử lý sự cố:
+Dị ứng tê sẽ nổi đỏ phồng r ộp ngay sau khi ủ. V ệ sinh sạch sẽ, đợi khoảng
+30 phút cho hết phồng r ộp thì có thể xăm tiếp, tuy nhiên tê sẽ ít không có
+tác dụng nhiều. T rường hợp càng ngày càng nổi đỏ và phồng r ộp thì không
+xăm. 2-3 ngày vẫn có triệu chứng ngứa ngáy , mẩn đỏ, buồn nôn, mức độ
+tăng dần không giảm thì nên đi khám bác sĩ
+ Nếu vệ sinh không sạch hoặc ủ quá lâu có thể dẫn đến cháy tê. Xăm lên bị
+rộp da, lồi lõm. Khi đó cần vệ sinh sạch bằng nước muối sinh lý ngày 2 lần
+và giữ khô r áo. Dần dần tình tr ạng đó sẽ hết và những hình xăm đó có thể
+bị mất mực.47
+
+========== TRANG 48/202 ==========
+1. Do cơ địa khách không ăn tê.
+ Có một số khách dùng đủ các loại tê nhưng vẫn không hiệu quả. Dù đã dùng
+loại tê tốt nhất nhưng vẫn chỉ tê được khoảng 30 phút, thậm chí không tê. Và
+trường hợp này hiện chưa có cách khắc phục hiệu quả, nên xăm sống hoặc
+uống thuốc giảm đau.
+2. Các yếu tố làm nhanh hết tê đến từ người thợ xăm
+Ủ tê hời hợt, không đúng quy trình  
+Ủ tê quá ít. Để hở, không quấn màng bọc thực phẩm kỹ. Lưu ý: Nên dùng
+màng bọc thực phẩm, sẽ tạo ra độ nóng khi ủ tê, giúp tê nhanh ngấm. Dùng
+màng co, màng Pe bọc đồ kém hiệu quả hơn màng bọc thực phẩm
+Chà rửa, lau miết quá nhiều sau khi ủ tê
+3. Thời tiết
+Lúc ủ tê ngồi trước điều hoà lạnh, lỗ chân lông co lại khiến tê không ngấm
+vào da được.
+Quá nóng khiến khách hàng toát mồ hôi, làm trôi tê, nhanh hết tê.
+4. Do tê chất lượng k ém.
+ Các loại tê phổ biến nhất là TKTX và tê Bọ cạp, tác dụng được khoảng 3-5 giờ.
+Nhưng nếu mua phải hàng đểu, tác dụng chỉ được 1-2 giờ. Vì thế, nên mua tê ở
+các cơ sở uy tín, ví dụ như shop: T rần Chương T attoo Shop.2 - T ẠI SA O NHANH HẾT TÊ
+Dị ứng tê khiến da bị
+phồng r ộp, nổi đỏ 👉
+48
+
+========== TRANG 49/202 ==========
+Freehand là kỹ thuật vẽ trực tiếp lên da khách bằng tay
+Mục đích của fr eehand là:
+Thiết k ế ôm theo cơ bắp
+Cover hình cũ theo ý
+Freehand giúp hình:
+Tự nhiên hơn
+Chạy theo cấu trúc cơ thể
+Nhìn “ đã mắt ” hơn
+Cách fr eehand:
+Không vẽ lên da bị dính chất nhờn, mồ hôi bị bẩn. Cần vệ sinh da bằng cồn
+trước khi vẽ, sau đó lau khô. Mục đích: viết lên mực sẽ bám tốt hơn.  
+Phác thảo bằng bút màu xanh lá, sau đó vẽ lại bằng màu đỏ. Cuối cùng chốt
+nét bằng mực xanh dương và mực tím. Vì mực xanh lá dễ bị tr ôi mất nét và
+có thể bị màu khác đè nên. Bút mực xanh dương và mực tím là bám chắc
+nhất.
+Vẽ xong để mực khô rồi mới xăm.CHƯƠNG 9: FREEHAND HÌNH XĂM
+Lý do nhanh tr ôi mất nét vẽ:
+Vẽ trên da bẩn
+Khách r a mồ hôi
+Lau miết nhiều khi xăm
+Bút mực k ém chất
+lượng. Nên dùng các
+loại bút mực chuyên
+dụng để vẽ. Mực hay
+được sử dụng nhất là
+mực Swallo w (Sơn én)
+49
+
+========== TRANG 50/202 ==========
+Ngay sau khi xăm x ong
+Lau sạch mực và dịch
+Bôi dưỡng rồi bọc màng bọc thực
+phẩm lại
+Sau khoảng 1-2 giờ => Tháo bọc và
+rửa sạch chất nhờn rồi thấm khô.
+Chăm sóc hình xăm liên tục tr ong 14 ngày
+kề từ khi xăm x ong:
+Vệ sinh sạch sẽ rồi dùng khăn thấm
+khô trước khi thoa dưỡng.  
+Thoa dưỡng thật mỏng ngày 2-3   lần.
+Nếu thoa quá dày khiến cho hình xăm
+bị cấp ẩm quá mức và làm cho hình
+xăm bị dr ộp.
+Sau khoảng 4 ngày , hình xăm sẽ bong
+vảy và ngứa, tuyệt đối không được gãi
+hoặc cạy vảy .
+Không sử dụng dầu gội sữa tắm để
+trà rửa hình xăm, không ngâm mình
+trong bồn tắm, hồ bơi, biển tr ong ít
+nhất 2 tuần đầu.
+Tránh ánh nắng: hình xăm bị thâm xỉn
+khi ánh nắng chiếu trực tiếp lên hình
+xăm.
+Trang phục: Mặc quần áo r ộng r ãi,
+thoáng mát, tr ánh bó sát.
+Vận động: Hạn chế các hoạt động thể
+thao r a nhiều mồ hôi tr ong tuần đầu.CHƯƠNG 10: DƯỠNG HÌNH XĂM
+1 - CÁCH DƯỠNG HÌNH XĂM Dưỡng hình xăm là quá trình chăm sóc da sau khi xăm để:
+Giữ màu tươi sáng
+Hạn chế nhiễm trùng
+Tránh sẹo, bong mảng
+Giúp hình lành đẹp như lúc mới hoàn thiện
+👉 50% độ đẹp của hình xăm nằm ở tay nghề.
+ 👉 50% còn lại nằm ở cách dưỡng.
+50
+
+========== TRANG 51/202 ==========
+ Lưu ý: Hình xăm bị sát thương,
+mưng mủ. T uyệt đối không thoa
+dưỡng, vì lúc đó cần khô r áo để
+hình xăm nhanh lành.  Chỉ khi
+nào hình xăm đã khô và có dấu
+hiệu bong mài mới được thoa
+dưỡng. Hình xăm sát thương sẽ
+mất mực, sau khoảng 45 ngày sẽ
+xăm sửa lại được.
+Mới xăm có phải ăn kiêng gì không?
+Không phải ai cũng cần ăn kiêng nghiêm ngặt.
+Người cơ địa bình thường, xăm không sát thương 👉 không cần ăn kiêng
+nghiêm ngặt
+Người có cơ địa sẹo lồi 👉 nên kiêng kỹ hơn
+Nếu từng dị ứng món nào 👉 tuyệt đối tr ánh
+❌ Thịt bò: Có thể làm vùng xăm sậm màu hơn ở một số cơ địa.
+❌ Hải sản :Dễ gây ngứa, dị ứng khi da đang là vết thương hở.
+❌ Xôi nếp, bánh nếp: Có thể làm vết thương sưng, lâu khô với người cơ địa
+nhạy cảm.
+❌ Rau muống: Dân gian cho r ằng dễ gây sẹo lồi (đặc biệt người cơ địa sẹo).
+❌ Rượu bia: Làm loãng máu => dễ sưng, lâu lành.
+Nếu xăm sát thương thì cần kiêng các thứ tr ên cho đến khi da bong vảy hoàn
+toàn.
+5151
+
+========== TRANG 52/202 ==========
+ Miếng dán bảo vệ hình xăm là lớp màng tr ong suốt, giúp:
+Ngăn vi kh uẩn
+Hạn chế ma sát
+Giữ m ôi trường ẩm lý tưởng để da phục hồi
+Giảm nguy cơ nhiễm trùng
+👉 Đây là phương pháp dưỡng hiện đại, nhưng phải dùng đúng cách.
+1⃣  Khi nào nên dùng?
+Vùng dễ cọ xát
+Khách không có điều kiện chăm sóc kỹ
+Không nên dùng khi hình xăm bị sát thương.
+2⃣  Cách dán  
+Bước 1: V ệ sinh
+Dùng màng bọc thực phẩm bọc hình xăm lại khoảng 20-30 phút để cho
+nước mô r a hết.
+Vệ sinh sạch sẽ. Sau đó sử dụng cồn lau xung quanh vị trí ngoài hình xăm
+để miếng dán được bám chắc hơn. Lau khô trước khi dán.
+Bước 2: Chuẩn bị
+Cắt lớn hơn hình xăm 2–3cm mỗi cạnh
+Bo tr òn góc để tr ánh bong mép
+Bước 3: Dán
+Gỡ lớp bảo vệ
+Dán nhẹ từ một phía, miết đều tr ánh bọt khí
+3⃣  Để bao lâu?
+Thông thường:
+✔ Lần đầu: giữ 4–5 ngày
+ Hoặc
+ ✔ 24 giờ đầu => thay miếng mới => giữ thêm 3–4 ngày
+Việc thay miếng dán mới tr ong 24 giờ đầu sẽ hạn chế r a quá nhiều dịch bên
+trong màng bọc. Sau 24h thì không được lột r a. 
+Nếu có dịch thì để im, không sao cả.
+4⃣  Cách tháo đúng
+Tháo khi đang tắm nước ấm
+Kéo song song với da, không giật thẳng lên
+Tháo chậm để tr ánh tổn thương lớp da non2 - CÁ CH DÙNG MIẾNG D ÁN B ẢO VỆ HÌNH XĂM
+52
+
+========== TRANG 53/202 ==========
+ Ở khu tôi ở có một tiệm xăm khá đông khách.
+Tay nghề anh ta không hơn tôi.
+Nhưng ảnh anh ta đăng lên — nhìn như tác phẩm quốc tế.
+Mực đen sâu. Màu sắc rực rỡ. Chi tiết sắc đến mức khách chỉ nhìn ảnh đã muốn
+đặt lịch.
+Còn tôi?
+Xăm x ong ngoài đời nhìn r ất ổn.
+Nhưng chụp lên thì ảnh bị chói làm mất chi tiết
+Màu sắc nhạt đi một nửa.
+Khách x em x ong im lặng r ời đi.
+53
+
+========== TRANG 54/202 ==========
+ Không phải vì tôi xăm dở.
+Mà vì ánh sáng đang phản bội tay nghề của tôi.
+Camer a không ghi lại thứ mắt ta thấy .
+Nó ghi lại phản xạ ánh sáng tr ên da.
+Bức ảnh lóa.
+Chi tiết mờ nhạt.
+Và khách hàng… chỉ nhìn qua ảnh.
+54
+
+========== TRANG 55/202 ==========
+Một khách full tay trị giá khoảng 20-30 triệu.
+Chỉ cần mất 1 khách vì ảnh không đủ ấn tượng
+Bạn đã mất nhiều hơn cả tiền mua một hệ thống ánh sáng chuẩn.
+55
+
+========== TRANG 56/202 ==========
+Khi tôi đi học nâng cao ở Hà Nội, tôi mới nhận r a bí mật mà ít người nói:
+Lens filter cho camer a điện thoại
+Phim phân cực cho đèn.
+Kết hợp lại ta sẽ kiểm soát được ánh sáng:
+ Chói loá biến mất.
+ Mực đen sâu lại như mực in.
+ Màu sắc nổi bật hẳn lên.
+Tôi thử áp dụng.
+Ảnh thay đổi hoàn toàn.
+camera thường camera dùng filter
+ Tác phẩm xăm của tôi cũng được nhiều người chú ý đến.
+Họ vào x em tr ang cá nhân bắt đầu tương tác, nhắn tin nhiều hơn.
+Họ đặt lịch.
+Từ đó tôi hiểu một điều:
+Ảnh xăm không chỉ để lưu giữ tác phẩm.
+Nó là vũ khí mark eting, tạo r a nhiều khách hàng và đưa sự nổi tiếng của tôi lên.
+56
+
+========== TRANG 57/202 ==========
+  Vì vậy tôi đã tối ưu sẵn một
+combo đèn + lens filter dành
+riêng cho thợ xăm.
+Bạn không cần tự mò filter
+nào hợp.
+Không cần thử sai từng loại
+đèn.
+Chỉ cần lắp vào điện thoại là
+dùng.
+Nếu bạn vẫn đang để ánh
+sáng làm nhạt đi công sức
+của mình,
+bạn không thiếu kỹ thuật.
+Bạn chỉ thiếu hệ thống ánh
+sáng đúng.
+Nhắn tin cho tôi.
+Tôi sẽ chỉ cho bạn các đồ tôi
+dùng để chụp ảnh xăm
+chuẩn như chuyên gia quốc
+tế.
+Trước và sau khi dùng filter:Lens
+Đèn
+Kẹp điện thoại
+57
+
+========== TRANG 58/202 ==========
+CHƯƠNG 11: CÁCH CHỤP HÌNH
+XĂM CHỐNG LOÁ
+Dụng cụ cần có:
+Lens chụp ảnh xăm
+Đèn xăm bất kỳ, nhưng phải
+được dán phim phân cực kín mặt
+đèn.  
+Nên sử dụng loại đèn chuyên chụp
+ảnh sẽ cho ánh sáng thích hợp và
+màu sắc ảnh xăm cũng đẹp hơn.
+Cách chụp:
+Bước 1:   Tắt hết điện nhà, nên chụp
+trong không gian tối
+Bước 2: Xoay filter đến khi màu rực
+nhất, không bị chói
+Bước 3: Kéo độ sáng xuống cho phù
+hợp sau đó chụp ảnh hoặc quay
+video.  
+Bước 4: Đăng lên mạng làm
+marketing và đợi khách ibox đặt lịch
+xăm.
+58
+
+========== TRANG 59/202 ==========
+CHƯƠNG 11: SỬA - ĐÈ HÌNH XĂM
+ Những tông màu phù hợp để đè
+hình hư hỏng là những tông
+màu trầm, tối. Ví dụ: màu xanh
+dương, màu tím, màu xám.
+Nhưng lưu ý phải là tông tối, vì
+nếu làm tông sáng thì sau khi
+bong ra, hình cũ nó vẫn sẽ nổi
+lên.1 - MÀU NÀ O ĐÈ HÌNH HIỆU QU Ả
+ Hình xăm sẽ không mất đi mà nó vẫn sẽ nằm dưới lớp da. Khi đè màu khác vào,
+sau 1 thời gian nó sẽ tạo ra màu trung gian. Cũng giống như ví dụ mình lấy ở
+bài xăm tô đen xong nhấn trắng. Và chúng ta sẽ phải xăm đi xăm  lại nhiều lần
+thì mới hiệu quả. Mỗi lần cách nhau vài tháng để da được phục hồi.
+ Khi đè hình, hãy tận dụng những vùng da không có hình cũ để thể hiện những
+phần chính trong hình xăm. Những phần có hình hư hỏng sẽ xăm màu tối và
+hình chi tiết 1 chút đề lấp liếm được hình hỏng.
+59
+
+========== TRANG 60/202 ==========
+ Cách đè hình hiệu quả là xoá xăm cho hình xăm cũ mờ đi,  rồi mới sửa hình.
+Nguồn ảnh: sưu tầm
+60
+
+========== TRANG 61/202 ==========
+ Với hình xăm hư hỏng, khách hàng t hường hay nghĩ đến chuyện tô đen nhấn
+trắng.
+ Nhưng điều đó là không khả thi. Khi tô đen xong nhấn trắng, mực trắng sau 1
+thời gian sẽ ngả sang màu vàng. Nếu muốn trắng, chúng ta cần phải dặm lại
+hình. Mỗi lần xăm lại cần cách nhau khoảng 1-2 tháng, để da có đủ thời gian hồi
+phục.
+ Tuy nhiên nếu cứ xăm đi xăm lại trong thời gian ngắn như vậy. Da sẽ dễ bị tổn
+thương, chảy máu khi xăm, gây sát thương.2 - XĂM ĐEN NHẤN TRẮNG
+61
+
+========== TRANG 62/202 ==========
+Tại sao xăm mực trắng lên, lại bị ố màu, không giữ lại được màu trắng như ban
+đầu.
+Bởi vì khi xăm mực trắng vào da đã bị tô đen. Lớp mực đen vẫn còn nằm trong
+da. Mực trắng sẽ trung hoà với mực đen tạo  ra 1 màu khác. Cộng thêm yếu tố
+da người là một màu da vàng. Vì vậy, khi tô đen nhấn trắng sau 1 thời gian
+chúng ta sẽ nhìn thấy 1 màu xám xỉn.
+Những ví dụ để các bạn hiểu hơn về điều mình nói trên:
+– Ví dụ cơ thể mình là 1 cốc nước thuỷ tinh màu vàng nhạt, có thể nhìn xuyên
+qua. Các bạn đổ mực đen vào cốc, sau đó đổ mực trắng vào. Đứng ở phía ngoài
+cốc các bạn sẽ nhìn thấy màu gì ?
+– Cụ thể hơn các bạn sử dụng 1 tờ giấy màu vàng, sau đó tô màu đen lên, tiếp
+tục tô màu trắng. Nó cũng sẽ tạo ra màu bẩn, chúng ta không thể nhìn rõ màu
+trắng sau khi tô như vậy.
+62
+
+========== TRANG 63/202 ==========
+Tiện đây mình xin chia sẻ thêm:
+ 
+* Lớp da của chúng ta như 1 tấm kính có màu và có thể nhìn xuyên qua.
+– Đối với những khách hàng da đen, không nên xăm màu. Vì khi xăm màu lên,
+lớp da đen sẽ phủ ngoài lớp mực màu đó. Thực tế màu vẫn là màu đó, nhưng
+khi nhìn qua lớp da đen, chúng ta sẽ thấy màu bị xỉn.
+– Còn đối với người da trắng, màu sẽ hạn chế bị sỉn cũng bởi vì tấm kính đó có
+màu trắng trong suốt. Màu sắc khi xăm sẽ được hiển thị rõ ràng hơn.
+ 
+* Mực màu xăm theo thời gian cũng sẽ bị cơ thể đào thải, vì thế màu sắc sau vài
+năm sẽ bị sỉn theo thời gian. Không được tươi như lúc mới xăm.
+3 - X OÁ XĂM
+  Với kiến thức mình biết. Xoá rất khó để hết được hình xăm cũ, hình mờ thì có
+thể. Những hình càng đậm, xoá càng lâu; đặc biệt là màu đỏ cực kỳ khó xoá.
+Xoá xăm cường độ mạnh có thể dẫn đến bị sẹo.
+Vì thế, hãy xoá từ từ, làm mờ hình xăm sau nhiều lần bắn laser. Quá trình xoá
+xăm có thể lên tới 5-10 lần, mỗi lần cách nhau 1-2 tháng. Tuy nhiên khi bán
+laser quá nhiều, vùng da đó bị mỏng đi và dễ tạo thành sẹo.
+Ảnh sưu tầm
+63
+
+========== TRANG 64/202 ==========
+4 - XĂM ĐÈ VÙNG TRÀM, VẾT D ẠN NỨT & SẸO
+Đối với những vùng da tràm, hãy dùng
+màu có sắc độ tối hơn vùng da tràm đó
+để xăm.
+ Hãy nhớ lại bài trước, da của chúng ta
+như 1 tấm gương có màu và có thể
+nhìn xuyên qua. Vì thế, xăm những
+màu sáng sẽ bị màu của vết tràm che
+mất.  
+Quá dễ hiểu đúng không bạn yêu. Đối với những vết sẹo, thông thường sẽ là sẹo thâm. Những vùng này xăm
+khi bong ra hay bị mất mực. Hãy xăm những gì có sắc độ tối , ít chi tiết để
+đè lên. Ví dụ như tô khối nhật cổ màu đen.
+Ảnh sưu tầm
+64
+
+========== TRANG 65/202 ==========
+ Đối với vết dạn cũng tương tự. Sau khi xăm, vết rạn, vết tràm vẫn nằm ở đó, sắc
+độ của nó không hề biến mất. Vì thế hãy xử lý khéo léo để đánh lừa thị giác. Hãy
+xăm những hình có nhiều chi tiết, nó dễ dàng tạo ra sự hài hoà giữa hình xăm
+và các vết rạn, vết tràm.
+Ảnh sưu tầm
+65
+
+========== TRANG 66/202 ==========
+CHƯƠNG 13: CÁC CÂU HỎI KHÁC
+ Mới xăm x ong vài ngày mà bị mụn
+li ti là do:
+Thoa quá nhiều vaseline khi
+xăm. Hoặc xăm nhiều ngày liên
+tục, cơ thể mệt mỏi sẽ phản
+ứng lại. Nó sẽ đẩy vaseline r a
+ngoài tạo thành mụn.
+Không đảm bảo an toàn vệ
+sinh trước và sau xăm: Dụng
+cụ xăm bị bẩn, mực xăm k ém
+chất lượng, khách hàng không
+giữ vệ sinh sau xăm.
+Bôi nhiều dưỡng, da bị “ ngộp ”,
+dầu và mồ hôi k ẹt lại => lên
+mụn li ti/mụn nước nhỏ mọc
+quanh hình xăm.1 - NỔI MỤN SAU XĂM LÀ DO Đ ÂU
+2 - T ẠI SA O KHI XĂM NƯỚC MÔ NHIỀU   Xăm lâu rồi n hững vẫn lên mụn và ngứa cũng là quá trình cơ thể phản ứng lại
+với mực xăm, có thể thoa “thuốc 7 màu” để chữa.
+ Nước mô nhiều tro ng quá trình xăm là do:
+1 – ít ngủ, ngủ không đủ.
+2 – Dùng chất kích thích.
+3 – Dùng thuốc.
+4 – Kỹ thuật xăm
+Trong quá trình làm nghề, mình chưa gặp
+ai chảy nước mô nhiều mà không dính
+phải 1 trong 4 điều trên. Như vậy là các
+bạn đã biết nguyên nhân để khắc phục.
+Quét mã QR để xem video nguyên nhân
+xăm ra nước mô 👉
+66
+
+========== TRANG 67/202 ==========
+3 - CHÁ Y MÀU  
+Cháy màu là hiện tượng màu bị thâm, ố vàng, tối đục sau khi bong vảy.  
+Đây là tình trạng xăm sát thương trên bề mặt da.  
+Vì sao xảy ra cháy màu?
+Đè tay quá mạnh: Nghĩ rằng ấn mạnh cho ăn mực nhanh => da bị chấn
+thương nặng.
+Đi quá nhiều lần lên một vị trí: Lặp lại quá nhiều để làm đậm => da không
+kịp hồi phục.
+Stroke dài, volt cao. Lực đánh quá gắt => phá mô da.
+Nước mô ra quá nhiều, xăm mực màu trộn lẫn nước mô => màu bị tối đục
+ Xăm xong mực vẫn dày bình
+thường nhưng bề mặt da bị tổn
+thương. Nó giống như việc mình   
+ngã xe, chỗ bị ngã vùng da đó sẽ
+thâm lại. Lớp màu nó nằm ở dưới
+vùng da thâm cho nên chúng ta sẽ
+nhìn thấy màu ố vàng, tối đục.
+ Tin vui là tình trạng cháy màu vẫn
+có thể hồi phục lại, tùy thuộc vào
+mức độ tổn thương da. Có những
+hình xăm cần tới 2-3 năm để hồi
+phục hoàn toàn.
+4 - SỈN MÀU
+ Sỉn màu trong xăm hình là tình trạng màu xăm sau khi lành không tươi, không
+trong, mà trở nên đục.
+ Nguyên nhân gây sỉn màu:
+1⃣  Xăm không đủ độ dày mực
+Khi mực không được đặt đủ và đều trong lớp hạ bì, vẫn còn những khoảng da
+hở giữa các điểm kim.
+ Lúc này, màu tự nhiên của da sẽ lấn át màu mực, khiến hình xăm nhìn:
+Không tươi
+Không trong
+Thiếu độ đậm cần thiết
+👉 Màu không không đạt được độ rực mong muốn.
+67
+
+========== TRANG 68/202 ==========
+2⃣  Da bị ngăm do tiếp xúc ánh nắng
+Sau khi xăm, nếu khách ra nắng nhiều hoặc không bảo vệ hình xăm, da sẽ tăng
+sắc tố và trở nên sậm màu hơn.
+Khi da ngăm lại, lớp biểu bì phía trên tối hơn và che màu mực bên dưới.
+Khiên chúng ta nhìn màu bị sỉn
+68
+
+========== TRANG 69/202 ==========
+ Dành cho những bạn muốn bắt đầu vẽ hình xăm Nhật cổ một cách bài bản.
+Cuốn sách giúp bạn đi đúng hướng từ đầu và xây nền tảng vững để phát triển
+lâu dài trong nghề xăm. Cuốn sách này không giúp bạn giỏi vẽ, không giúp bạn
+vẽ đẹp nếu như chỉ xem và không luyện tập.  
+ Trong hình xăm nhật cổ sẽ gồm chủ đề chính, chủ đề phụ, nền khối. Chủ đề
+chính gồm: rồng, rắn, cá chép, samurai, fudog, phượng hoàng, hanya, hoa...
+Hình phụ gồm: lá phong, hoa đào... Nền khối gồm: mây, sóng, dòng nước, đá,
+xoáy, khối...
+ Trong quá trình tập vẽ, chúng ta sẽ luyện vẽ từ nền khối, đến hình phụ, sau đó
+là hình chính. Sau đây là những bài hướng dẫn vẽ cơ bản dành cho các bạnPHẦN 2: THIẾT KẾ HÌNH XĂM 
+#MST
+69
+
+========== TRANG 70/202 ==========
+BÀI 1: VẼ MÂ Y 
+Đúng:  
+Kích thước các mây sẽ to tương đương nhau
+Giữa các mây tạo r a 1 góc khoảng 90*
+Sai: Vẽ không đúng tỉ lệ. Khi tô sẽ khó xử lý.
+7 0
+
+========== TRANG 71/202 ==========
+Sai: đường viền trắng bị khó xử lý.
+Tạo ra góc nhọn → Xấu
+Chuyển từ tối ra sáng.
+Chân mây đậm, ngọn mây nhạt
+7 1
+
+========== TRANG 72/202 ==========
+1 Vẽ hình dạng cơ bản
+của mây ( xoáy )
+2 Sử dụng các hình chữ C, kết
+hợp để tạo thành đám mây
+3 Kết hợp nhiều x oáy k ép để tạo
+thành đám mây phức tạp hơn
+VẼ MÂ Y CUỘN
+72
+
+========== TRANG 73/202 ==========
+BÀI 2: VẼ Đ Á
+1 Chú ý các đường gợn sóng, hướng của các đường bên ngoài của đá phải
+giống các đường bên tr ong.  
+2 Màu sắc của đá thường là tông tối. Chuyển từ tông đen gốc r a tông xám,
+chân đá tối, ngọn đá sáng.
+3 Trên đá thường có các lỗ đá và cỏ cây hoa lá, trứng ốc... để tr ang trí đá.Hình dáng các loại đá:
+73
+
+========== TRANG 74/202 ==========
+7 4
+
+========== TRANG 75/202 ==========
+Cách thể hiện mặt đá phẳng
+Bề mặt kiểu hang động
+75
+
+========== TRANG 76/202 ==========
+Sự k ết hợp đá và dòng nước
+Kết hợp nhiều dòng nước thể hiện
+lưu lượng nước lớn, giống như
+thác nước đổ xuống. Kích thích thị
+giác mạnh.
+Nó có thể chảy dọc theo vách đá, tạo ra hiệu ứng
+thị giác như phun nước ra từ phía sau những
+tảng đá
+Nó cũng có thể chảy xuống từ đỉnh của lỗ đá.
+Tạo ra hiệu ứng thị giác như nước chảy ra khỏi
+hang đá, từ trên rơi xuống, với tốc độ và lưu
+lượng mạnh hơn
+76
+
+========== TRANG 77/202 ==========
+Cỏ cây hoa lá tr ang trí đá
+77
+
+========== TRANG 78/202 ==========
+Ví dụ:
+78
+
+========== TRANG 79/202 ==========
+BÀI 3: VẼ SÓNG
+1 Xác định hướng của sóng 2 Xác định đỉnh của sóng
+3 Nối các điểm tạo thành
+dáng sóng4 Sử dụng phương pháp vẽ chữ C.
+Phác thảo để làm phong phú hình
+dạng tổng thể
+7 9
+
+========== TRANG 80/202 ==========
+5 Kết hợp và tinh
+chỉnh các đường nét
+ Bắt đầu từ những
+điều đơn giản
+trước.
+ Học vẽ sóng đơn
+thành thạo. Sau đó
+kết hợp sóng đơn
+lại tạo thành 1
+cụm sóng
+Sóng đơn Sóng đôi
+cụm sóng bé cụm sóng lớn
+80
+
+========== TRANG 81/202 ==========
+BÀI 4: VẼ L ỬA
+Bước 2: V ẽ nửa còn lại của ngọn lửa theo
+bước đầu tiên. V ẽ thêm chữ C nhỏ ở góc
+để làm nổi bật ngọn lửa. Ngọn lửa thường
+rộng ở phía dưới và hẹp phía tr ên
+Bước 3: Dựa theo 2 bước trước. Bạn
+có thể vẽ một nhóm lửa với nhiều
+nhánh cao, thấp
+81
+
+========== TRANG 82/202 ==========
+82
+Bước 4: Tinh chỉnh bản
+phác thảo và vẽ mặt còn lại
+
+========== TRANG 83/202 ==========
+ BÀI 5: VẼ HO A ĐÀO
+8 3
+
+========== TRANG 84/202 ==========
+CÁC CÁ CH T Ô MÀU HO A ĐÀO
+8 4
+
+========== TRANG 85/202 ==========
+BÀI 6: VẼ LÁ PHONG
+8 5
+
+========== TRANG 86/202 ==========
+8 6
+
+========== TRANG 87/202 ==========
+BÀI 7: VẼ HO A CÚC
+1 Phác thảo
+khung nụ hoa2 Phác thảo
+khung nhuỵ hoa3 Định  
+hướng hoa
+4 Định hướng
+cánh hoa
+5 Định hướng các
+cánh hoa bên ngoài
+87
+
+========== TRANG 88/202 ==========
+6 Vẽ phác thảo cánh hoa dựa theo
+định hướng của bước 5.
+Lưu ý: Các cánh hoa phải mọc từ
+cuống hoa
+7 Vẽ phác thảo nụ hoa và lá
+88
+
+========== TRANG 89/202 ==========
+8 Hoàn thiện
+89
+
+========== TRANG 90/202 ==========
+1 Dựng khung 2 Vẽ cánh hoa
+trong cùng
+3 + 4 Vẽ các lớp cánh hoa tiếp theo
+90
+
+========== TRANG 91/202 ==========
+5 Vẽ lá
+Các dáng hoa khác
+91
+
+========== TRANG 92/202 ==========
+BÀI 8: VẼ HO A MẪU ĐƠN
+1 Xác định hướng và bố cục
+tổng thể2 Xác định các lớp
+cánh hoa bên trong
+3 Xác định các lớp
+cánh hoa bên ngoài4 Phác thảo cánh hoa
+bên trong
+92
+
+========== TRANG 93/202 ==========
+5 Phác thảo các phần
+còn lại
+6 Hoàn thiện - Chốt nét
+93
+
+========== TRANG 94/202 ==========
+BÀI 9: VẼ MẶ T QUỶ
+Phần đầu, có trán, tóc, sừng, tai
+Phần vẽ mắtBước 1: Chia tỷ lệ như hình
+Phần mũi
+Phần cằm
+Bước 2: Dựa theo trục chính giữa.
+Vẽ  lần lượt mắt, mũi, trán, sừng
+94
+
+========== TRANG 95/202 ==========
+Bước 3: Vẽ phần miệng,
+răng, cằm, tai.  
+Cái nào hướng về  
+phía mình + gần → vẽ to hơn
+Bước 4: Chốt nét
+95
+
+========== TRANG 96/202 ==========
+Vẽ mặt góc chính diện ( đối xứng )
+Dựng trục và vẽ lần lượt tương tự
+như vẽ mặt quỷ góc nghiêng
+96
+
+========== TRANG 97/202 ==========
+BÀI 10: VẼ LÂN
+1 Xác định trục chính giữa mặt.
+Chia làm các phần như mô tả Phần trán
+Phần mắt
+Phần mũi
+2 Dựa vào trục chính giữa, vẽ mắt
+và mũi trước. Lưu ý tỷ lệ gần to
+xa nhỏVẼ MẶ T LÂN
+97
+
+========== TRANG 98/202 ==========
+3 Phác thảo vùng mồm. Dùng
+những đường nét cơ bản để
+đánh dấu rồi vẽ lông sau.
+4 Phác thảo vùng trán, tai, sừng.
+Bạn cũng có thể dùng cách dựng
+hình này, để vẽ mặt quỷ.
+5 Làm mờ, sau đó
+phác thảo chi tiết
+mắt, lông và mũi
+98
+
+========== TRANG 99/202 ==========
+6 Phác thảo vùng
+mồm, lông mặtĐúng: vẽ lông tóc chụm tại 1 điểm để khi k e hình được đẹp làm dễ
+Sai: vẽ lông tóc sợ ngắn sợi dài, thò lên thụt xuống khi xăm, ke hình sẽ vất vả
+và không đẹp
+=> Áp dụng cho tất cả lông tóc của rồng, quỷ , samur aiTưởng tượng đường màu xám chính là đường ke giữa tóc và backgroud khi xăm
+Đúng Sai
+99
+
+========== TRANG 100/202 ==========
+8 Chốt nét
+7 Phác thảo vùng
+còn lại
+100
+
+========== TRANG 101/202 ==========
+VẼ THÂN LÂN
+1 0 1
+
+========== TRANG 102/202 ==========
+VẼ CHÂN LÂN
+1 0 2
+
+========== TRANG 103/202 ==========
+1 0 3
+
+========== TRANG 104/202 ==========
+MẪU LÂN THAM KHẢ O
+1 0 4
+
+========== TRANG 105/202 ==========
+1 0 5
+
+========== TRANG 106/202 ==========
+1 0 6
+
+========== TRANG 107/202 ==========
+1 0 7
+
+========== TRANG 108/202 ==========
+BÀI 11: VẼ RỒNG
+Bước 1: Vẽ 1 hình elip, sau đó
+vẽ 1 đường cong cắt hình elip
+Bước 2: vẽ khối sừng và khối
+mồm
+Vẽ 1 hình hộp nối
+với hình elip. Đây sẽ
+là khối miệng rồngVẼ Đ ẦU RỒNG
+108
+
+========== TRANG 109/202 ==========
+Bước 3: Vẽ khối mắt, mũi,
+miệng, tai, gai mặtĐường giữa đầu
+Hướng mọc gai
+MiệngMũiMắt
+Bước 4: Tóm tắt đại khái
+các điểm trên mặt rồng
+109
+
+========== TRANG 110/202 ==========
+Bước 5: Phác thảo sơ lược.
+ Nét vẽ nên có sự nhấn nhá để
+đầu rồng phiêu hơn.
+ Lông mày của rồng là yếu tố
+then chốt đến cảm xúc của rồng.
+Bước 6: Chốt nét.
+110
+
+========== TRANG 111/202 ==========
+CÁC DÁNG ĐUÔI RỒNG
+1 1 1
+
+========== TRANG 112/202 ==========
+1 1 2
+
+
+========== TRANG 113/202 ==========
+VẼ THÂN RỒNG
+Vị trí kết nối chân với thân
+chân duỗi ra sau Chân hạ thẳng xuống
+Góc nhìn từ dưới lên
+ Chân tiến về phía trước
+Chân càng co lên cao, góc kết nối
+với thân càng cao
+113
+
+========== TRANG 114/202 ==========
+Quan sát góc nhìn ngang trực diện.  
+2 phần là vảy
+1 phần là bụng
+Cách vẽ vảy rồng
+ Xác định sống lưng và sống bụng. 2 phần này nằm đối diện nhau. Vì thế chỉ khi nào
+sống lưng bị khuất, không nhìn thấy. Thì sống bụng mới lộ ra.
+Sống lưng
+Đường sống bụng
+114
+
+========== TRANG 115/202 ==========
+Vẽ 1 hàng vảy làm kích
+thước tiêu chuẩn
+ Dựa vào hàng vảy đó, kẻ các đường trục
+ngang, chiều rộng tương đương với các
+vảy.
+ Các đường ngang này sẽ bị thu hẹp ở
+các vị trí uốn cong bên trong. Bên còn lại
+khoảng cách sẽ xa hơn.
+115
+
+========== TRANG 116/202 ==========
+ Kẻ các đường chạy song song sống
+lưng. Các đường này sẽ bắt đầu ở 2 bên
+chân của một vảy và ở giữa vảy rồng
+ Các đường dọc chạy gần như song song với cả
+sống lưng và sống bụng. Khi sống lưng biến
+mất thì đường dọc gần nhất cũng sẽ biến mất.
+Tương tự phía bụng cũng vậy.
+116
+
+========== TRANG 117/202 ==========
+Vẽ vảy rồng dựa theo các trục đã vẽ.  
+Hoàn thiện
+117
+
+========== TRANG 118/202 ==========
+VẼ CHÂN RỒNG
+Bước 1: Phác thảo dáng chân rồng
+Bước 3: Chốt nétBước 2: Phác thảo chân rồng
+118
+
+========== TRANG 119/202 ==========
+1 1 9
+
+========== TRANG 120/202 ==========
+1 2 0
+
+========== TRANG 121/202 ==========
+KẾT HỢP CHÂN V ỚI THÂN
+ Vấn đề xuất hiện khi bạn vẽ vảy khu vực chân nối với thân.
+Sẽ xảy ra các trường hợp:
+1 Vảy khu vực đó bị to hoặc bé quá mức.
+2 Có những chỗ 3 vảy cắm vào 1 vảy
+Hình vẽ bị lỗi vảy
+Vị trí nối từ thân với chân bị lỗi vảy
+121
+
+========== TRANG 122/202 ==========
+ Chân vẽ xuôi theo chiều cơ thể thì dễ vẽ vảy. Nhưng chân co về phía trước lại
+khó vẽ vảy
+122
+
+========== TRANG 123/202 ==========
+ Hướng giải quyết thường xuyên được các bậc thầy áp dụng là vẽ lửa, lá phong,
+hoa đào che vào những vùng bị lỗi vảy đó.
+123
+
+========== TRANG 124/202 ==========
+1 2 4
+
+========== TRANG 125/202 ==========
+MẪU RỒNG THAM KHẢO
+1 2 5
+
+========== TRANG 126/202 ==========
+1 2 6
+
+========== TRANG 127/202 ==========
+1 2 7
+
+========== TRANG 128/202 ==========
+1 2 8
+
+========== TRANG 129/202 ==========
+1 2 9
+
+========== TRANG 130/202 ==========
+1 3 0
+
+========== TRANG 131/202 ==========
+BÀI 12: VẼ RẮN
+ VẼ ĐẦU RẮN NGẬM MỒM
+Bước 1: Dựng hình khối theo mẫu
+Đường sống đầu
+Đường miệng
+131
+
+========== TRANG 132/202 ==========
+Phảt thảo phẩn trên đầu rắn
+Phác thảo phần miệng rắn
+132
+
+========== TRANG 133/202 ==========
+Phác thảo phần còn lại
+Hoàn thiện
+133
+
+========== TRANG 134/202 ==========
+ VẼ ĐẦU RẮN HÁ MỒM
+Bước 1: Dựng hình khối tương tự
+rắn ngậm mồm
+Tuy nhiên chúng ta
+không sử dụng đường bị
+đánh dấu X
+Hàm trên
+Hàm dưới
+134
+
+========== TRANG 135/202 ==========
+Bước 2: Vẽ phần trên của đầu rắn
+Bước 3: Vẽ phần miệng rắn
+135
+
+========== TRANG 136/202 ==========
+Bước 4: Phác thảo phần còn lại
+Tham khảo các mẫu đầu rắn khác
+136
+
+========== TRANG 137/202 ==========
+1 3 7
+
+========== TRANG 138/202 ==========
+1 3 8
+
+========== TRANG 139/202 ==========
+1 3 9
+
+========== TRANG 140/202 ==========
+1 4 0
+
+========== TRANG 141/202 ==========
+1 4 1
+
+========== TRANG 142/202 ==========
+VẼ V ẢY RẮN
+ Hướng dẫn vẽ vảy: k ẻ các đường chéo chạy từ bên này qua bên kia để địn hình
+vảy r ắn
+142
+
+========== TRANG 143/202 ==========
+Luôn duy trì kích
+thước, khoảng
+cách không đổi cho
+các đường thẳngKhoảng cách hàng vảy
+cách xa nhau hơn nếu ở
+chiều cong bên ngoài
+Hẹp
+Hẹp
+RộngRộng
+143
+
+========== TRANG 144/202 ==========
+Chú ý:  
+Vẽ các vảy bằng một
+hình bầu dục nhỏ. Tránh
+phần đầu quá nhỏ
+Chốt nét
+144
+
+========== TRANG 145/202 ==========
+THÂN RẮN
+Góc lưng
+Góc
+nhìn
+ngang
+góc chéogóc
+nhìn
+dưới bụng
+145
+
+========== TRANG 146/202 ==========
+Vảy rắn xếp theo hàng dọc
+Các kiểu tạo hình vảy rắn khác
+Sáng tạo vảy rắn kết hợp với da trơn.  
+146
+
+========== TRANG 147/202 ==========
+MẪU RẮN THAM KHẢO
+1 4 7
+
+========== TRANG 148/202 ==========
+1 4 8
+
+========== TRANG 149/202 ==========
+1 4 9
+
+========== TRANG 150/202 ==========
+1 5 0
+
+========== TRANG 151/202 ==========
+1 5 1
+
+========== TRANG 152/202 ==========
+1 5 2
+
+========== TRANG 153/202 ==========
+ BÀI 13: VẼ CÁ
+Phác thảo khối theo mẫuBước 1
+Bước 2
+Bước 3:  
+Chia hình elip làm 3 phần bằng nhau.  
+Phần trên cùng chính là đầu
+1
+2
+3
+153
+
+========== TRANG 154/202 ==========
+Bước 4: Chia phần
+đầu làm 3 phần
+Bước 5: Đánh dấu vị
+trí mắt và mang cá
+Bước 6: Phác thảo
+các bộ phận của cá
+154
+
+========== TRANG 155/202 ==========
+Bước 7: Thêm chi
+tiết vây
+Bước 8: Kẻ các đường dọc
+chạy theo sống lưng và vẽ
+vảy. Vẽ vảy cá tương tự
+cách vẽ vảy rồng. Hoặc bạn
+cũng có thể kẻ các đường
+đan chéo vẽ giống vảy rắn.
+155
+
+========== TRANG 156/202 ==========
+Bước 8: Hoàn thiện.
+Bạn cũng có thể đảo chiều nếu vẽ bị ngược tay.
+156
+
+========== TRANG 157/202 ==========
+1 5 7
+
+========== TRANG 158/202 ==========
+1 5 8
+
+========== TRANG 159/202 ==========
+1 5 9
+
+========== TRANG 160/202 ==========
+1 6 0
+
+========== TRANG 161/202 ==========
+1 6 1
+
+========== TRANG 162/202 ==========
+ Vì sao phải phân biệt nét chính và nét phụ?
+  Tránh bị rối hình, tạo điểm nổi bật, nhìn xa vẫn rõ hình chính.
+ Người mới hay sai: nét nào cũng như nhau. Khiến người nhìn không biết tập
+trung vào đâu.BÀI 14: NÉT CHÍNH - PHỤ TRONG HÌNH XĂM
+ 
+Trong hình phía dưới, nét chính là những nét bo xung quanh mặt quỷ. Làm cho
+mặt quỷ nổi bật. Các nét ở má là nét phụ.
+162
+
+========== TRANG 163/202 ==========
+Nét chính, nét phụ là gì?
+Nét chính:
+Là những đường quan trọng nhất của hình
+Thường to hơn, đậm hơn, rõ ràng hơn
+Dùng để định hình form (hình dáng tổng thể)
+ Ví dụ dễ hiểu: Viền n goài mặt quỷ, con cá, con rồng, mặt người...   đó là nét
+chính
+Nét phụ:
+Là những đường bổ sung bên trong hoặc xung quanh
+Thường nhỏ hơn, nhẹ hơn, mảnh hơn
+Dùng để tạo chi tiết, kết cấu, độ sâu
+ Ví dụ: vảy rồng, lông, chi tiết nhỏ → đó là nét phụ
+Làm sao để đi nét chính và nét phụ đúng?
+Bước 1: Xác định đâu là nét chính
+Viền ngoài hình → gần như luôn là nét chính
+Những phần muốn người xem nhìn vào đầu tiên → cũng là nét chính
+Bước 2: Phân cấp độ nét (rất quan trọng)
+Nét chính: to – đậm – rõ
+Nét phụ: nhỏ – nhẹ – mảnh
+👉 Gợi ý thực chiến trong hình nhật cổ:
+Nét chính: dùng kim 14RL – 18RL
+Nét phụ: dùng kim 9RL – 11RL
+163
+
+========== TRANG 164/202 ==========
+BÀI 15: SẮ C ĐỘ NỀN KHỐI
+1 6 4
+
+========== TRANG 165/202 ==========
+1 6 5
+
+========== TRANG 166/202 ==========
+ Trong hình xăm nhật cổ.
+Khối nhật, khối đá là tông tối.
+Thường dùng để bo ở viền ngoài.
+ Khối mây , sóng là tông sáng. T ạo
+sự tương phản với khối nhật, đá.
+ Tất cả các khối thường được xăm
+dày mực, tối hơn hình chính. Để làm
+nền cho hình chính, giúp hình chính
+nổi bật hơn.
+ Hoa đào, lá phong dùng đặt vào vị
+trí tr ống. Hoặc để che lấp những vị
+trí xấu, khó thế thể hiện tr ong xăm.
+Nếu quá lạm dụng hoa đào lá
+phong sẽ tạo r a những mảng màu
+mất cân đối.
+1
+166
+
+========== TRANG 167/202 ==========
+Trong hình xăm nhật cổ gồm: chủ thể chính, chủ thể phụ, nền khối.
+Chủ thể chính gồm: Samur ai, rồng, r ắn, cá, fudog, phượng hoàng, mặt
+quỷ....
+Chủ thể phụ gồm: lá phong, hoa đào, lửa, sét, r ong r êu...
+Nền khối gồm: mây , đá, sóng, dòng nước, x oáy gió, khối nhật...
+Quy tắc thiết k ế: Chủ thể chính chiếm 60-70%. Còn lại là chủ thể phụ và nền
+khối. BÀI 16: BỐ CỤC HÌNH XĂM
+ Tỷ lệ hình: V ới những hình
+thoáng, nền khối cũng sẽ thoáng
+( to, r ộng )
+ Kích thước các khối to tương
+đương nhau.
+ Bạn có thể thấy tr ong hình.
+Khối mây bên tr ên so sánh với
+các khối mây bên dưới => kích
+thước to tương đương nhau.  
+ Khối nhật cổ, khối đá, lá phong
+hoa đào cũng đều như vậy .
+ Khối bo sung quanh to thì mây ,
+hoa đào lá phong cũng sẽ to
+theo. V à ngược lại.
+ Mọi thứ đều được sắp x ếp theo 1
+tỷ lệ nhất định sẽ tạo r a bố cục
+đẹp
+ Hoa đào / lá phong được tr ải đều
+khắp hình xăm để cân bằng màu
+sắc bên tr ên và dưới.
+1672
+
+========== TRANG 168/202 ==========
+ 4 bản thiết kế này. Không phải
+chung 1 người thiết kế, nhưng tất
+cả đều tuân theo bố cục tỷ lệ
+chung.
+Hãy để ý các khối, là phong, hoa
+đào, đều có kích thước chung từ
+trên xuống dưới.
+ Có thể sử dụng lửa hoặc sấm sét
+chạy xuyên suốt hình xăm. Mục
+đích tạo sự liên kết cả hình xăm
+lại với nhau, từ trên xuống dưới.
+1683
+4
+
+========== TRANG 169/202 ==========
+Màu sắc được chia làm tông nóng, lạnh, trung tính.
+Tông nóng gồm: đỏ, cam, vàng
+Tông lạnh gồm: tím, xanh dương, xanh lá
+Tông trung gian gồm: đen, trắng, ghi, xám, kem và nâuBÀI 17: CÁCH PHỐI MÀU HÌNH XĂM NHẬT CỔ
+CÁC CÁCH PHỐI MÀU
+Có 6 cách phối màu chính:
+Tương phản
+Tương tự
+Tam giác
+Đối xứng - bổ sung
+Chữ nhật
+Vuông
+169
+
+========== TRANG 170/202 ==========
+1. TƯƠNG PHẢN  (Contrast – màu đối diện)
+Bản chất là 2 màu nằm đối diện nhau trên vòng tròn màu.
+👉 Ví dụ:
+Đỏ ↔ Xanh lá
+Xanh dương ↔ Cam
+Vàng  ↔ Tím
+Tại sao dùng: Tạo độ nổi mạnh nhất, nhìn “đập vào mắt”
+Cách dùng:
+1 màu chính (70%)
+1 màu tương phản (30%) để nhấn
+2. TƯƠNG TỰ (Analogous – màu liền nhau)
+Bản chất là các màu đứng cạnh nhau trên vòng màu
+👉 Ví dụ: Xanh dương → xanh lá → vàng xanh
+Tại sao dùng: Tạo mượt – dịu – dễ nhìn
+Cách dùng: Chọn 1 màu chủ đạo, 2 màu còn lại làm chuyển sắc.
+3. TAM GIÁC (Triadic – 3 màu cách đều)
+Bản chất là 3 màu cách đều nhau → tạo thành tam giác
+👉 Ví dụ: Đỏ – Vàng – Xanh dương
+Tại sao dùng: Cân bằng giữa nổi và hài hòa
+Cách dùng: 1 màu chính + 2 màu phụ (ít hơn)
+170
+
+========== TRANG 171/202 ==========
+4. BỔ SUNG / ĐỐI XỨNG  (Split Complementary)
+Bản chất là có 1 màu chính và 2 màu nằm cạnh màu đối diện của nó
+👉 Ví dụ: Đỏ + xanh lục vàng (yellow-green) + xanh lục lam (blue-green)
+Tại sao dùng: Vẫn tương phản mạnh, nhưng dễ chịu hơn tương phản trực tiếp.
+Cách dùng: 1 màu chính nổi, 2 màu phụ làm nền
+👉 Đây là combo an toàn nhất cho thợ mới
+5. CHỮ NHẬT  (Tetradic – 4 màu)
+Bản chất là 4 màu tạo thành hình chữ nhật trên vòng màu.
+Tại sao dùng: Nhiều màu → giàu chi tiết. Phù hợp hình lớn.
+Cách dùng: Chọn 1 màu làm chủ, 3 màu còn lại hỗ trợ
+6. VUÔNG  (Square – 4 màu cách đều)
+Bản chất là 4 màu cách đều nhau (chia vòng tròn thành 4 phần)
+Tại sao dùng: Rất đa dạng – nổi bật mạnh
+Cách dùng bắt buộc: 1 màu chính + 1 màu phụ mạnh + 2 màu nền nhẹ.
+171
+
+========== TRANG 172/202 ==========
+🔥 NGUYÊN T ẮC PHỐI MÀU  
+1. Chọn cách phối màu
+Bạn chọn 1 tr ong 6 cách phối màu (tương phản, tương tự, tam giác, đối xứng,
+chữ nhật, vuông).
+👉 Lưu ý: Mới học → chỉ dùng 1 cách, không tr ộn nhiều kiểu
+2. Chọn màu chính và màu phụ
+Màu chính (60–70%) → Là màu chiếm nhiều nhất, quyết định cảm giác của
+hình
+Màu phụ (20–30%) → Hỗ tr ợ, làm r õ chi tiết
+Màu nhấn (5–10%)→ Điểm nổi bật nhất, dùng ít nhưng phải “ đập vào mắt ”
+3. Tạo sắc độ tr ong từng màu (r ất quan tr ọng)
+Mỗi màu không chỉ có 1 mức, mà nên có 3 mức:
+Màu đậm
+Màu trung gian
+Màu nhạt
+👉 Ví dụ: chọn đỏ làm màu chính
+Đỏ đậm → vùng tối
+Đỏ trung → vùng chuyển
+Đỏ nhạt → vùng sáng
+👉 Mục đích: T ạo khối (3D) tr ánh bị phẳng, bệt
+4. Màu phụ phải “ nhường” màu chính
+Màu phụ vẫn có thể chia đậm – nhạt như màu chính,
+nhưng cần: Giảm độ gắt (độ chói của màu)
+Nói đơn giản:
+Màu chính → r õ, nổi
+Màu phụ → dịu hơn, không giành sự chú ý
+5. Quan tr ọng nhất: kiểm soát sáng – tối
+Phải nhìn vào độ sáng – tối của toàn bộ hình
+Có vùng sáng
+Có vùng tối
+Quy tắc r ất dễ hiểu:
+Nếu hình thiên sáng → vẫn phải có chỗ tối để tạo điểm nhấn
+Nếu hình thiên tối→ phải có chỗ sáng để hình không bị bí
+👉 Hiểu đơn giản:
+Không có tối → hình bị bệt
+Không có sáng → hình bị nặng, ngộp
+172
+
+========== TRANG 173/202 ==========
+ Một số người mới thường chọn những tông màu r ất sáng để phối màu cho
+hình xăm nhật cổ. T rước khi đến với phần tiếp theo. T ôi mời bạn tham khảo
+trang web có những hình nhật cổ cách đây khoảng 200 năm. Quét mã QR để
+truy cập tr ang web.
+Đây là một số mẫu tôi đã lưu trên Pinterest
+ Rất nhiều thợ xăm thiết kế dựa theo tranh cổ. Và chúng ta cần để ý, các màu
+trong tranh thường là các tông màu trầm, không bị rực rỡ, màu không quá
+sáng. Theo tôi, nếu làm phong cách cổ hẳn thì chúng ta cũng sẽ xăm những
+màu trầm như vậy.
+173
+
+========== TRANG 174/202 ==========
+ Chúng ta cũng cần dựa vào trang nhật cổ để phối màu đúng bản chất.
+Ví dụ trong những bức tranh về nhân vật Kintaro. Nhân vật sẽ được gắn liền với
+màu đỏ, đỏ cam. Dẫu biết vậy nhưng bạn lại thiết kế nhân vật đó thành màu
+xanh chẳng hạn, nó sẽ làm mất đi bản chất của nhân vật, và không được các
+chuyên gia đánh giá cao.
+Ảnh minh hoạ:
+174
+
+========== TRANG 175/202 ==========
+ Vì vậy muốn học phối màu trong xăm hình nhật cổ, bạn cần tìm hiểu kỹ về các
+nhân vật nhật cổ, dựa vào đó để phối màu.
+ Nhưng suy cho cùng, xăm hình là sáng tạo. Không cần chọn màu giống họ
+100%. Họ có thể chọn màu A, bạn có thể sử dụng màu AB để làm mới cho hình
+xăm của bạn, tạo ra những tác phẩm của riêng bạn. Đừng cố bắt chước giống
+hệt ai đó, trông bạn chỉ như chiếc máy photocopy.
+Ảnh sưu tầm
+175
+
+========== TRANG 176/202 ==========
+Trong hình xăm của các master. Bạn có thể thấy màu được trải đều khắp hình
+xăm.
+Ví dụ trong bức hình trên: bên trên có màu tím, ở giữa cũng sẽ có màu tím, ở
+dưới cũng có màu tím. Tương tự các màu nóng và lạnh cũng vậy (xanh, đỏ).
+176
+
+========== TRANG 177/202 ==========
+TỔNG  KẾT QUAN TRỌNG
+Các bước phối màu:  
+Chọn 1 trong 6 phương pháp phối màu
+Chọn 1 màu chủ đạo. Màu này chiếm khoảng 60 -70 % tổng diện tích màu.
+Chọn các màu hỗ trợ.
+ Sử dụng các cấp sắc độ màu để tạo chiều sâu.
+ Áp dụng một màu trên mọi vị trí trên - giữa - dưới để cân bằng màu trong
+hình xăm.
+Nếu bạn đã đọc đến đây , bạn đã có tr ong tay một điều r ất quan tr ọng:
+👉🏿 Hiểu đúng cấu trúc của hình xăm Nhật cổ.
+Nhưng hãy nhớ một điều:
+Biết thôi là chưa đủ.
+Nếu bạn không luyện, bạn sẽ quên.
+ Nếu bạn luyện sai, bạn sẽ quay lại điểm xuất phát.
+Hãy bắt đầu từ những điều đơn giản nhất:
+Vẽ lại từng hoa, từng đám mây , từng con sóng
+Sau đó ghép lại thành bố cục
+Và hoàn thiện một hình xăm tr ọn vẹn
+Đừng vội.
+ Nhưng cũng đừng dừng.
+Nếu bạn muốn đi nhanh hơn, tr ánh sai lầm và rút ngắn thời gian học:
+👉🏿 Tham gia khóa học thiết k ế hình xăm Nhật cổ online ngay tại đây .
+Quét mã QR để truy cập khóa học.
+Trong khóa học, bạn sẽ được:
+Hướng dẫn chi tiết từng bước dựng hình
+Cách sửa lỗi sai khi vẽ (thứ mà người mới thường không nhận r a)
+Cách hoàn thiện một thiết k ế đúng chuẩn thợ
+👉🏿 Tất cả đều là video thực hành, bạn có thể x em lại bất cứ lúc nào.
+🎯 Đặc biệt:
+ Nếu bạn đã mua cuốn sách này ,
+ 👉🏿 chi phí khóa học sẽ được trừ lại tương ứng.
+177
+
+========== TRANG 178/202 ==========
+Đừng để kiến thức dừng lại ở việc “ đã đọc ”.
+👉🏿 Hãy biến nó thành kỹ năng bạn thực sự làm được.
+👉🏿 Hoặc bạn có thể tham gia cộng đồng thợ xăm để cùng luyện tập, sửa bài và
+phát triển mỗi ngày .
+Vì trong nghề này ,
+ người đi một mình có thể đi nhanh.
+Nhưng người đi cùng đúng người,
+ sẽ đi xa hơn r ất nhiều.
+Nếu bạn nghiêm túc với nghề,
+ đây không phải là điểm k ết thúc.
+👉🏿 Đây là điểm bắt đầu.
+Trần Chương
+178
+
+========== TRANG 179/202 ==========
+ Nếu bạn chỉ nhớ một điều duy nhất tr ong chương này , hãy nhớ điều này:
+Khách không chọn thợ giỏi nhất.
+Khách chọn thợ mà họ:
+Thấy nhiều nhất
+Tin tưởng nhất
+Cảm thấy an toàn nhất
+Và nơi tạo r a 3 điều đó chính là:
+TikTok và Facebook.
+Không phải tay nghề quyết định bạn có đông khách hay không.
+Mà là pr ofile của bạn có đủ khiến người ta tin hay không.LÀM XĂM KHÔNG THIẾU KHÁ CH
+ CHƯƠNG 1
+XÂY DỰNG NỀN MÓNG – T ẠO NIỀM TIN
+179
+
+========== TRANG 180/202 ==========
+1. Profile không chuyên nghiệp = Tự đẩy khách sang tiệm khác
+Hãy tự hỏi:
+Nếu bạn là khách, bạn có dám xăm ở một người mà:
+Trang cá nhân toàn ảnh ăn nhậu, chơi bời?
+Ảnh xăm mờ, thiếu sáng?
+Khách không nói r a.
+Nhưng họ dễ dàng r ời đi bởi sự thiếu chuyên nghiệp của bạn.
+Profile chính là “ studio online ” của bạn.
+Trước khi khách bước vào tiệm,
+họ bước vào tr ang cá nhân của bạn trước.
+2. Xây nền móng đúng cách
+Chọn nền tảng
+Nếu làm Facebook lâu dài → dùng Fanpage
+(sau này chạy quảng cáo sẽ dễ hơn)
+Nếu làm TikT ok → tạo Gmail mới, lập k ênh mới để phát triển sạch từ đầu.
+Đừng dùng lại tài khoản cũ đầy nội dung cá nhân.
+Tên k ênh – Đừng đặt cho vui
+Công thức đơn giản nhất:
+[Tên bạn] + [Ngành nghề]
+Ví dụ:
+Chương T attoo
+180
+
+========== TRANG 181/202 ==========
+ Lưu ý:
+Đừng đặt tên theo căn cước
+Đừng đặt quá chung chung
+Đừng trùng với k ênh nổi tiếng
+Username phải giống tên k ênh.
+Càng dễ nhớ càng tốt.
+Bạn muốn khách tìm thấy bạn ngay
+hay phải mò mẫm giữa 100 người trùng tên?
+Ảnh đại diện – Ấn tượng tr ong 3 giây
+Sai:
+Ảnh đi chơi
+Ảnh chụp nhóm
+Ảnh không liên quan nghề
+Đúng:
+Ảnh r õ mặt
+Hoặc ảnh bạn đang xăm
+Hình ảnh sạch sẽ – chuyên nghiệp
+Khách cần nhìn vào và biết ngay:
+“Đây là một thợ xăm.”
+Ảnh bìa (Facebook)
+Hãy dùng:
+Tác phẩm mạnh nhất của bạn
+Hình studio
+Hoặc logo thương hiệu
+Bio – Ngắn nhưng phải đủ
+Bio nên chia thành 3 dòng r õ ràng:
+1.Số điện thoại
+2.Địa chỉ
+3.Bạn là ai – chuyên gì
+Ví dụ:
+For W ork: 09xxxxxxxx
+Đống Đa – Hà Nội
+Chuyên gia xăm hình Nhật cổ
+181
+
+========== TRANG 182/202 ==========
+Lưu ý với TikT ok
+Viết số điện thoại theo dạng: For W ork: 09…
+Không viết tắt kiểu ZL (Zalo)
+Nếu chưa đủ 1000 follo w có thể chuyển sang T ài khoản doanh nghiệp để gắn
+link
+(nhưng sẽ bị hạn chế nhạc)
+3. Câu chuyện khiến tôi thay đổi hoàn toàn
+Hồi mới học, tôi từng tuyển mẫu xăm miễn phí .
+Tôi hỏi khách:
+“Có nhiều người tuyển mẫu, tại sao em lại chọn anh?”
+Họ tr ả lời:
+“Em theo dõi anh 2 tháng rồi. Thấy anh đăng đều, tác phẩm ổn nên em tin.
+Còn những người khác ít đăng ảnh nên em không thấy uy tín.”
+Họ nói về sự xuất hiện liên tục.
+Lúc đó tôi hiểu:
+Niềm tin không đến từ 1 bài đăng .
+Nó đến từ việc bạn xuất hiện mỗi ngày .
+182
+
+========== TRANG 183/202 ==========
+4. Nếu bạn chưa có nhiều tác phẩm thì sao?
+Đừng ngồi đợi.
+Bạn có thể:
+Xin ảnh/video từ anh chị khóa trước
+Xin quay quá trình  xăm của bạn học
+Xin thầy cho quay  lúc thầy làm mẫu
+Tuyển mẫu fr ee tr ong khả năng mình làm tốt
+Ngại chính là r ào cản lớn nhất.
+Sự thật hơi đau:
+95% thợ xăm bỏ nghề vì ngại và lười xây dựng hình ảnh.
+5% còn lại kiên trì làm điều này mỗi ngày .
+Bạn đang chọn nhóm nào?
+183
+
+========== TRANG 184/202 ==========
+5. Định vị – Đừng biến trang cá nhân thành “nồi thập cẩm”
+Hãy vào pr ofile của các master tattoo.
+Bạn sẽ thấy gì?
+Họ theo một phong cách r ất rõ ràng:
+Nhật cổ
+Realistic
+Fine line
+Bạn thích họ vì sự chuyên sâu đó.
+Vậy tại sao tr ang của bạn lại:
+Nhật  một chút
+Tả thực một chút
+Mini một chút
+Muốn đông khách → phải định vị.
+Hãy:
+Chọn một hướng
+Làm xuyên suốt
+6. Lùi một bước để tiến mười bước
+Cách định vị nhanh nhất:
+Tuyển mẫu fr ee theo một chủ đề duy nhất.
+Ví dụ:
+Nếu theo Nhật cổ  → tuyển từ hình nhỏ đến lớn cùng phong cách.
+Chủ đề dễ kiếm khách nhất hiện nay vẫn là:
+Nhật (cổ hoặc tân Nhật).
+Hãy tự hỏi:
+Bạn đã có bộ tác phẩm xuyên suốt một chủ đề  chưa?
+7. Ảnh xấu có thể giết chết một tác phẩm đẹp
+Sai lầm phổ biến:
+Thiếu ánh sáng
+Bị chói lóa
+Hậu cảnh bừa bộn
+Cách làm đúng:
+Tìm backgr ound tr ống
+Dùng ánh sáng đều
+Chụp r õ chi tiết
+Thử góc nghiêng để tăng chiều sâu
+Tránh nền lộn x ộn
+Một tác phẩm đẹp nhưng chụp xấu giống như:
+Kim cương đặt tr ong bóng tối.
+Khách không thấy được giá trị thật của bạn.
+184
+
+========== TRANG 185/202 ==========
+KẾT THÚC CHƯƠNG 1
+Trước khi học:
+Làm video vir al
+Chạy quảng cáo
+Chốt sale
+Hãy mài sắc “ cây kiếm ” của bạn trướ c.
+Cây kiếm đó chính là:
+PROFILE.
+Làm tốt chương này ,
+bạn đã hơn 70% thợ xăm ngoài kia.
+Ở chương tiếp theo, tôi sẽ chỉ cho bạn cách:
+Khiến khách hàng bắt đầu chú ý đến bạn — ngay cả khi bạn chưa nổi tiếng.
+Bạn đã sẵn sàng chưa?
+185
+
+========== TRANG 186/202 ==========
+CHƯƠNG 2: XÂY KÊNH LÊN XU HƯỚNG
+Cách tạo kênh mới dễ lên xu hướng.
+Ngày 1:
+Dùng tài khoản gmail mới. Lập k ênh mới
+Đặt ảnh đại diện,  
+Tên k ênh = tên bạn + biệt danh dễ nhớ.  
+Ví dụ: Chương T attoo => Như vậy là đủ.
+id (username) đặt giống tên k ênh
+Càng dễ nhớ càng tốt.
+Nhưng tr ánh đặt trùng với tên k ênh đ ã nổi tiếng.
+Khi người khác tìm kiếm sẽ khó tìm r a kênh của bạn vì bị trùng
+Viết tiểu sử để khách biết bạn là ai, làm gì, ở đâu, liên hệ thế nào
+trong 3-7 ngày đầu không cần đăng gì
+Mục đích hiện tại là để TikT ok hiểu bạn là ai → biết phân phối video của bạn cho
+ai 
+Việc cần làm:
+Bạn hãy đi follo w, thả tim, tương tác với những k ênh có chủ đề xăm hình mà
+bạn hướng tới.
+Cách đúng:  
+Làm như người thật.  
+Xem hết video, thả tim, viết bình luận chân thực
+186
+
+========== TRANG 187/202 ==========
+Sai:
+Thả tim rồi vội lướ t qua
+Bình luận icon giống như bot.
+Gợi ý k ênh để tương tác: T attoochair, lê dương thanh, nguyễn phát huy…
+Sau 3 n gày lướ t bảng tin mà tiktok đề xuất 80% là video về  xăm hình là  bạn có
+thể đăng video. Lúc đó tiktok đã hiểu k ênh của bạn có sở thích về xăm. Nó sẽ đề
+xuất người thích xăm hình tới k ênh của bạn.
+15 ngày tiếp theo  
+Đăng 2 video / ngày . Nhiều hơn càng tốt.
+Sau đó có thể giảm dần nếu không có thời gian làm tiktok.
+Nhưng ưu tiên là phải đăng đều, tần suất đều. Nếu ngày đăng ngày bỏ, r ất dễ
+flop
+Chọn “1 ngách – 1 đối tượng – 1 lời hứa ”
+Sai lầm: đăng lung tung (video đời số ng, chia sẻ cá nhân lẫn lộn)
+Nên làm video theo dạng seri, 1 dạng chủ đề xuyên suốt. tham khảo k ênh:
+Ngoạ studio, Điện xăm sướng.
+Ví dụ chủ đề:
+Mỗi ngày 1 hình xăm kín lưng đẹp
+100 câu hỏi khách hay hỏi
+…
+Tài nguyên về hình xăm bạn có thể x em tr ên instagr am, pinter est. 
+Nếu muốn bạn sẽ làm. Nếu không muốn, bạn sẽ tìm lý do.
+Nếu làm theo dạng series, người x em sẽ tò mò vào k ênh để x em tiếp và follo w
+để đợi chờ những video tiếp theo.
+Quy tắc: video nào cũng có số “Phần X” để người x em follo w chờ tập sau.
+1. Bí quyết “đi tắt” dành cho người mới: Học theo người đang
+thắng
+Cách nhanh nhất để tăng tốc cho người mới:
+Phân tích các video đã lên xu hướng của những k ênh đối thủ xứng tầm, cùng
+phân khúc. Học và làm theo họ.
+Bạn học cái gì?
+Cách họ mở đầu (hook)
+Cách họ dựng nhịp
+Cách họ k ể câu chuyện
+Cách họ k êu gọi hành động (CT A)187
+
+========== TRANG 188/202 ==========
+Bạn có thể học cấu trúc 8 giây đầu tiên (hook + bối cảnh).
+Nhưng phần còn lại phải là:
+Tác phẩm của bạn
+Khách của bạn
+Studio của bạn
+Câu ch uyện của bạn
+Học form at để tăng tốc.
+2. Khách quan tâm gì? Đưa đúng thứ họ cần, họ sẽ tự dừng lại
+xem
+ Khách thường quan tâm 5 nhóm chủ đề (bạn chỉ cần bám đúng 5 nhóm này):
+1. Hình xăm đẹp
+2. Sửa hình xăm / co ver hình hỏng. Tham khảo k ênh của: Boss phù thuỷ che sẹo
+3. Ý nghĩa hình xăm
+4. Quy trình trước – tr ong – sau khi xăm. Tham khảo k ênh của: Nguyễn Phát
+Huy
+5. Kiến thức để xăm đẹp và an toàn (chăm sóc, kiêng gì, lưu ý gì)
+Bạn không cần nói nhiều.
+Bạn chỉ cần nói đúng thứ khách đang nghĩ tr ong đầu .
+3. 5 nhóm nội dung “đòn bẩy” giúp kênh lên nhanh và ra khách
+(1) Video kích thích mong muốn (DESIRE)
+Mục tiêu:  Khách nghĩ “Mình cũng muốn như vậy .”
+Ví dụ video:
+“Hình xăm này làm người bình thường tr ở nên cực kỳ cuốn hút ”
+“Trước và sau khi xăm – sự khác biệt khiến ai cũng bất ngờ”
+“5 vị trí xăm khiến đàn ông tr ở nên nam tính hơn ”
+“5 hình xăm khiến phụ nữ tr ở nên quyến rũ hơn ”
+Đòn bẩy tâm lý:  Khách muốn nâng cấp bản thân.
+(2) Video phá bỏ nỗi sợ (FEAR REMO VAL)
+Mục tiêu:  Làm khách hết sợ.
+Ví dụ hook:
+“Xăm có đau không? Đây là phản ứng thật.”
+“7 ngày sau khi xăm sẽ như thế nào?”
+“Hình xăm sau 1 năm tr ông r a sao?”
+“Sự thật: hình xăm có bị hỏng không?”
+Đòn bẩy:  Khi hết sợ → khách hành động.
+188
+
+========== TRANG 189/202 ==========
+(3) Video k ể câu chuyện (ST ORY)
+Mục tiêu:  Khách đồng cảm.
+Ví dụ:
+“Anh này xăm hình này để nhớ mẹ ”
+“Anh này xăm sau khi vượ t qua biến cố lớn ”
+“Đây là lý do khách quyết định xăm hình đầu tiên ”
+“Sau biến cố lớn, anh ấy chọn hình này để nhắc mình sống tiếp ”
+Sự thật: Khách hàng mua bằng cảm xúc.
+(4) Video chứng minh uy tín (AUTHORITY)
+Mục tiêu:  Khách tin bạn.
+Ví dụ nội dung:
+Cận cảnh từng đường nét bạn đi
+Quy trình vệ sinh
+Chuẩn bị trước khi xăm
+Tư vấn thiết k ế
+Khách cần thấy bạn kiểm soát mọi thứ.
+(5) Video giáo dục (EDUCA TION)
+Mục tiêu:  Khách coi bạn là chuyên gia → tin bạn trước cả khi gặp.
+Ví dụ hook:
+“Đừng xăm nếu bạn chưa biết điều này .”
+“5 sai lầm khiến hình xăm bị hỏng.”
+“Chọn vị trí xăm đúng: đẹp hơn gấp 3.”
+Người dạy → tr ở thành người được tin tưởng.
+4. Công thức video viral: Không phải may mắn, là kỹ thuật
+Một video thắng thường có đủ 5 yếu tố:
+HOOK (móc câu) → EMO TION (cảm xúc) → V ALUE (giá trị) → CURIOSITY (tò mò)
+→ CT A (kêu gọi hành động)
+Thiếu HOOK: chết ở 3 giây đầu
+Thiếu EMO TION: người x em không quan tâm
+Thiếu CURIOSITY: không x em tới cuối
+Thiếu CT A: có vie w nhưng không có khách
+Hook 3 giây đầu: Đây là nơi 90% thợ xăm thua
+Sai (khách lướ t ngay):
+“Đây là hình xăm mình vừa làm…”
+189
+
+========== TRANG 190/202 ==========
+Đúng (khách dừng lại):
+“Hình này đã thay đổi hoàn toàn thần thái của khách.”
+“Khách này suýt hỏng cả cánh tay vì lỗi này…”
+“90% người xăm đều hối hận vì điều này .”
+“Đừng xăm nếu chưa x em video này .”
+Hoo k mạnh thường đán h vào:
+Sợ mất mát
+Tò mò
+Bất ngờ
+Ví dụ kịch bản hoàn chỉnh (cop y cấu trúc là r a video)
+0–3s (HOOK): “Khách này suýt hỏng cả cánh tay…”
+3–7s: Sho w hình cũ (vấn đề)
+7–15s: Quay quá trình sửa (nhịp nhanh, cắt gọn)
+15–20s: Sho w kết quả (befor e/after)
+20–25s (CT A): “Comment ‘SỬA ’ nếu bạn có hình hỏng cần tư vấn.”
+Vì sao kiểu video này dễ vir al?
+Có dr ama nhẹ (hook)
+Có hành trình (build-up)
+Có k ết quả r õ (result)
+Có đường r a khách (CT A)
+Quan tr ọng:
+Khi có 1 video lên xu hướng, có chỉ số tốt (x em hết cao, bình luận nhiều, lưu
+nhiều). Hãy làm lại các video khác có cấu trúc giống video đó, để tiếp tục được
+đề xuất lên xu hướng.
+Ví dụ: vẫn hình xăm đó, chỉ cần quay góc khác, giữ hook gần giống, sửa nhẹ lời
+thoại phía sau.
+5. Sai lầm khiến thợ xăm mãi không có khách trên TikTok
+1. Không có câu Hook – mất khách ngay 3 giây đầu
+Nhiều người mở đầu video bằng cách nói về bản thân:
+Hôm nay tôi có…
+ Hôm nay tôi sẽ…
+ Hôm nay tôi làm…
+Nhưng người x em không quan tâm bạn có gì.
+Bạn thử chạy r a đường, k ể câu chuyện của mình cho một người lạ.
+Liệu họ có lắng nghe không?
+Chắc chắn là không.
+190
+
+========== TRANG 191/202 ==========
+Vì vậy , đừng mở đầu video bằng câu chuyện của bạn.
+Người x em chỉ quan tâm một điều:
+Video này cho họ được cái gì.
+Có thể là:
+Niềm vui
+Sự tò mò
+Một nỗi đau họ đang gặp
+Một nỗi sợ họ đang lo
+Nếu bạn cho họ điều đó ngay 3 giây đầu,
+họ sẽ tiếp tục x em video của bạn.
+2. Quay dài lê thê: Nhịp độ chậm khiến người x em mất khiên nhẫn và lướ t qua.
+3. Thiếu k êu gọi hành động (CT A): Khách hàng x em x ong rồi đi, không biết
+phải làm gì tiếp theo.
+4. Xoá video khi vie w thấp:  Phá vỡ luồng phân phối của thuật toán
+5. Đăng không đều:  Không tạo được thói quen theo dõi cho tệp khách hàng
+tiềm năng.
+6. Đặt tiêu đề video theo cảm hứng
+Trên Facebook, tiêu đề nên giống câu Hook của video.
+ Mục tiêu là thu hút sự chú ý ngay lập tức.
+Nhưng tr ên TikT ok, cách đặt tiêu đề lại khác.
+TikTok hoạt động giống một công cụ tìm kiếm.
+ Vì vậy tiêu đề video nên chứa từ khoá mà người dùng đang tìm.
+Ví dụ khách hàng tìm kiếm:
+“Hình xăm samur ai đẹp ”
+Bạn cần làm 3 việc:
+Tiêu đề có từ khoá đó
+Mô tả video có từ khoá đó
+Hashtag có từ khoá đó
+Ví dụ:
+Tiêu đề video:
+Hình xăm samur ai đẹp cho nam
+Hashtag:
+ #hinhxamsamur ai
+ #hinhxamsamur aidep
+Khi khách hàng tìm:
+“Hình xăm samur ai đẹp ”
+Video của bạn có khả năng lên top tìm kiếm.
+Từ đó khách hàng sẽ biết đến bạn nhiều hơn.
+191
+
+========== TRANG 192/202 ==========
+Sau những ngày bạn xây k ênh đều đặn…
+Sẽ có một ngày điện thoại rung lên:
+“Anh ơi, hình này xăm bao nhiêu?”
+Khoảnh khắc đó r ất quan tr ọng.
+Vì sự thật là: r ất nhiều thợ xăm làm tốt TikT ok… nhưng chết ở khâu nhắn tin .
+1. 3 lý do khách biến mất sau khi báo giá
+(1) Khách chưa đủ cảm xúc để mua
+Họ hỏi giá vì tò mò, chưa quyết định xăm.
+Bạn báo giá → não họ bật chế độ “ so sánh ”.
+Và họ biến mất.
+(2) Bạn báo giá quá sớm
+Khách: “Xăm hình này bao nhiêu?”
+Bạn: “1 triệu.”
+Cuộc tr ò chuyện chết ngay .
+Vì khách chưa thấy lý do để tr ả 1 triệu.
+(3) Khách chưa tin bạn đủ
+Trong đầu họ có 3 câu hỏi:
+Có đẹp không?
+Có hỏng không?
+Có đáng không?
+Nếu chưa chắc chắn → họ không mua.
+2. Công thức chuẩn để chốt khách
+B1: Hỏi nhu cầu → B2: Tăng giá trị → B3: Làm họ muốn → B4: Báo
+giá → B5: Chốt lịch
+Đừng đảo thứ tự.
+Sai thứ tự là mất khách.CHƯƠNG 3: QUY TRÌNH CHỐT LỊCH XĂM
+THÀNH CÔNG
+192
+
+========== TRANG 193/202 ==========
+3. Kịch bản chốt khách chuẩn (có thể dùng nguyên văn)
+BƯỚC 1 – HỎI (ĐỪNG B ÁO GIÁ NGA Y)
+Khách: “Hình này xăm bao nhiêu?”
+Bạn: “Bạn muốn xăm kích thước khoảng bao nhiêu và vị trí nào tr ên cơ thể?”
+Mục tiêu:  Kéo khách vào cuộc tr ò chuyện.
+Nếu khách chưa r õ muốn xăm gì:
+Hỏi thể loại họ thích
+Gửi danh mục hình theo chủ đề (Pinter est / album của bạn)
+Định hướng nhẹ nhàng
+Bạn đang dẫn dắt, không phải tr ả lời cho x ong.
+BƯỚC 2 – T ẠO MONG MUỐN
+Đây là bước nhiều thợ bỏ qua.
+Hãy giúp khách tưởng tượng sau khi xăm sẽ như thế nào.
+Bạn có thể ghép hình xăm lên người khách  để khách hình dung.
+Ví dụ câu nói:
+“Mình sẽ chỉnh lại thiết k ế để phù hợp với cơ thể bạn, để khi xăm x ong nhìn tự
+nhiên và đẹp nhất.”
+Ý nghĩa: khách thấy đây không phải sản phẩm đại tr à.
+Hoặc: thiết k ế 1 hình mới đúng theo ý tưởng của khách.
+Khi khách bắt đầu tưởng tượng… họ bắt đầu muốn.
+BƯỚC 3 – T ĂNG GIÁ TRỊ
+Làm cho hình xăm của khách đẹp hơn bằng cách nói cụ thể:
+“Mình chỉnh lại form theo tay/đùi/ngực để đúng tỉ lệ.”
+“Mình chỉnh độ dày nét, cách đánh bóng, tô màu sao cho đẹp hơn hình cũ.”
+Tăng giá trị bằng bằng chứng xã hội:
+Gửi các mẫu khách cũ yêu cầu và bạn đã biến nó thành tác phẩm mới r a sao
+Gửi các hình bạn từng xăm cùng chủ đề với khách đang hỏi
+BƯỚC 4 – B ÂY GIỜ MỚI B ÁO GIÁ
+Khi khách đã:
+Chọn ý tưởng
+Chọn vị trí
+Chọn kích thước
+Được kích thích mong muốn
+Được gia tăng giá trị hình xăm
+Lúc này mới báo giá.
+Ví dụ:
+“Với kích thước đó, chi phí khoảng 1–1.5 triệu. Mình sẽ thiết k ế riêng theo form
+cơ thể bạn.”
+193
+
+========== TRANG 194/202 ==========
+Lưu ý:
+Luôn báo khoảng giá
+Không báo giá cứng
+BƯỚC 5 – CHỐ T LỊCH NGA Y
+Đây là bước quan tr ọng nhất.
+“Mình còn lịch tr ống thứ 7 tuần này và thứ 5 tuần sau. Bạn muốn xăm ngày
+nào?”
+Đừng hỏi: “Bạn có muốn đặt lịch không?”
+Hãy đưa lựa chọn. T ạo sự khan hiếm, tạo giá trị cho bản thân.
+Nếu khách bận, lúc đó mới đổi theo thỏa thuận hai bên.
+Sau đó:
+“Bạn cọc trước 30% để mình lên thiết k ế riêng cho bạn nhé.”
+Chuẩn hóa:
+Chính sách thay đổi thiết k ế
+Chính sách cọc r õ ràng
+Chính sách đổi lịch r õ ràng
+Khách thấy chuyên nghiệp → yên tâm.
+4. Vì sao cách này hiệu quả?
+Vì lúc này khách đã:
+Thấy giá trị
+Muốn hình xăm
+Tin bạn
+Giá không còn là số tiền.
+Nó tr ở thành khoản đầu tư .
+Một sự thật quan tr ọng:
+Một phần khách biến mất không phải vì bạn báo giá sai, mà vì họ không đủ
+tiền.
+Đây là bình thường. Mục tiêu không phải chốt tất cả khách.
+Mục tiêu là chốt đúng khách .
+194
+
+========== TRANG 195/202 ==========
+5. Bí quyết tăng tỷ lệ chốt: Hẹn gặp trực tiếp
+Gặp trực tiếp giúp bạn kiểm soát tâm lý khách hàng.
+Hãy cho họ biết:
+Tiệm xăm của bạn
+Cách bạn phục vụ
+Nếu là tiệm xăm lớn:
+Mời họ tham quan phòng xăm
+Cho x em tác phẩm các artist khác đang làm
+Giới thiệu quy trình xăm và an toàn y tế
+Mời họ ngồi uống nước, ăn hoa quả (không nên đứng nói chuyện).
+Sau đó áp dụng các bước tr ên.
+Ở bước 2 và bước 3. Hãy sử dụng khả năng sáng tạo, thiết k ế, phác thảo trực
+tiếp cho khách x em. Auto là khách muốn xăm luôn. Lúc đó giá cả không còn
+quan tr ọng nữa.
+Giống như việc bạn đi mua quần áo, đã mặc thử lên người và thấy đẹp thì có
+đắt 1 chút bạn vẫn mua.
+6. Khách từ chối – xử lý thế nào?
+Khách từ chối thường vì:
+Giá quá cao
+Không đủ tiền
+Suy nghĩ thêm
+Bạn phải xác định đúng loại, mới xử lý đúng.
+Công thức xử lý từ chối: L.A.E.R
+L – Listen (Lắng nghe)
+A – Ackno wledge (Công nhận)
+E – Explor e (Tìm lý do thật)
+R – Respond (Phản hồi)
+KHÔNG phản bác ngay .
+Trường hợp 1: T ừ chối vì “ giá cao ”
+Khách: “Giá cao quá.”
+Sai lầm: giảm giá ngay .
+Đúng:
+Bước 1 – Công nhận:
+“Mình hiểu, vì hình xăm là thứ đi theo mình lâu dài.”
+Bước 2 – T ăng giá trị:
+“Điều quan tr ọng nhất là khi lành vẫn sắc nét và không phải sửa lại.”
+“Với hình này mình sẽ chỉnh form riêng theo cơ thể bạn để khi xăm lên tự
+nhiên và giữ lâu dài. Mục tiêu là sau nhiều năm bạn vẫn hài lòng.”
+Bước 3 – Chốt lại bằng lựa chọn:
+“Bạn muốn thay đổi kích thước hay chỉnh thiết k ế chỗ nào để mình tối ưu lại
+cho?”
+195
+
+========== TRANG 196/202 ==========
+“Bạn muốn giữ chất lượng tốt nhất hay tối ưu chi phí hơn một
+chút, mình chỉnh lại cho bạn.”
+Đòn bẩy: chuyển từ giá → kết quả.
+Trường hợp 2: “Để suy nghĩ thêm”
+Đây là từ chối phổ biến nhất. Lý do thật: chưa đủ cảm xúc.
+Cách xử lý:
+Dạ đúng, xăm hình cần suy nghĩ kỹ.
+Bạn cho thể cho mình biết bạn đang suy nghĩ thêm về điều gì
+không.
+Bạn đang phân vân về thiết kế, vị trí hay chi phí? Mình hỗ trợ rõ
+hơn phần đó nhé?
+Khách sẽ nói lý do thật → bạn xử lý đúng lý do.
+Trường hợp 3: “Em không đủ tiền”
+Sai lầm:
+Giảm giá ngay
+Hoặc im lặng
+Tư duy đúng:
+Khách không đủ tiền tại thời điểm này không có nghĩa là họ không
+muốn xăm.
+Bạn hỏi:
+Nếu bạn đủ tiền thì bạn có xăm hình này không? ( nên dùng )
+Nếu chi phí không phải vấn đề, bạn có muốn xăm hình này
+không?
+Đương nhiên là khách sẽ gật đầu đồng ý.
+Bạn có thể nói:
+“Để trả một lần hết 30 triệu kín lưng thì đúng là áp lực. Mình có
+thể chia theo từng đợt, mỗi đợt 5 triệu.”
+“Như vậy bạn vừa sở hữu hình đẹp, vừa không bị áp lực tài
+chính.”
+“Trong tuần tới bạn rảnh ngày nào, mình làm buổi đầu tiên?”
+Đừng hỏi: “Bạn thấy sao?”
+Hãy hỏi: “Bạn rảnh ngày nào?”
+Luôn đưa họ vào lựa chọn.
+196
+
+========== TRANG 197/202 ==========
+7. Xử lý từ chối trước khi bị từ chối
+ Hãy làm chủ cuộc chơi, mời họ đến tư vấn trực tiếp là cách chốt lịch nhanh
+nhất. Cho khách miêu tả hết những thứ họ muốn tr ong hình xăm (hình
+chính/phụ, chi tiết).
+Sau đó định hướng để tác phẩm đẹp hơn, tr ánh tình tr ạng sau này khách nói
+“để suy nghĩ thêm ” hoặc đổi ý .
+Trong bước tư vấn, bạn có thể k ể câu chuyện:
+Kể câu chuyện trước đây có anh khách xăm hình này giá thế này bị lỗi r ất nhiều,
+bây giờ muốn sửa lại thì chi phí r ất cao mà k o thể đẹp như là xăm 1 hình mới.
+Sau đó hãy cho họ thấy tác phẩm của bạn chất lượng như thế nào.
+ 
+Bạn đang định hướng tâm lý trước, tr ánh trường hợp họ chê giá cao.
+KẾT LUẬN CHƯƠNG 3
+Mark eting giỏi giúp bạn có khách hỏi giá.
+Tư vấn giỏi giúp bạn có tiền.
+Đừng là người:
+Lên xu hướng nhưng không có lịch.
+Hãy làm chủ cuộc tư vấn:
+Dẫn dắt
+Tăng giá trị
+Chốt đúng lúc
+197
+
+========== TRANG 198/202 ==========
+Sự thật nhiều thợ xăm không nhận r a
+Bạn không thiếu khách.
+Bạn chỉ thiếu doanh thu tr ên mỗi khách .
+Một khách xăm 2 triệu rồi r ời đi.
+Trong khi khách đó hoàn toàn có thể mang lại cho bạn:
+10 triệu
+20 triệu
+Thậm chí 50 triệu tr ong 2–3 năm
+Khác biệt nằm ở:
+Bạn có biết upsell hay không.
+1. Upsell không phải là ép khách mua thêmCHƯƠNG 4: BÍ QUYẾT UPSELL
+Đây là hiểu lầm lớn nhất.
+Upsell đúng nghĩa là:
+Giúp khách có tr ải nghiệm tr ọn vẹn hơn.
+Nếu họ đã thích phong cách đó, tại sao bạn không giúp họ xây dựng 1 ý tưởng
+hoàn chỉnh?
+Nếu họ đã xăm một hình nhỏ, tại sao không giúp họ lên k ế hoạch cho các bản
+lớn?
+Bạn đang nâng cấp giá trị.
+Không phải moi thêm tiền.
+198
+
+========== TRANG 199/202 ==========
+2. Thời điểm vàng để upsell
+Upsell không phải muốn nói lúc nào cũng được.
+Có 3 thời điểm cực mạnh:
+Thời điểm 1: T rong lúc xăm (gieo hạt)
+Khi khách đang ngồi xăm, cảm xúc đang cao. Bạn có thể hỏi:
+“Hình thứ 2 bạn muốn xăm là gì, ở vị trí nào?”
+“Bạn thích những hình như thế này để cho cả bộ cùng một chủ đề luôn
+không?”
+Không bán ngay . Chỉ gieo ý tưởng.
+Não khách bắt đầu tưởng tượng.
+Thời điểm 2: Khi khách vừa nhìn thấy k ết quả
+Đây là lúc dopamine cao nhất. Họ soi gương, hài lòng.
+Bạn có thể nói:
+“Nếu mình thêm một hình ở vị trí này , tổng thể sẽ cân đối hơn r ất nhiều.”
+“Nếu bạn làm full tay theo chủ đề này thì sẽ cực kỳ ấn tượng.”
+Đừng nói về giá.
+Nói về tổng thể .
+Ví dụ:
+Xăm 1 hình Nhật → gợi ý full tay Nhật
+Xăm 1 hình mini → gợi ý bộ 3 hình nhỏ liên k ết
+Con người thích sự tr ọn vẹn.
+Một hình riêng lẻ chưa tạo cảm giác “ đã”.
+Rất nhiều khách đã xăm tiếp ngay sau khi x ong hình thứ nhất sau khi upsell, dù
+ban đầu họ chỉ định xăm một hình.
+Thời điểm 3: 30 ngày sau khi lành
+Khi họ đã nhận được lời khen từ người khác, hãy nhắn:
+“Hình lành r ất đẹp. Nếu bạn muốn phát triển thành bộ, mình có vài mẫu r ất
+hợp với hình kia.”
+Gửi ảnh ghép thử.
+Bạn đang kích hoạt họ xăm thêm.
+3. Sai lầm khi upsell
+Nói về tiền quá sớm
+Giảm giá để khách làm thêm
+Ép khách khi họ chưa hài lòng hình đầu
+Không có hình mẫu minh họa
+Upsell phải dựa tr ên cảm xúc cao, không phải áp lực.
+199
+
+========== TRANG 200/202 ==========
+Mục tiêu không chỉ là chăm sóc da.
+Mục tiêu là tạo cảm giác:
+Được quan tâm
+Được bảo vệ
+Được đồng hành
+Bạn cần làm đúng 3 giai đoạn.
+GIAI ĐOẠN 1: 0–24 GIỜ SAU XĂM
+1) Giải thích r õ cách chăm sóc (trực tiếp)
+Nói r õ:
+Khi nào tháo băng
+Khi nào rửa
+Khi nào bôi dưỡng
+Cần kiêng gì
+Đừng chỉ nói, khách sẽ quên.
+Ngay khi khách về, gửi tin nhắn:
+“Đây là hướng dẫn chăm sóc chi tiết mình gửi bạn. Bạn chỉ cần làm đúng là
+hình sẽ lành đẹp.”
+Gửi k èm video bạn đã làm tr ên TikT ok:
+Vừa chuyên nghiệp, vừa tăng vie w cho k ênh.
+GIAI ĐOẠN 2: 3 NGÀY ĐẦU (TẠO GẮN KẾT)
+Ngày 2–3: Chủ động nhắn trước
+“Hình xăm hôm nay thế nào rồi? Bạn gửi mình x em để mình kiểm tr a giúp
+nhé.”
+Đây là đòn bẩy cực mạnh.
+Khách cảm thấy: “ Anh thợ này quan tâm thật.”
+Ngày 5: Nhắn lần 2
+“Giai đoạn này có thể bong nhẹ, đó là bình thường. Bạn cứ chăm sóc như
+mình hướng dẫn.”
+Bạn đang:
+Giải tỏa lo lắng
+Tăng tin tưởng
+Tạo k ết nối cảm xúcCHƯƠNG 5
+CHĂM SÓC SAU XĂM – GIỮ KHÁCH, TẠO NIỀM TIN,
+TĂNG DOANH THU
+200
+
+========== TRANG 201/202 ==========
+GIAI ĐOẠN 3: SAU 30 NGÀY (GIỮ KHÁCH MẠNH NHẤT)
+Đây là bước nhiều người bỏ qua, nhưng đây là bước tạo tiền.
+Nhắn:
+“Hình xăm của bạn giờ đã lành hoàn toàn. Bạn gửi mình x em k ết quả nhé.”
+Sau đó:
+“Hình lành r ất đẹp. Mình thấy một số mẫu này hợp với hình kia lắm.”
+(Gửi ảnh ghép thử lên cơ thể họ)
+Bạn đang mở cửa cho lần xăm tiếp theo.
+Bảo hành: Nếu cần – hãy làm ngay
+Một lần bảo hành miễn phí có thể đổi lấy 3–4 lần quay lại.
+Đừng tiếc.
+Xin lời giới thiệu – đòn bẩy miễn phí mạnh nhất
+Thời điểm vàng để xin giới thiệu:
+Sau khi xăm x ong
+Sau 20–30 ngày khi hình lành đẹp
+Ví dụ:
+“Nếu bạn có bạn bè đang muốn xăm, giới thiệu giúp mình nhé.”
+Đừng ngại.
+Người khác không làm điều này . Bạn làm → bạn hơn họ.
+Ngay cả khi khách từ chối xăm, bạn vẫn có thể nói:
+“Nếu anh biết ai có nhu cầu xăm hình, giới thiệu giúp em nhé.”
+Bạn đừng sợ mất thứ bạn không có.
+Vì thế hãy xin lời giới thiệu mọi lúc, mọi nơi
+Bạn ơi. Nếu bạn biết ai cần đồ xăm, xin hãy giới thiệu cho mình nhé.
+Cảm ơn bạn
+Trần Chương - Đồ xăm tr ong tầm tay
+201
+
+========== TRANG 202/202 ==========
+Lời k ết
+Nghề xăm không thiếu khách.
+Thiếu là do bạn chưa biết cách để khách tìm thấy mình .
+Nếu bạn áp dụng những điều tr ong cuốn sách này — xây pr ofile đúng, làm
+video đúng và tư vấn đúng — chỉ sau vài tháng bạn sẽ thấy sự khác biệt:
+Khách bắt đầu tìm đến bạn.
+Hãy bắt đầu ngay hôm nay:
+Chỉnh lại pr ofile
+Đăng video đầu tiên
+Xuất hiện mỗi ngày
+Kiên trì đủ lâu, bạn sẽ có một điều mà mọi thợ xăm đều muốn:
+Lịch xăm kín.
+MÓN QU À DÀNH CHO B ẠN
+Nếu bạn muốn tăng tốc nhanh hơn , tôi tặng bạn thêm một video:
+Cách chạy quảng cáo từ cơ bản đến nâng cao Facebook cho thợ xăm
+Video này sẽ giúp khách hàng lúc nào cũng nhìn thấy bạn
+Bạn sẽ là lựa chọn hàng đầu khi khách muốn xăm.
+Chúc bạn luôn kín lịch xăm .
+Trần Chương
+Trần Chương T attoo Shop
+Quét mã QR trên để xem video.
+202

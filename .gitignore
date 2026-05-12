@@ -9,3 +9,6 @@
 
 # iCloud placeholders
 *.icloud
+
+# Claude Code local config (worktrees, settings local — moi may co rieng)
+.claude/

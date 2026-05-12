@@ -226,9 +226,82 @@
   - [[wiki/learn/SSS/Phụ lục - Người chiến thắng vs Nạn nhân]] ✅ — Victor vs Victim mindset
   - [[wiki/learn/SSS/Phụ lục - Thấu hiểu khách hàng]] ✅ — "Đừng bán rượu vang" + case study rửa xe + 5 lớp tại sao
 
+## 🎨 Kiến thức xăm — Sách HACK MAP NGHỀ XĂM (`wiki/kien-thuc-xam/sach-hack-map-nghe-xam/`) ⭐
+
+> **Não cốt lõi nghề xăm** — sách 202 trang do chính anh Trần Chương viết. Ingest 2026-05-12 từ `raw/kiến thức xăm/HACK MAP NGHỀ XĂM (1).pdf`. **35 file con + 1 overview = 36 file.** Nhân viên tra cứu trả lời thợ xăm + làm content fanpage/TikTok.
+
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/sach-hack-map-nghe-xam|HACK MAP NGHỀ XĂM — Overview]] ✅ — Tóm tắt + mục lục 36 file + 3 thông điệp cốt lõi
+
+### PHẦN 1 — Kỹ thuật xăm (13 chương → 13 file)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/kim-xam|Ch.1 - Kim xăm]] (RL/RS/M1/RM, size, phi kim, taper)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/may-xam|Ch.2 - Máy xăm]] (Coil/Rotary/Pen, Stroke, Lực, Vol)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/da-va-do-sau-khi-xam|Ch.3 - Da & độ sâu]] (biểu bì/hạ bì/mỡ, 1-2mm)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/di-net|Ch.4 - Đi nét]] (cầm máy, mảnh/lớn, 6 vấn đề)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/cac-ky-thuat-xam|Ch.5 - Kỹ thuật xăm]] (tô đen/đánh bóng/chuyển tông/quả lắc/whip/rải hạt)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/pha-muc-xam|Ch.6 - Pha mực xăm]] (đi nét, tả thực, nhật cổ, xám, màu)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/scan-hinh-xam|Ch.7 - Scan hình xăm]] (4 bước + sản phẩm + 4 lý do trôi nét)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/u-te|Ch.8 - Ủ tê]] (3 bước + 4 nguyên nhân nhanh hết tê)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/freehand-hinh-xam|Ch.9 - Freehand]] (xanh lá → đỏ → xanh dương/tím)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/duong-hinh-xam|Ch.10 - Dưỡng hình xăm]] (14 ngày + miếng dán + ăn kiêng)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/chup-anh-hinh-xam|Ch.11 - Chụp ảnh xăm chống loá]] (lens + phim phân cực)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/sua-de-hinh-xam|Ch.12 - Sửa - đè hình xăm]] (màu nào, nguyên lý tấm kính, xoá xăm)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-1-ky-thuat-xam/cau-hoi-thuong-gap|Ch.13 - Câu hỏi thường gặp]] (mụn, nước mô, cháy màu, sỉn màu)
+
+### PHẦN 2 — Thiết kế hình xăm (17 bài → 17 file)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-2-thiet-ke-hinh-xam/bai-01-ve-may|Bài 1-13]] - Vẽ mây/đá/sóng/lửa/hoa đào/lá phong/hoa cúc/mẫu đơn/mặt quỷ/lân/rồng/rắn/cá
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-2-thiet-ke-hinh-xam/bai-14-net-chinh-net-phu|Bài 14 - Nét chính/phụ]] (14-18RL / 9-11RL)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-2-thiet-ke-hinh-xam/bai-15-sac-do-nen-khoi|Bài 15 - Sắc độ nền khối]] (nhật/đá tối, mây/sóng sáng)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-2-thiet-ke-hinh-xam/bai-16-bo-cuc-hinh-xam|Bài 16 - Bố cục]] (chính 60-70%, phụ + nền)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-2-thiet-ke-hinh-xam/bai-17-phoi-mau-nhat-co|Bài 17 - Phối màu nhật cổ]] ⭐ (6 cách + 5 nguyên tắc + tổng kết Phần 2)
+
+### PHẦN 3 — Marketing (5 chương → 5 file)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-3-marketing/chuong-1-xay-dung-nen-mong-tao-niem-tin|Ch.1 - Xây nền móng]] (profile/tên kênh/bio/định vị)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-3-marketing/chuong-2-xay-kenh-len-xu-huong|Ch.2 - Xây kênh lên xu hướng]] (5 nhóm nội dung + công thức viral HOOK→EMOTION→VALUE→CURIOSITY→CTA)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-3-marketing/chuong-3-quy-trinh-chot-lich-xam|Ch.3 - Quy trình chốt lịch]] (5 bước + L.A.E.R xử lý từ chối)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-3-marketing/chuong-4-bi-quyet-upsell|Ch.4 - Upsell]] (3 thời điểm vàng + sai lầm)
+- [[wiki/kien-thuc-xam/sach-hack-map-nghe-xam/phan-3-marketing/chuong-5-cham-soc-sau-xam|Ch.5 - Chăm sóc sau xăm]] (3 giai đoạn + bảo hành + xin giới thiệu)
+
+## 🎨 Kiến thức xăm — Video YouTube (`wiki/kien-thuc-xam/`)
+
+> Wiki nội bộ kỹ thuật xăm — 17 file từ kênh YouTube anh Trần Chương. Bổ sung cho sách HACK MAP — có thêm video minh hoạ cho từng kỹ thuật. Ingest trước 2026-05-12.
+
+- [[wiki/kien-thuc-xam/kien-thuc-xam|Kiến thức xăm — Mục lục]] ✅ overview 17 page + cách dùng cho nhân viên
+
+**Chuẩn bị trước xăm**:
+- [[wiki/kien-thuc-xam/u-te-truoc-khi-xam|Ủ tê trước khi xăm]] ✅ ~97% — 3 thảm họa + 8 bước chuẩn
+- [[wiki/kien-thuc-xam/scan-hinh-len-da|Scan hình lên da bám chắc keo 502]] ✅ ~97% — đo/in/vệ sinh/gel/dán/để khô
+
+**Cầm máy**:
+- [[wiki/kien-thuc-xam/cam-may-di-net|Cầm máy đi nét chuẩn không bị run]] ✅ ~97%
+- [[wiki/kien-thuc-xam/cam-may-danh-bong-vao-mau|Cầm máy đánh bóng + vào màu]] ✅ ~97% — THẢ LỎNG là cốt lõi
+
+**Tô đen**:
+- [[wiki/kien-thuc-xam/to-den-co-ban-seri-2-thang|Tô đen cơ bản — seri 2 tháng (người mới)]] ✅ ~97%
+- [[wiki/kien-thuc-xam/to-den-kim-m1|Tô đen với kim M1 (tăng gấp đôi tốc độ)]] ✅ ~97%
+- [[wiki/kien-thuc-xam/danh-bong-cong-to-den-nang-cao|Đánh bóng + tô đen nâng cao (xúc cát)]] ✅ ~97%
+
+**Đánh bóng & đánh khối Nhật cổ**:
+- [[wiki/kien-thuc-xam/danh-bong-tren-da-gia-bai-1|Đánh bóng trên da giả — Bài 1 (luyện tập)]] ✅ ~97%
+- [[wiki/kien-thuc-xam/danh-bong-nhat-co-bai-1|Đánh bóng Nhật cổ — Bài 1 (sóng)]] ✅ ~97%
+- [[wiki/kien-thuc-xam/danh-bong-nhat-co-bai-2|Đánh bóng Nhật cổ — Bài 2 (sóng chi tiết)]] ✅ ~97%
+- [[wiki/kien-thuc-xam/danh-bong-nhat-co-bai-3|Dạy đánh bóng Nhật cổ — 4 tông Master Trường Phạm]] ✅ ~96%
+- [[wiki/kien-thuc-xam/danh-bong-mang-lon|Đánh bóng mảng lớn Nhật cổ — sóng]] ✅ ~96%
+- [[wiki/kien-thuc-xam/danh-khoi-nhat-co-don-gian|Đánh khối Nhật cổ đơn giản]] ✅ ~96%
+
+**Pha mực**:
+- [[wiki/kien-thuc-xam/pha-muc-tu-mau-co-ban|Pha mực từ 5 màu cơ bản]] ✅ ~97% — vòng tròn màu sắc + set màu rồng/Fudo
+- [[wiki/kien-thuc-xam/pha-muc-xam-mau-tattoo|Pha mực tattoo theo độ đặc (30%–70% nước)]] ✅ ~97%
+
+**Vào màu**:
+- [[wiki/kien-thuc-xam/vao-mau-nhat-co|Vào màu Nhật cổ]] ✅ ~97% — kim 2,5 mm âm 1,8–2 mm
+
+**Dưỡng hậu xăm**:
+- [[wiki/kien-thuc-xam/duong-hinh-sau-khi-xam|Dưỡng hình sau khi xăm]] ✅ ~97% — film 15-20p + 2h, que lấy dưỡng, sát thương thì chờ bong mài
+
 ## 👥 Người (`wiki/people/`)
 
 - [[Phạm Thành Long]] — Mentor chính, tác giả IPS
+- [[Trần Chương]] — CEO công ty xăm, tác giả 17 video kiến thức xăm trong wiki
 
 ## 🧷 Khác
 
@@ -238,9 +311,9 @@
 
 ## 📊 Thống kê
 
-- **Tổng số page wiki:** ~147 (sau khi xoá 2 page TPCN-specific + 1 file Funnel Zalo OA)
-- **Tổng số nguồn đã ingest:** đầy đủ 19/19 khối IPS + 4DX + Kể chuyện bán hàng (3 file) + 30 Tuyệt chiêu (3 file) + SSS (2 file) + Map - BMC (1 file Business Model Canvas.docx)
+- **Tổng số page wiki:** ~201 (~165 trước + 36 page sách HACK MAP NGHỀ XĂM)
+- **Tổng số nguồn đã ingest:** đầy đủ 19/19 khối IPS + 4DX + Kể chuyện bán hàng (3 file) + 30 Tuyệt chiêu (3 file) + SSS (2 file) + Map - BMC (1 file Business Model Canvas.docx) + 17 video Kiến thức xăm YouTube + **Sách HACK MAP NGHỀ XĂM 202 trang (anh Chương)**
 - **Độ phủ wiki vs nguồn gốc:** ~95-100% trung bình (sau QA round 2). SSS Ch 9.2 DISC + Ch 13 Xin lời giới thiệu = trống trong nguồn gốc → placeholder.
-- **Trạng thái:** ✅ Wiki kiến thức kinh doanh chung đầy đủ — sẵn sàng áp dụng cho các dự án ngành xăm khi anh khai báo.
-- **Cập nhật lần cuối:** 2026-05-11 (fork từ vault TPCN sang vault XAM)
+- **Trạng thái:** ✅ Wiki kiến thức kinh doanh chung đầy đủ + ✅ Não cốt lõi nghề xăm (HACK MAP) đã có **(đã QA round 2 — pass 35/35 file ≥95%)** — nhân viên sẵn sàng tra cứu trả lời thợ xăm + làm content.
+- **Cập nhật lần cuối:** 2026-05-12 (thêm **36 page sách HACK MAP NGHỀ XĂM** của anh Trần Chương — QA round 2 ✅ PASS, độ phủ ~97-98%, đã fix 1 vấn đề mâu thuẫn nội tại sách ở chương 3)
 - **Lưu ý**: nhiều framework trong `concepts/`, `tools/`, `jobs/` còn ví dụ TPCN/xương khớp làm minh hoạ — framework đúng, ví dụ thay bằng context xăm khi áp dụng (xem CLAUDE.md mục 2).
